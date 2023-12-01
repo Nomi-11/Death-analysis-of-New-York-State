@@ -29,10 +29,16 @@ ggplot(race_counts, aes(x="", y=Freq, fill=Var1)) +
   scale_fill_brewer(palette="Pastel1") +  # Custom color palette
   labs(fill="Race or Ethnicity", title="Pie Chart of Race or Ethnicity") +
   guides(fill=guide_legend(title="Race or Ethnicity"))
-# color_palette <- brewer.pal(n = length(race_counts), name = "Set3")
-# pie(race_counts, col = color_palette ,labels = names(race_counts), main = "Pie Chart of 'Race or Ethnicity'")
 
 
-# bar
 table(death_data$Age.Group)
+# bar
+death_data$Color <- ifelse(death_data$Age.Group == "Unknown", "Unknown", "Other")
+
+ggplot(death_data, aes(x=Age.Group, fill=Color)) +
+  geom_bar() +
+  scale_fill_manual(values=c("Unknown"="steelblue", "Other"="lightblue")) +
+  labs(title="Bar Chart of Age Groups", x="Age Group", y="Count") +
+  theme_minimal() +  # Using a minimal theme for a clean look
+  guides(fill=FALSE) # Using a minimal theme for a clean look
 ```
