@@ -2,7 +2,18 @@
 
 ## Description
 
+The dataset titled "Vital Statistics Suicide Deaths by Age-Group, Race/Ethnicity, Resident Region, and Gender, Beginning 2003" is an invaluable resource provided by the New York State Department of Health and is accessible through New York State's Open Data platform at [health.data.ny.gov](https://health.data.ny.gov/Health/Vital-Statistics-Suicide-Deaths-by-Age-Group-Race-/j6fz-a4ta). This comprehensive dataset, with 4297 rows and 8 columns, is compiled primarily from death certificates, encompassing detailed information categorized by year, region, race or ethnicity, sex, age group, and the incidence of firearm and alcohol-related deaths, alongside suicide deaths. It is offered in several formats, including CSV, RDF, and XML. This variety ensures compatibility with a range of data analysis tools and software environments, allowing for flexibility in how the data is processed and analyzed. Importing this dataset begins with downloading the CSV file of the dataset from the New York State's Open Data platform. Once downloaded, the dataset can be read into R using the ‘read.csv’ function. Post-import, we perform initial inspections using functions like ‘head()’ to understand the structure and to identify any immediate issues. This step is followed by data cleaning and preprocessing, which might include handling missing values, correcting data types, or renaming columns for clarity.  
+
+
 ## Research plan
+
+For the exploration of suicide rates across different demographics: the dataset categorizes suicide deaths by age groups. This allows for an analysis of how suicide rates differ among various age brackets, enabling us to identify which age groups are most at risk. With data broken down by gender, we can compare suicide rates between males and females, uncovering any gender-specific trends or disparities in suicide occurrences. Moreover, the inclusion of race or ethnicity in the data provides an opportunity to explore how suicide rates vary among different racial and ethnic groups within New York State. This can reveal critical insights into the socio-cultural aspects that might influence these rates.  
+
+For the changes in suicide and alcohol-related deaths over time: the dataset spans multiple years, providing a temporal dimension that is key to analyzing trends over time. We can investigate whether the rates of suicide or alcohol-related deaths have increased, decreased, or remained stable across different periods. This longitudinal analysis is crucial for identifying emerging trends or the impact of public health initiatives and socio-economic changes over the years.  
+
+For the geographical distribution of suicide, alcohol-related, and firearm deaths: since the data is categorized by region, it allows for a geographical analysis of suicide, alcohol-related, and firearm deaths. We can identify which regions in New York State have higher or lower rates of these incidents. By comparing different regions within the state, we can uncover patterns that might be linked to regional characteristics, such as socio-economic factors or availability/accessibility to mental health resources.  
+
+
 
 ## Missing value analysis
 
