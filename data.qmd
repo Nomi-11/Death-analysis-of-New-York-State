@@ -14,22 +14,21 @@ For the changes in suicide and alcohol-related deaths over time: the dataset spa
 For the geographical distribution of suicide, alcohol-related, and firearm deaths: since the data is categorized by region, it allows for a geographical analysis of suicide, alcohol-related, and firearm deaths. We can identify which regions in New York State have higher or lower rates of these incidents. By comparing different regions within the state, we can uncover patterns that might be linked to regional characteristics, such as socio-economic factors or availability/accessibility to mental health resources.  
 
 
-
 ## Missing value analysis
 
-```{r}
+Two different types of missing values have been identified in two columns respectively. There are 833 ‘Not Stated’ values in the ‘Race or Ethnicity’ column and 13 ‘Unknown’ values in the ‘Age Group’ column. Since there are 833 rows with ‘Not Stated’ out of 4297 total rows, we decided to keep the  ‘Not Stated’ values as a new category along with other races. Since there are only 13 rows with ‘Unknown’ out of 4297 total rows, we decided to remove these rows from our dataset.  
+```{r, warning=FALSE}
 library(RColorBrewer)
 library(ggplot2)
 death_data <- read.csv("Death_data_NY.csv")
-sum(is.na(death_data)) #There is no NA data in the dataset
 
-# pie
+
 race_counts <- as.data.frame(table(death_data$Race.or.Ethnicity))
 
 ggplot(race_counts, aes(x="", y=Freq, fill=Var1)) +
   geom_bar(stat="identity", width=1) +
   coord_polar("y", start=0) +
-  theme_minimal() +  # Using a minimal theme
+  theme_minimal() +  
   theme(axis.line = element_blank(),
         axis.text = element_blank(),
         axis.title = element_blank(),
@@ -37,15 +36,12 @@ ggplot(race_counts, aes(x="", y=Freq, fill=Var1)) +
         panel.grid = element_blank(),
         axis.ticks = element_blank(),
         plot.title = element_text(size=22)) +
-  scale_fill_brewer(palette="Pastel1") +  # Custom color palette
+  scale_fill_brewer(palette="Pastel1") +  
   labs(fill="Race or Ethnicity", title="Pie Chart of Race or Ethnicity") +
   guides(fill=guide_legend(title="Race or Ethnicity"))
 
 
-table(death_data$Age.Group)
-# bar
 death_data$Color <- ifelse(death_data$Age.Group == "Unknown", "Unknown", "Other")
-
 ggplot(death_data, aes(x=Age.Group, fill=Color)) +
   geom_bar() +
   scale_fill_manual(values=c("Unknown"="steelblue", "Other"="lightblue")) +
