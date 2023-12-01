@@ -18,6 +18,6 @@
     "href": "data.html#missing-value-analysis",
     "title": "2  Data",
     "section": "2.2 Missing value analysis",
-    "text": "2.2 Missing value analysis"
+    "text": "2.2 Missing value analysis\n\n\nCode\ndeath_data &lt;- read.csv(\"Death_data_NY.csv\")\nhead(death_data)\n\n\n  Year Region  Race.or.Ethnicity Sex Age.Group Firearm.Deaths\n1 2020    ROS Black Non Hispanic   F     35-44              4\n2 2020    ROS Black Non Hispanic   M     35-44             31\n3 2020    ROS Black Non Hispanic   F     45-54              0\n4 2020    ROS Black Non Hispanic   M     45-54             13\n5 2020    ROS Black Non Hispanic   F     55-64              1\n6 2020    ROS Black Non Hispanic   M     55-64              7\n  Alcohol.Related.Deaths Suicide.Deaths\n1                     10              1\n2                     32              8\n3                     21              1\n4                     56              7\n5                     43              1\n6                     88              6"
   }
 ]

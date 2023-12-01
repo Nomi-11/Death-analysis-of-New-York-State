@@ -3,3 +3,8 @@
 ## Description
 
 ## Missing value analysis
+
+```{r}
+death_data <- read.csv("Death_data_NY.csv")
+head(death_data)
+```
