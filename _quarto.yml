@@ -6,11 +6,11 @@ execute:
   echo: true
 
 book:
-  title: "YOUR PROJECT TITLE"
+  title: "Death Analysis of New York State"
   author:
-    - AUTHOR1 (UNI1)
-    - AUTHOR2 (UNI2)
-  repo-url: https://github.com/YOUR_GITHUB_ACCOUNT/REPO_NAME
+    - Naomi Zhang (rz2649)
+    - Ziqi Li (zl3350)
+  repo-url: https://github.com/Nomi-11/Death-analysis-of-New-York-State
   date: today
   page-footer:
     right: |
