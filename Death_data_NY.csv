@@ -1,0 +1,4297 @@
+Year,Region,Race or Ethnicity,Sex,Age Group,Firearm Deaths,Alcohol-Related Deaths,Suicide Deaths
+2020,ROS,Black Non Hispanic,F,35-44,4,10,1
+2020,ROS,Black Non Hispanic,M,35-44,31,32,8
+2020,ROS,Black Non Hispanic,F,45-54,0,21,1
+2020,ROS,Black Non Hispanic,M,45-54,13,56,7
+2020,ROS,Black Non Hispanic,F,55-64,1,43,1
+2020,ROS,Black Non Hispanic,M,55-64,7,88,6
+2020,ROS,Black Non Hispanic,F,65-74,0,15,0
+2020,ROS,Black Non Hispanic,M,65-74,2,47,3
+2020,ROS,Black Non Hispanic,F,75-84,0,4,0
+2020,ROS,Black Non Hispanic,M,75-84,0,12,0
+2020,ROS,Black Non Hispanic,F,85+,0,6,0
+2020,ROS,Black Non Hispanic,M,85+,0,1,0
+2020,ROS,Black Non Hispanic,F,<1,0,0,0
+2020,ROS,Black Non Hispanic,M,<1,0,0,0
+2020,ROS,Black Non Hispanic,F,Total,23,112,6
+2020,ROS,Black Non Hispanic,M,Total,174,251,45
+2020,ROS,Hispanic,F,1-9,0,0,0
+2020,ROS,Hispanic,M,1-9,1,0,0
+2020,ROS,Hispanic,F,10-19,0,0,1
+2020,ROS,Hispanic,M,10-19,8,1,2
+2020,ROS,Hispanic,F,20-24,0,2,4
+2020,ROS,Hispanic,M,20-24,10,5,4
+2020,ROS,Hispanic,F,25-34,0,2,2
+2020,ROS,Hispanic,M,25-34,15,37,14
+2020,ROS,Hispanic,F,35-44,0,9,3
+2020,ROS,Hispanic,M,35-44,6,55,7
+2020,ROS,Hispanic,F,45-54,0,12,0
+2020,ROS,Hispanic,M,45-54,6,72,10
+2020,ROS,Hispanic,F,55-64,0,20,2
+2020,ROS,Hispanic,M,55-64,5,54,8
+2020,ROS,Hispanic,F,65-74,0,15,0
+2020,ROS,Hispanic,M,65-74,0,37,3
+2020,ROS,Hispanic,F,75-84,0,8,0
+2020,ROS,Hispanic,M,75-84,1,26,1
+2020,ROS,Hispanic,F,85+,0,3,0
+2020,ROS,Hispanic,M,85+,0,6,0
+2020,ROS,Hispanic,F,<1,0,0,0
+2020,ROS,Hispanic,M,<1,0,0,0
+2020,ROS,Hispanic,F,Total,0,71,12
+2020,ROS,Hispanic,M,Total,52,293,49
+2020,ROS,Not Stated,F,1-9,0,0,0
+2020,ROS,Not Stated,M,1-9,0,0,0
+2020,ROS,Not Stated,F,10-19,0,0,0
+2020,ROS,Not Stated,M,10-19,0,0,0
+2020,ROS,Not Stated,F,20-24,0,0,0
+2020,ROS,Not Stated,M,20-24,0,1,2
+2020,ROS,Not Stated,F,25-34,0,0,0
+2020,ROS,Not Stated,M,25-34,0,2,4
+2020,ROS,Not Stated,F,35-44,0,1,1
+2020,ROS,Not Stated,M,35-44,0,4,0
+2020,ROS,Not Stated,F,45-54,0,0,0
+2020,ROS,Not Stated,M,45-54,0,8,0
+2020,ROS,Not Stated,F,55-64,0,2,0
+2020,ROS,Not Stated,M,55-64,0,11,1
+2020,ROS,Not Stated,F,65-74,0,3,0
+2020,ROS,Not Stated,M,65-74,0,2,1
+2020,ROS,Not Stated,F,75-84,0,1,0
+2020,ROS,Not Stated,M,75-84,0,1,0
+2020,ROS,Not Stated,F,85+,0,1,0
+2020,ROS,Not Stated,M,85+,0,1,0
+2020,ROS,Not Stated,F,<1,0,0,0
+2020,ROS,Not Stated,M,<1,0,0,0
+2020,ROS,Not Stated,F,Total,0,8,1
+2020,ROS,Not Stated,M,Total,0,30,8
+2020,ROS,Other Non Hispanic,F,1-9,0,0,0
+2020,ROS,Other Non Hispanic,M,1-9,0,0,0
+2020,ROS,Other Non Hispanic,F,10-19,0,0,2
+2020,ROS,Other Non Hispanic,M,10-19,3,0,2
+2020,ROS,Other Non Hispanic,F,20-24,0,1,0
+2020,ROS,Other Non Hispanic,M,20-24,0,2,4
+2020,ROS,Other Non Hispanic,F,25-34,0,2,2
+2020,ROS,Other Non Hispanic,M,25-34,0,5,6
+2020,ROS,Other Non Hispanic,F,35-44,1,0,2
+2020,ROS,Other Non Hispanic,M,35-44,2,8,3
+2020,ROS,Other Non Hispanic,F,45-54,0,7,1
+2020,ROS,Other Non Hispanic,M,45-54,1,13,3
+2020,ROS,Other Non Hispanic,F,55-64,0,7,0
+2020,ROS,Other Non Hispanic,M,55-64,0,10,3
+2020,ROS,Other Non Hispanic,F,65-74,0,3,0
+2020,ROS,Other Non Hispanic,M,65-74,1,6,2
+2020,ROS,Other Non Hispanic,F,75-84,0,3,0
+2020,ROS,Other Non Hispanic,M,75-84,0,9,1
+2020,ROS,Other Non Hispanic,F,85+,0,0,0
+2020,ROS,Other Non Hispanic,M,85+,0,3,0
+2020,ROS,Other Non Hispanic,F,<1,0,0,0
+2020,ROS,Other Non Hispanic,M,<1,0,0,0
+2020,ROS,Other Non Hispanic,F,Total,1,23,7
+2020,ROS,Other Non Hispanic,M,Total,7,56,24
+2020,ROS,White Non Hispanic,F,1-9,0,0,0
+2020,ROS,White Non Hispanic,M,1-9,0,0,0
+2020,ROS,White Non Hispanic,F,10-19,0,2,8
+2020,ROS,White Non Hispanic,M,10-19,12,1,25
+2020,ROS,White Non Hispanic,F,20-24,4,4,10
+2020,ROS,White Non Hispanic,M,20-24,21,11,46
+2020,ROS,White Non Hispanic,F,25-34,7,33,29
+2020,ROS,White Non Hispanic,M,25-34,53,110,108
+2020,ROS,White Non Hispanic,F,35-44,9,85,38
+2020,ROS,White Non Hispanic,M,35-44,41,182,123
+2020,ROS,White Non Hispanic,F,45-54,4,166,47
+2020,ROS,White Non Hispanic,M,45-54,64,379,134
+2020,ROS,White Non Hispanic,F,55-64,5,260,39
+2020,ROS,White Non Hispanic,M,55-64,64,656,138
+2020,ROS,White Non Hispanic,F,65-74,9,234,32
+2020,ROS,White Non Hispanic,M,65-74,62,490,86
+2020,ROS,White Non Hispanic,F,75-84,1,128,7
+2020,ROS,White Non Hispanic,M,75-84,33,227,46
+2020,ROS,White Non Hispanic,F,85+,1,73,4
+2020,ROS,White Non Hispanic,M,85+,33,60,40
+2020,ROS,White Non Hispanic,F,<1,0,0,0
+2020,ROS,White Non Hispanic,M,<1,0,0,0
+2020,ROS,White Non Hispanic,F,Total,40,985,214
+2020,ROS,White Non Hispanic,M,Total,383,2116,746
+2020,ROS,White Non Hispanic,F,Unknown,0,0,0
+2020,ROS,White Non Hispanic,M,Unknown,0,0,0
+2020,NYC,Black Non Hispanic,F,1-9,0,0,0
+2020,NYC,Black Non Hispanic,M,1-9,1,0,0
+2020,NYC,Black Non Hispanic,F,10-19,0,0,1
+2020,NYC,Black Non Hispanic,M,10-19,19,0,4
+2020,NYC,Black Non Hispanic,F,20-24,0,0,2
+2020,NYC,Black Non Hispanic,M,20-24,48,3,10
+2020,NYC,Black Non Hispanic,F,25-34,3,13,6
+2020,NYC,Black Non Hispanic,M,25-34,82,20,20
+2020,NYC,Black Non Hispanic,F,35-44,2,21,1
+2020,NYC,Black Non Hispanic,M,35-44,40,44,9
+2020,NYC,Black Non Hispanic,F,45-54,4,30,4
+2020,NYC,Black Non Hispanic,M,45-54,14,93,9
+2020,NYC,Black Non Hispanic,F,55-64,2,51,3
+2020,NYC,Black Non Hispanic,M,55-64,6,185,11
+2020,NYC,Black Non Hispanic,F,65-74,0,43,0
+2020,NYC,Black Non Hispanic,M,65-74,2,103,4
+2020,NYC,Black Non Hispanic,F,75-84,0,15,0
+2020,NYC,Black Non Hispanic,M,75-84,0,25,2
+2020,NYC,Black Non Hispanic,F,85+,0,1,0
+2020,NYC,Black Non Hispanic,M,85+,1,4,0
+2020,NYC,Black Non Hispanic,F,<1,0,0,0
+2020,NYC,Black Non Hispanic,M,<1,0,0,0
+2020,NYC,Black Non Hispanic,F,Total,11,174,17
+2020,NYC,Black Non Hispanic,M,Total,213,477,69
+2020,NYC,Hispanic,F,1-9,0,0,0
+2020,NYC,Hispanic,M,1-9,0,0,0
+2020,NYC,Hispanic,F,10-19,1,0,1
+2020,NYC,Hispanic,M,10-19,6,0,3
+2020,NYC,Hispanic,F,20-24,0,1,1
+2020,NYC,Hispanic,M,20-24,11,7,7
+2020,NYC,Hispanic,F,25-34,2,9,5
+2020,NYC,Hispanic,M,25-34,23,70,21
+2020,NYC,Hispanic,F,35-44,1,24,1
+2020,NYC,Hispanic,M,35-44,9,153,25
+2020,NYC,Hispanic,F,45-54,2,28,5
+2020,NYC,Hispanic,M,45-54,4,141,14
+2020,NYC,Hispanic,F,55-64,0,37,2
+2020,NYC,Hispanic,M,55-64,3,167,11
+2020,NYC,Hispanic,F,65-74,0,49,1
+2020,NYC,Hispanic,M,65-74,2,100,10
+2020,NYC,Hispanic,F,75-84,0,26,2
+2020,NYC,Hispanic,M,75-84,0,35,6
+2020,NYC,Hispanic,F,85+,0,15,1
+2020,NYC,Hispanic,M,85+,0,12,0
+2020,NYC,Hispanic,F,<1,0,0,0
+2020,NYC,Hispanic,M,<1,0,0,0
+2020,NYC,Hispanic,F,Total,6,189,19
+2020,NYC,Hispanic,M,Total,58,685,97
+2020,NYC,Hispanic,M,Unknown,0,0,0
+2020,NYC,Not Stated,F,1-9,0,0,0
+2020,NYC,Not Stated,M,1-9,0,0,0
+2020,NYC,Not Stated,F,10-19,0,0,1
+2020,NYC,Not Stated,M,10-19,1,0,0
+2020,NYC,Not Stated,F,20-24,0,1,0
+2020,NYC,Not Stated,M,20-24,1,2,0
+2020,NYC,Not Stated,F,25-34,0,1,3
+2020,NYC,Not Stated,M,25-34,1,5,3
+2020,NYC,Not Stated,F,35-44,0,4,1
+2020,NYC,Not Stated,M,35-44,0,11,3
+2020,NYC,Not Stated,F,45-54,0,4,0
+2020,NYC,Not Stated,M,45-54,1,14,0
+2020,NYC,Not Stated,F,55-64,0,6,0
+2020,NYC,Not Stated,M,55-64,0,18,4
+2020,NYC,Not Stated,F,65-74,0,5,0
+2020,NYC,Not Stated,M,65-74,0,20,1
+2020,NYC,Not Stated,F,75-84,0,1,1
+2020,NYC,Not Stated,M,75-84,0,4,0
+2020,NYC,Not Stated,F,85+,0,0,0
+2020,NYC,Not Stated,M,85+,0,1,0
+2020,NYC,Not Stated,F,<1,0,0,0
+2020,NYC,Not Stated,M,<1,0,0,0
+2020,NYC,Not Stated,F,Total,0,22,6
+2020,NYC,Not Stated,M,Total,4,75,12
+2020,NYC,Not Stated,F,Unknown,0,0,0
+2020,NYC,Not Stated,M,Unknown,0,0,1
+2020,NYC,Other Non Hispanic,F,1-9,0,0,0
+2020,NYC,Other Non Hispanic,M,1-9,0,0,0
+2020,NYC,Other Non Hispanic,F,10-19,0,0,1
+2020,NYC,Other Non Hispanic,M,10-19,0,1,4
+2020,NYC,Other Non Hispanic,F,20-24,0,0,0
+2020,NYC,Other Non Hispanic,M,20-24,1,0,3
+2020,NYC,Other Non Hispanic,F,25-34,0,2,7
+2020,NYC,Other Non Hispanic,M,25-34,3,5,5
+2020,NYC,Other Non Hispanic,F,35-44,0,3,1
+2020,NYC,Other Non Hispanic,M,35-44,0,14,7
+2020,NYC,Other Non Hispanic,F,45-54,0,1,0
+2020,NYC,Other Non Hispanic,M,45-54,0,22,10
+2020,NYC,Other Non Hispanic,F,55-64,0,5,5
+2020,NYC,Other Non Hispanic,M,55-64,0,24,10
+2020,NYC,Other Non Hispanic,F,65-74,0,6,6
+2020,NYC,Other Non Hispanic,M,65-74,0,15,10
+2020,NYC,Other Non Hispanic,F,75-84,0,5,0
+2020,NYC,Other Non Hispanic,M,75-84,0,11,4
+2020,NYC,Other Non Hispanic,F,85+,0,5,2
+2020,NYC,Other Non Hispanic,M,85+,0,5,2
+2020,NYC,Other Non Hispanic,F,<1,0,0,0
+2020,NYC,Other Non Hispanic,M,<1,0,0,0
+2020,NYC,Other Non Hispanic,F,Total,0,27,22
+2020,NYC,Other Non Hispanic,M,Total,4,97,55
+2020,NYC,White Non Hispanic,F,1-9,0,0,0
+2020,NYC,White Non Hispanic,M,1-9,0,0,0
+2020,NYC,White Non Hispanic,F,10-19,0,0,3
+2020,NYC,White Non Hispanic,M,10-19,1,0,3
+2020,NYC,White Non Hispanic,F,20-24,0,1,5
+2020,NYC,White Non Hispanic,M,20-24,7,3,4
+2020,NYC,White Non Hispanic,F,25-34,1,7,7
+2020,NYC,White Non Hispanic,M,25-34,7,28,18
+2020,NYC,White Non Hispanic,F,35-44,1,22,10
+2020,NYC,White Non Hispanic,M,35-44,4,57,32
+2020,NYC,White Non Hispanic,F,45-54,0,22,9
+2020,NYC,White Non Hispanic,M,45-54,5,90,24
+2020,NYC,White Non Hispanic,F,55-64,0,55,7
+2020,NYC,White Non Hispanic,M,55-64,9,128,37
+2020,NYC,White Non Hispanic,F,65-74,0,44,11
+2020,NYC,White Non Hispanic,M,65-74,5,98,17
+2020,NYC,White Non Hispanic,F,75-84,0,25,7
+2020,NYC,White Non Hispanic,M,75-84,6,42,12
+2020,NYC,White Non Hispanic,F,85+,0,17,3
+2020,NYC,White Non Hispanic,M,85+,4,15,8
+2020,NYC,White Non Hispanic,F,<1,0,0,0
+2020,NYC,White Non Hispanic,M,<1,0,0,0
+2020,NYC,White Non Hispanic,F,Total,2,193,62
+2020,NYC,White Non Hispanic,M,Total,48,461,155
+2020,NYC,White Non Hispanic,M,Unknown,0,0,0
+2020,ROS,Black Non Hispanic,F,1-9,0,0,0
+2020,ROS,Black Non Hispanic,M,1-9,0,0,0
+2020,ROS,Black Non Hispanic,F,10-19,4,0,1
+2020,ROS,Black Non Hispanic,M,10-19,24,0,2
+2020,ROS,Black Non Hispanic,F,20-24,5,1,2
+2020,ROS,Black Non Hispanic,M,20-24,36,1,6
+2020,ROS,Black Non Hispanic,F,25-34,9,12,0
+2020,ROS,Black Non Hispanic,M,25-34,61,14,13
+2019,ROS,Black Non Hispanic,F,35-44,1,8,5
+2019,ROS,Black Non Hispanic,M,35-44,17,25,6
+2019,ROS,Black Non Hispanic,F,45-54,2,15,3
+2019,ROS,Black Non Hispanic,M,45-54,3,37,4
+2019,ROS,Black Non Hispanic,F,55-64,1,25,0
+2019,ROS,Black Non Hispanic,M,55-64,3,63,4
+2019,ROS,Black Non Hispanic,F,65-74,1,11,0
+2019,ROS,Black Non Hispanic,M,65-74,5,46,2
+2019,ROS,Black Non Hispanic,F,75-84,0,8,0
+2019,ROS,Black Non Hispanic,M,75-84,1,14,1
+2019,ROS,Black Non Hispanic,F,85+,0,0,0
+2019,ROS,Black Non Hispanic,M,85+,0,4,0
+2019,ROS,Black Non Hispanic,F,<1,0,0,0
+2019,ROS,Black Non Hispanic,M,<1,0,0,0
+2019,ROS,Black Non Hispanic,F,Total,12,70,17
+2019,ROS,Black Non Hispanic,M,Total,104,209,38
+2019,ROS,Hispanic,F,1-9,0,0,0
+2019,ROS,Hispanic,M,1-9,0,0,0
+2019,ROS,Hispanic,F,10-19,2,0,3
+2019,ROS,Hispanic,M,10-19,3,0,5
+2019,ROS,Hispanic,F,20-24,1,1,1
+2019,ROS,Hispanic,M,20-24,5,4,10
+2019,ROS,Hispanic,F,25-34,0,4,2
+2019,ROS,Hispanic,M,25-34,7,13,10
+2019,ROS,Hispanic,F,35-44,0,2,0
+2019,ROS,Hispanic,M,35-44,6,40,15
+2019,ROS,Hispanic,F,45-54,0,6,3
+2019,ROS,Hispanic,M,45-54,5,49,10
+2019,ROS,Hispanic,F,55-64,0,10,1
+2019,ROS,Hispanic,M,55-64,1,44,4
+2019,ROS,Hispanic,F,65-74,0,6,0
+2019,ROS,Hispanic,M,65-74,1,15,0
+2019,ROS,Hispanic,F,75-84,0,5,0
+2019,ROS,Hispanic,M,75-84,0,10,0
+2019,ROS,Hispanic,F,85+,0,1,0
+2019,ROS,Hispanic,M,85+,1,5,1
+2019,ROS,Hispanic,F,<1,0,0,0
+2019,ROS,Hispanic,M,<1,0,0,0
+2019,ROS,Hispanic,F,Total,3,35,10
+2019,ROS,Hispanic,M,Total,29,181,55
+2019,ROS,Hispanic,M,Unknown,0,1,0
+2019,ROS,Not Stated,F,1-9,0,0,0
+2019,ROS,Not Stated,F,10-19,1,0,0
+2019,ROS,Not Stated,M,10-19,0,0,0
+2019,ROS,Not Stated,M,20-24,0,1,2
+2019,ROS,Not Stated,F,25-34,0,0,1
+2019,ROS,Not Stated,M,25-34,1,0,0
+2019,ROS,Not Stated,F,35-44,0,1,0
+2019,ROS,Not Stated,M,35-44,1,1,3
+2019,ROS,Not Stated,F,45-54,0,3,0
+2019,ROS,Not Stated,M,45-54,0,3,1
+2019,ROS,Not Stated,F,55-64,0,0,1
+2019,ROS,Not Stated,M,55-64,0,4,2
+2019,ROS,Not Stated,F,65-74,0,5,0
+2019,ROS,Not Stated,M,65-74,0,3,0
+2019,ROS,Not Stated,F,75-84,0,1,0
+2019,ROS,Not Stated,M,75-84,0,1,0
+2019,ROS,Not Stated,F,85+,0,0,0
+2019,ROS,Not Stated,M,85+,0,0,0
+2019,ROS,Not Stated,F,<1,0,0,0
+2019,ROS,Not Stated,M,<1,0,0,0
+2019,ROS,Not Stated,F,Total,1,10,2
+2019,ROS,Not Stated,M,Total,3,13,9
+2019,ROS,Not Stated,M,Unknown,1,0,1
+2019,ROS,Other Non Hispanic,F,1-9,0,0,0
+2019,ROS,Other Non Hispanic,M,1-9,0,0,0
+2019,ROS,Other Non Hispanic,F,10-19,0,0,2
+2019,ROS,Other Non Hispanic,M,10-19,2,0,3
+2019,ROS,Other Non Hispanic,F,20-24,0,1,0
+2019,ROS,Other Non Hispanic,M,20-24,1,0,4
+2019,ROS,Other Non Hispanic,F,25-34,0,1,0
+2019,ROS,Other Non Hispanic,M,25-34,2,3,5
+2019,ROS,Other Non Hispanic,F,35-44,0,1,2
+2019,ROS,Other Non Hispanic,M,35-44,0,7,3
+2019,ROS,Other Non Hispanic,F,45-54,1,7,3
+2019,ROS,Other Non Hispanic,M,45-54,1,11,3
+2019,ROS,Other Non Hispanic,F,55-64,0,5,0
+2019,ROS,Other Non Hispanic,M,55-64,1,14,4
+2019,ROS,Other Non Hispanic,F,65-74,0,3,1
+2019,ROS,Other Non Hispanic,M,65-74,0,8,0
+2019,ROS,Other Non Hispanic,F,75-84,0,1,0
+2019,ROS,Other Non Hispanic,M,75-84,0,5,0
+2019,ROS,Other Non Hispanic,F,85+,0,1,0
+2019,ROS,Other Non Hispanic,M,85+,0,2,1
+2019,ROS,Other Non Hispanic,F,<1,0,0,0
+2019,ROS,Other Non Hispanic,M,<1,0,0,0
+2019,ROS,Other Non Hispanic,F,Total,1,20,8
+2019,ROS,Other Non Hispanic,M,Total,7,50,23
+2019,ROS,White Non Hispanic,F,1-9,1,0,0
+2019,ROS,White Non Hispanic,M,1-9,0,0,0
+2019,ROS,White Non Hispanic,F,10-19,0,0,11
+2019,ROS,White Non Hispanic,M,10-19,13,1,38
+2019,ROS,White Non Hispanic,F,20-24,4,3,12
+2019,ROS,White Non Hispanic,M,20-24,21,15,64
+2019,ROS,White Non Hispanic,F,25-34,14,28,23
+2019,ROS,White Non Hispanic,M,25-34,32,72,105
+2019,ROS,White Non Hispanic,F,35-44,3,52,30
+2019,ROS,White Non Hispanic,M,35-44,42,123,117
+2019,ROS,White Non Hispanic,F,45-54,10,129,43
+2019,ROS,White Non Hispanic,M,45-54,62,280,139
+2019,ROS,White Non Hispanic,F,55-64,7,213,42
+2019,ROS,White Non Hispanic,M,55-64,80,548,172
+2019,ROS,White Non Hispanic,F,65-74,4,214,24
+2019,ROS,White Non Hispanic,M,65-74,50,462,87
+2019,ROS,White Non Hispanic,F,75-84,1,123,9
+2019,ROS,White Non Hispanic,M,75-84,40,192,50
+2019,ROS,White Non Hispanic,F,85+,3,60,4
+2019,ROS,White Non Hispanic,M,85+,23,56,32
+2019,ROS,White Non Hispanic,F,<1,0,0,0
+2019,ROS,White Non Hispanic,M,<1,0,0,0
+2019,ROS,White Non Hispanic,F,Total,47,822,198
+2019,ROS,White Non Hispanic,M,Total,363,1750,805
+2019,ROS,White Non Hispanic,M,Unknown,0,1,1
+2019,NYC,Black Non Hispanic,F,1-9,0,0,0
+2019,NYC,Black Non Hispanic,M,1-9,0,0,0
+2019,NYC,Black Non Hispanic,F,10-19,1,0,3
+2019,NYC,Black Non Hispanic,M,10-19,11,0,1
+2019,NYC,Black Non Hispanic,F,20-24,1,1,3
+2019,NYC,Black Non Hispanic,M,20-24,18,1,7
+2019,NYC,Black Non Hispanic,F,25-34,0,5,4
+2019,NYC,Black Non Hispanic,M,25-34,47,9,19
+2019,NYC,Black Non Hispanic,F,35-44,2,15,3
+2019,NYC,Black Non Hispanic,M,35-44,23,28,4
+2019,NYC,Black Non Hispanic,F,45-54,1,36,3
+2019,NYC,Black Non Hispanic,M,45-54,9,66,7
+2019,NYC,Black Non Hispanic,F,55-64,0,50,2
+2019,NYC,Black Non Hispanic,M,55-64,2,125,10
+2019,NYC,Black Non Hispanic,F,65-74,0,40,1
+2019,NYC,Black Non Hispanic,M,65-74,1,81,2
+2019,NYC,Black Non Hispanic,F,75-84,0,10,0
+2019,NYC,Black Non Hispanic,M,75-84,1,25,2
+2019,NYC,Black Non Hispanic,F,85+,0,3,0
+2019,NYC,Black Non Hispanic,M,85+,0,6,0
+2019,NYC,Black Non Hispanic,F,<1,0,0,0
+2019,NYC,Black Non Hispanic,M,<1,0,0,0
+2019,NYC,Black Non Hispanic,F,Total,5,160,19
+2019,NYC,Black Non Hispanic,M,Total,112,341,52
+2019,NYC,Hispanic,F,1-9,0,0,1
+2019,NYC,Hispanic,M,1-9,0,0,0
+2019,NYC,Hispanic,F,10-19,0,0,2
+2019,NYC,Hispanic,M,10-19,0,0,4
+2019,NYC,Hispanic,F,20-24,0,0,4
+2019,NYC,Hispanic,M,20-24,10,3,10
+2019,NYC,Hispanic,F,25-34,0,5,4
+2019,NYC,Hispanic,M,25-34,26,46,17
+2019,NYC,Hispanic,F,35-44,0,18,3
+2019,NYC,Hispanic,M,35-44,3,95,16
+2019,NYC,Hispanic,F,45-54,0,24,3
+2019,NYC,Hispanic,M,45-54,4,122,12
+2019,NYC,Hispanic,F,55-64,1,33,3
+2019,NYC,Hispanic,M,55-64,3,151,9
+2019,NYC,Hispanic,F,65-74,0,45,4
+2019,NYC,Hispanic,M,65-74,2,87,6
+2019,NYC,Hispanic,F,75-84,0,21,0
+2019,NYC,Hispanic,M,75-84,0,35,3
+2019,NYC,Hispanic,F,85+,0,8,0
+2019,NYC,Hispanic,M,85+,0,10,1
+2019,NYC,Hispanic,F,<1,0,0,0
+2019,NYC,Hispanic,M,<1,0,0,0
+2019,NYC,Hispanic,F,Total,1,154,24
+2019,NYC,Hispanic,M,Total,48,549,78
+2019,NYC,Not Stated,F,1-9,0,0,0
+2019,NYC,Not Stated,M,1-9,0,0,0
+2019,NYC,Not Stated,F,10-19,0,1,2
+2019,NYC,Not Stated,M,10-19,0,0,2
+2019,NYC,Not Stated,F,20-24,0,0,0
+2019,NYC,Not Stated,M,20-24,2,0,1
+2019,NYC,Not Stated,F,25-34,0,0,1
+2019,NYC,Not Stated,M,25-34,3,5,5
+2019,NYC,Not Stated,F,35-44,0,1,2
+2019,NYC,Not Stated,M,35-44,1,17,1
+2019,NYC,Not Stated,F,45-54,0,1,3
+2019,NYC,Not Stated,M,45-54,0,17,3
+2019,NYC,Not Stated,F,55-64,0,4,1
+2019,NYC,Not Stated,M,55-64,2,22,6
+2019,NYC,Not Stated,F,65-74,0,3,1
+2019,NYC,Not Stated,M,65-74,0,16,1
+2019,NYC,Not Stated,F,75-84,0,2,0
+2019,NYC,Not Stated,M,75-84,0,5,1
+2019,NYC,Not Stated,F,85+,0,0,0
+2019,NYC,Not Stated,M,85+,0,0,0
+2019,NYC,Not Stated,F,<1,0,0,0
+2019,NYC,Not Stated,M,<1,0,0,0
+2019,NYC,Not Stated,F,Total,0,12,10
+2019,NYC,Not Stated,M,Total,8,82,20
+2019,NYC,Not Stated,F,Unknown,0,0,0
+2019,NYC,Not Stated,M,Unknown,0,0,0
+2019,NYC,Other Non Hispanic,F,1-9,0,0,0
+2019,NYC,Other Non Hispanic,M,1-9,0,0,0
+2019,NYC,Other Non Hispanic,F,10-19,0,0,0
+2019,NYC,Other Non Hispanic,M,10-19,1,0,1
+2019,NYC,Other Non Hispanic,F,20-24,0,0,2
+2019,NYC,Other Non Hispanic,M,20-24,0,0,8
+2019,NYC,Other Non Hispanic,F,25-34,0,2,11
+2019,NYC,Other Non Hispanic,M,25-34,1,5,12
+2019,NYC,Other Non Hispanic,F,35-44,0,1,5
+2019,NYC,Other Non Hispanic,M,35-44,1,10,4
+2019,NYC,Other Non Hispanic,F,45-54,0,3,3
+2019,NYC,Other Non Hispanic,M,45-54,1,11,7
+2019,NYC,Other Non Hispanic,F,55-64,0,1,6
+2019,NYC,Other Non Hispanic,M,55-64,2,16,8
+2019,NYC,Other Non Hispanic,F,65-74,0,7,5
+2019,NYC,Other Non Hispanic,M,65-74,0,14,4
+2019,NYC,Other Non Hispanic,F,75-84,0,5,4
+2019,NYC,Other Non Hispanic,M,75-84,1,16,3
+2019,NYC,Other Non Hispanic,F,85+,0,4,2
+2019,NYC,Other Non Hispanic,M,85+,0,5,0
+2019,NYC,Other Non Hispanic,F,<1,0,0,0
+2019,NYC,Other Non Hispanic,M,<1,0,0,0
+2019,NYC,Other Non Hispanic,F,Total,0,23,38
+2019,NYC,Other Non Hispanic,M,Total,7,77,47
+2019,NYC,Other Non Hispanic,F,Unknown,0,0,0
+2019,NYC,White Non Hispanic,F,1-9,0,0,0
+2019,NYC,White Non Hispanic,M,1-9,0,0,0
+2019,NYC,White Non Hispanic,F,10-19,0,0,1
+2019,NYC,White Non Hispanic,M,10-19,2,0,3
+2019,NYC,White Non Hispanic,F,20-24,0,1,3
+2019,NYC,White Non Hispanic,M,20-24,2,0,11
+2019,NYC,White Non Hispanic,F,25-34,0,10,8
+2019,NYC,White Non Hispanic,M,25-34,3,16,28
+2019,NYC,White Non Hispanic,F,35-44,0,13,8
+2019,NYC,White Non Hispanic,M,35-44,3,56,30
+2019,NYC,White Non Hispanic,F,45-54,1,23,12
+2019,NYC,White Non Hispanic,M,45-54,3,73,30
+2019,NYC,White Non Hispanic,F,55-64,0,47,11
+2019,NYC,White Non Hispanic,M,55-64,10,133,44
+2019,NYC,White Non Hispanic,F,65-74,1,44,6
+2019,NYC,White Non Hispanic,M,65-74,5,102,22
+2019,NYC,White Non Hispanic,F,75-84,0,27,5
+2019,NYC,White Non Hispanic,M,75-84,3,32,11
+2019,NYC,White Non Hispanic,F,85+,0,7,1
+2019,NYC,White Non Hispanic,M,85+,0,13,3
+2019,NYC,White Non Hispanic,F,<1,0,0,0
+2019,NYC,White Non Hispanic,M,<1,0,0,0
+2019,NYC,White Non Hispanic,F,Total,2,172,55
+2019,NYC,White Non Hispanic,M,Total,31,425,182
+2019,NYC,White Non Hispanic,M,Unknown,0,0,0
+2019,ROS,Black Non Hispanic,F,1-9,0,0,0
+2019,ROS,Black Non Hispanic,M,1-9,0,0,0
+2019,ROS,Black Non Hispanic,F,10-19,1,0,2
+2019,ROS,Black Non Hispanic,M,10-19,11,0,2
+2019,ROS,Black Non Hispanic,F,20-24,2,0,2
+2019,ROS,Black Non Hispanic,M,20-24,19,2,8
+2019,ROS,Black Non Hispanic,F,25-34,4,3,5
+2019,ROS,Black Non Hispanic,M,25-34,45,18,11
+2018,ROS,Black Non Hispanic,F,55-64,1,31,2
+2018,ROS,Black Non Hispanic,M,55-64,2,61,2
+2018,ROS,Black Non Hispanic,F,65-74,0,15,1
+2018,ROS,Black Non Hispanic,M,65-74,0,41,5
+2018,ROS,Black Non Hispanic,F,75-84,0,6,0
+2018,ROS,Black Non Hispanic,M,75-84,0,7,0
+2018,ROS,Black Non Hispanic,F,85+,0,1,0
+2018,ROS,Black Non Hispanic,M,85+,0,1,0
+2018,ROS,Black Non Hispanic,F,<1,0,0,0
+2018,ROS,Black Non Hispanic,M,<1,0,0,0
+2018,ROS,Black Non Hispanic,F,Total,16,76,17
+2018,ROS,Black Non Hispanic,M,Total,101,162,41
+2018,ROS,Hispanic,F,1-9,0,0,0
+2018,ROS,Hispanic,M,1-9,0,0,0
+2018,ROS,Hispanic,F,10-19,0,0,1
+2018,ROS,Hispanic,M,10-19,3,0,0
+2018,ROS,Hispanic,F,20-24,0,1,0
+2018,ROS,Hispanic,M,20-24,10,3,10
+2018,ROS,Hispanic,F,25-34,0,5,3
+2018,ROS,Hispanic,M,25-34,8,19,13
+2018,ROS,Hispanic,F,35-44,0,3,3
+2018,ROS,Hispanic,M,35-44,8,26,13
+2018,ROS,Hispanic,F,45-54,0,7,0
+2018,ROS,Hispanic,M,45-54,1,36,7
+2018,ROS,Hispanic,F,55-64,1,7,0
+2018,ROS,Hispanic,M,55-64,3,36,5
+2018,ROS,Hispanic,F,65-74,0,9,1
+2018,ROS,Hispanic,M,65-74,0,34,6
+2018,ROS,Hispanic,F,75-84,0,4,1
+2018,ROS,Hispanic,M,75-84,1,11,1
+2018,ROS,Hispanic,F,85+,0,5,0
+2018,ROS,Hispanic,M,85+,1,4,1
+2018,ROS,Hispanic,F,<1,0,0,0
+2018,ROS,Hispanic,M,<1,0,0,0
+2018,ROS,Hispanic,F,Total,1,41,9
+2018,ROS,Hispanic,M,Total,35,169,56
+2018,ROS,Not Stated,F,1-9,0,0,0
+2018,ROS,Not Stated,M,1-9,0,0,0
+2018,ROS,Not Stated,F,10-19,0,0,0
+2018,ROS,Not Stated,M,10-19,0,0,0
+2018,ROS,Not Stated,F,20-24,0,0,0
+2018,ROS,Not Stated,M,20-24,0,0,0
+2018,ROS,Not Stated,F,25-34,0,0,0
+2018,ROS,Not Stated,M,25-34,0,2,2
+2018,ROS,Not Stated,F,35-44,0,0,0
+2018,ROS,Not Stated,M,35-44,1,1,0
+2018,ROS,Not Stated,F,45-54,0,2,1
+2018,ROS,Not Stated,M,45-54,1,1,4
+2018,ROS,Not Stated,F,55-64,0,0,0
+2018,ROS,Not Stated,M,55-64,0,4,1
+2018,ROS,Not Stated,F,65-74,0,2,0
+2018,ROS,Not Stated,M,65-74,1,4,0
+2018,ROS,Not Stated,F,75-84,0,1,0
+2018,ROS,Not Stated,M,75-84,0,1,0
+2018,ROS,Not Stated,F,85+,0,2,0
+2018,ROS,Not Stated,M,85+,0,0,0
+2018,ROS,Not Stated,F,<1,0,0,0
+2018,ROS,Not Stated,M,<1,0,0,0
+2018,ROS,Not Stated,F,Total,0,7,1
+2018,ROS,Not Stated,M,Total,3,13,7
+2018,ROS,Other Non Hispanic,F,1-9,0,0,0
+2018,ROS,Other Non Hispanic,M,1-9,0,0,0
+2018,ROS,Other Non Hispanic,F,10-19,0,0,2
+2018,ROS,Other Non Hispanic,M,10-19,0,0,0
+2018,ROS,Other Non Hispanic,F,20-24,0,0,2
+2018,ROS,Other Non Hispanic,M,20-24,0,1,2
+2018,ROS,Other Non Hispanic,F,25-34,0,0,0
+2018,ROS,Other Non Hispanic,M,25-34,0,5,4
+2018,ROS,Other Non Hispanic,F,35-44,0,2,0
+2018,ROS,Other Non Hispanic,M,35-44,0,4,3
+2018,ROS,Other Non Hispanic,F,45-54,0,6,2
+2018,ROS,Other Non Hispanic,M,45-54,2,8,5
+2018,ROS,Other Non Hispanic,F,55-64,0,4,0
+2018,ROS,Other Non Hispanic,M,55-64,0,13,0
+2018,ROS,Other Non Hispanic,F,65-74,0,3,1
+2018,ROS,Other Non Hispanic,M,65-74,0,4,3
+2018,ROS,Other Non Hispanic,F,75-84,0,5,0
+2018,ROS,Other Non Hispanic,M,75-84,0,3,0
+2018,ROS,Other Non Hispanic,F,85+,0,3,0
+2018,ROS,Other Non Hispanic,M,85+,0,2,1
+2018,ROS,Other Non Hispanic,F,<1,0,0,0
+2018,ROS,Other Non Hispanic,M,<1,0,1,0
+2018,ROS,Other Non Hispanic,F,Total,0,23,7
+2018,ROS,Other Non Hispanic,M,Total,2,41,18
+2018,ROS,White Non Hispanic,F,1-9,0,0,0
+2018,ROS,White Non Hispanic,M,1-9,0,0,0
+2018,ROS,White Non Hispanic,F,10-19,2,1,11
+2018,ROS,White Non Hispanic,M,10-19,21,1,42
+2018,ROS,White Non Hispanic,F,20-24,4,6,8
+2018,ROS,White Non Hispanic,M,20-24,29,11,53
+2018,ROS,White Non Hispanic,F,25-34,9,28,30
+2018,ROS,White Non Hispanic,M,25-34,41,79,111
+2018,ROS,White Non Hispanic,F,35-44,7,48,36
+2018,ROS,White Non Hispanic,M,35-44,32,123,100
+2018,ROS,White Non Hispanic,F,45-54,10,123,53
+2018,ROS,White Non Hispanic,M,45-54,60,333,152
+2018,ROS,White Non Hispanic,F,55-64,9,224,45
+2018,ROS,White Non Hispanic,M,55-64,68,583,167
+2018,ROS,White Non Hispanic,F,65-74,5,203,16
+2018,ROS,White Non Hispanic,M,65-74,56,426,98
+2018,ROS,White Non Hispanic,F,75-84,3,109,10
+2018,ROS,White Non Hispanic,M,75-84,45,185,56
+2018,ROS,White Non Hispanic,F,85+,1,56,2
+2018,ROS,White Non Hispanic,M,85+,14,72,24
+2018,ROS,White Non Hispanic,F,<1,0,0,0
+2018,ROS,White Non Hispanic,M,<1,0,0,0
+2018,ROS,White Non Hispanic,F,Total,50,798,211
+2018,ROS,White Non Hispanic,M,Total,366,1813,803
+2018,NYC,Black Non Hispanic,F,1-9,1,0,0
+2018,NYC,Black Non Hispanic,M,1-9,0,0,0
+2018,NYC,Black Non Hispanic,F,10-19,1,0,3
+2018,NYC,Black Non Hispanic,M,10-19,17,0,2
+2018,NYC,Black Non Hispanic,F,20-24,1,0,0
+2018,NYC,Black Non Hispanic,M,20-24,15,2,5
+2018,NYC,Black Non Hispanic,F,25-34,0,5,7
+2018,NYC,Black Non Hispanic,M,25-34,54,9,23
+2018,NYC,Black Non Hispanic,F,35-44,2,17,6
+2018,NYC,Black Non Hispanic,M,35-44,17,23,13
+2018,NYC,Black Non Hispanic,F,45-54,0,27,3
+2018,NYC,Black Non Hispanic,M,45-54,11,60,12
+2018,NYC,Black Non Hispanic,F,55-64,0,42,2
+2018,NYC,Black Non Hispanic,M,55-64,3,137,6
+2018,NYC,Black Non Hispanic,F,65-74,1,27,1
+2018,NYC,Black Non Hispanic,M,65-74,3,70,4
+2018,NYC,Black Non Hispanic,F,75-84,0,16,0
+2018,NYC,Black Non Hispanic,M,75-84,1,21,4
+2018,NYC,Black Non Hispanic,F,85+,0,3,0
+2018,NYC,Black Non Hispanic,M,85+,0,5,0
+2018,NYC,Black Non Hispanic,F,<1,0,0,0
+2018,NYC,Black Non Hispanic,M,<1,0,0,0
+2018,NYC,Black Non Hispanic,F,Total,6,137,22
+2018,NYC,Black Non Hispanic,M,Total,121,327,69
+2018,NYC,Hispanic,F,1-9,0,0,0
+2018,NYC,Hispanic,M,1-9,0,0,0
+2018,NYC,Hispanic,F,10-19,0,0,2
+2018,NYC,Hispanic,M,10-19,3,1,8
+2018,NYC,Hispanic,F,20-24,2,1,2
+2018,NYC,Hispanic,M,20-24,8,4,8
+2018,NYC,Hispanic,F,25-34,1,5,8
+2018,NYC,Hispanic,M,25-34,12,42,12
+2018,NYC,Hispanic,F,35-44,0,10,3
+2018,NYC,Hispanic,M,35-44,5,92,14
+2018,NYC,Hispanic,F,45-54,5,23,1
+2018,NYC,Hispanic,M,45-54,6,111,7
+2018,NYC,Hispanic,F,55-64,1,30,5
+2018,NYC,Hispanic,M,55-64,1,139,12
+2018,NYC,Hispanic,F,65-74,0,32,0
+2018,NYC,Hispanic,M,65-74,1,92,8
+2018,NYC,Hispanic,F,75-84,0,25,1
+2018,NYC,Hispanic,M,75-84,0,47,5
+2018,NYC,Hispanic,F,85+,0,8,1
+2018,NYC,Hispanic,M,85+,0,7,1
+2018,NYC,Hispanic,F,<1,0,0,0
+2018,NYC,Hispanic,M,<1,0,0,0
+2018,NYC,Hispanic,F,Total,9,134,23
+2018,NYC,Hispanic,M,Total,36,535,75
+2018,NYC,Not Stated,F,1-9,0,0,0
+2018,NYC,Not Stated,M,1-9,0,0,0
+2018,NYC,Not Stated,F,10-19,0,0,0
+2018,NYC,Not Stated,M,10-19,1,0,1
+2018,NYC,Not Stated,F,20-24,0,0,0
+2018,NYC,Not Stated,M,20-24,0,0,0
+2018,NYC,Not Stated,F,25-34,0,1,2
+2018,NYC,Not Stated,M,25-34,2,3,5
+2018,NYC,Not Stated,F,35-44,0,2,0
+2018,NYC,Not Stated,M,35-44,1,9,3
+2018,NYC,Not Stated,F,45-54,0,6,1
+2018,NYC,Not Stated,M,45-54,0,14,2
+2018,NYC,Not Stated,F,55-64,0,2,0
+2018,NYC,Not Stated,M,55-64,1,27,5
+2018,NYC,Not Stated,F,65-74,0,6,0
+2018,NYC,Not Stated,M,65-74,0,15,1
+2018,NYC,Not Stated,F,75-84,0,4,0
+2018,NYC,Not Stated,M,75-84,0,1,0
+2018,NYC,Not Stated,F,85+,0,1,0
+2018,NYC,Not Stated,M,85+,0,0,0
+2018,NYC,Not Stated,F,<1,0,0,0
+2018,NYC,Not Stated,M,<1,0,0,0
+2018,NYC,Not Stated,F,Total,0,22,3
+2018,NYC,Not Stated,M,Total,5,69,17
+2018,NYC,Other Non Hispanic,F,1-9,0,0,0
+2018,NYC,Other Non Hispanic,M,1-9,0,0,0
+2018,NYC,Other Non Hispanic,F,10-19,0,0,3
+2018,NYC,Other Non Hispanic,M,10-19,1,0,3
+2018,NYC,Other Non Hispanic,F,20-24,1,0,2
+2018,NYC,Other Non Hispanic,M,20-24,2,1,5
+2018,NYC,Other Non Hispanic,F,25-34,0,2,4
+2018,NYC,Other Non Hispanic,M,25-34,2,1,8
+2018,NYC,Other Non Hispanic,F,35-44,0,2,6
+2018,NYC,Other Non Hispanic,M,35-44,0,7,5
+2018,NYC,Other Non Hispanic,F,45-54,0,2,5
+2018,NYC,Other Non Hispanic,M,45-54,1,9,9
+2018,NYC,Other Non Hispanic,F,55-64,0,5,2
+2018,NYC,Other Non Hispanic,M,55-64,0,19,8
+2018,NYC,Other Non Hispanic,F,65-74,0,4,1
+2018,NYC,Other Non Hispanic,M,65-74,0,12,1
+2018,NYC,Other Non Hispanic,F,75-84,0,2,2
+2018,NYC,Other Non Hispanic,M,75-84,0,8,4
+2018,NYC,Other Non Hispanic,F,85+,0,7,0
+2018,NYC,Other Non Hispanic,M,85+,1,2,1
+2018,NYC,Other Non Hispanic,F,<1,0,0,0
+2018,NYC,Other Non Hispanic,M,<1,0,0,0
+2018,NYC,Other Non Hispanic,F,Total,1,24,25
+2018,NYC,Other Non Hispanic,M,Total,7,59,44
+2018,NYC,White Non Hispanic,F,1-9,0,0,0
+2018,NYC,White Non Hispanic,M,1-9,0,0,0
+2018,NYC,White Non Hispanic,F,10-19,0,0,1
+2018,NYC,White Non Hispanic,M,10-19,1,0,1
+2018,NYC,White Non Hispanic,F,20-24,0,1,3
+2018,NYC,White Non Hispanic,M,20-24,1,2,10
+2018,NYC,White Non Hispanic,F,25-34,1,12,11
+2018,NYC,White Non Hispanic,M,25-34,4,27,20
+2018,NYC,White Non Hispanic,F,35-44,1,16,4
+2018,NYC,White Non Hispanic,M,35-44,11,44,30
+2018,NYC,White Non Hispanic,F,45-54,1,32,9
+2018,NYC,White Non Hispanic,M,45-54,1,109,33
+2018,NYC,White Non Hispanic,F,55-64,2,36,19
+2018,NYC,White Non Hispanic,M,55-64,12,146,66
+2018,NYC,White Non Hispanic,F,65-74,0,41,10
+2018,NYC,White Non Hispanic,M,65-74,3,106,13
+2018,NYC,White Non Hispanic,F,75-84,0,25,4
+2018,NYC,White Non Hispanic,M,75-84,2,36,11
+2018,NYC,White Non Hispanic,F,85+,0,11,3
+2018,NYC,White Non Hispanic,M,85+,6,9,12
+2018,NYC,White Non Hispanic,F,<1,0,0,0
+2018,NYC,White Non Hispanic,M,<1,0,0,0
+2018,NYC,White Non Hispanic,F,Total,5,174,64
+2018,NYC,White Non Hispanic,M,Total,41,479,196
+2018,ROS,Black Non Hispanic,F,1-9,0,0,0
+2018,ROS,Black Non Hispanic,M,1-9,1,0,0
+2018,ROS,Black Non Hispanic,F,10-19,1,0,2
+2018,ROS,Black Non Hispanic,M,10-19,11,0,5
+2018,ROS,Black Non Hispanic,F,20-24,4,0,3
+2018,ROS,Black Non Hispanic,M,20-24,25,0,7
+2018,ROS,Black Non Hispanic,F,25-34,6,2,5
+2018,ROS,Black Non Hispanic,M,25-34,32,6,9
+2018,ROS,Black Non Hispanic,F,35-44,1,6,1
+2018,ROS,Black Non Hispanic,M,35-44,26,10,7
+2018,ROS,Black Non Hispanic,F,45-54,3,15,3
+2018,ROS,Black Non Hispanic,M,45-54,4,36,6
+2017,ROS,Black Non Hispanic,F,55-64,0,20,0
+2017,ROS,Black Non Hispanic,M,55-64,3,57,2
+2017,ROS,Black Non Hispanic,F,65-74,0,13,0
+2017,ROS,Black Non Hispanic,M,65-74,1,43,2
+2017,ROS,Black Non Hispanic,F,75-84,0,7,0
+2017,ROS,Black Non Hispanic,M,75-84,0,10,0
+2017,ROS,Black Non Hispanic,F,85+,0,2,0
+2017,ROS,Black Non Hispanic,M,85+,0,3,1
+2017,ROS,Black Non Hispanic,F,<1,0,0,0
+2017,ROS,Black Non Hispanic,M,<1,0,0,0
+2017,ROS,Black Non Hispanic,F,Total,4,76,15
+2017,ROS,Black Non Hispanic,M,Total,99,167,40
+2017,ROS,Hispanic,F,1-9,0,0,0
+2017,ROS,Hispanic,M,1-9,0,1,0
+2017,ROS,Hispanic,F,10-19,0,0,0
+2017,ROS,Hispanic,M,10-19,8,0,5
+2017,ROS,Hispanic,F,20-24,0,1,1
+2017,ROS,Hispanic,M,20-24,7,2,7
+2017,ROS,Hispanic,F,25-34,1,1,2
+2017,ROS,Hispanic,M,25-34,10,18,5
+2017,ROS,Hispanic,F,35-44,0,4,1
+2017,ROS,Hispanic,M,35-44,9,33,11
+2017,ROS,Hispanic,F,45-54,1,9,8
+2017,ROS,Hispanic,M,45-54,1,35,8
+2017,ROS,Hispanic,F,55-64,0,9,1
+2017,ROS,Hispanic,M,55-64,1,51,2
+2017,ROS,Hispanic,F,65-74,0,10,1
+2017,ROS,Hispanic,M,65-74,0,28,2
+2017,ROS,Hispanic,F,75-84,0,6,0
+2017,ROS,Hispanic,M,75-84,0,6,0
+2017,ROS,Hispanic,F,85+,0,6,0
+2017,ROS,Hispanic,M,85+,0,3,0
+2017,ROS,Hispanic,F,<1,0,0,0
+2017,ROS,Hispanic,M,<1,0,0,0
+2017,ROS,Hispanic,F,Total,2,46,14
+2017,ROS,Hispanic,M,Total,36,177,40
+2017,ROS,Not Stated,M,1-9,0,0,0
+2017,ROS,Not Stated,F,10-19,0,0,1
+2017,ROS,Not Stated,M,10-19,0,0,1
+2017,ROS,Not Stated,F,20-24,0,0,0
+2017,ROS,Not Stated,M,20-24,2,0,2
+2017,ROS,Not Stated,F,25-34,0,0,1
+2017,ROS,Not Stated,M,25-34,1,1,5
+2017,ROS,Not Stated,F,35-44,1,0,1
+2017,ROS,Not Stated,M,35-44,0,1,0
+2017,ROS,Not Stated,F,45-54,0,1,0
+2017,ROS,Not Stated,M,45-54,1,3,2
+2017,ROS,Not Stated,F,55-64,0,2,0
+2017,ROS,Not Stated,M,55-64,0,5,1
+2017,ROS,Not Stated,F,65-74,0,1,0
+2017,ROS,Not Stated,M,65-74,1,2,1
+2017,ROS,Not Stated,F,75-84,0,0,0
+2017,ROS,Not Stated,M,75-84,0,5,0
+2017,ROS,Not Stated,F,85+,0,0,0
+2017,ROS,Not Stated,M,85+,0,3,0
+2017,ROS,Not Stated,F,<1,0,0,0
+2017,ROS,Not Stated,M,<1,0,0,0
+2017,ROS,Not Stated,F,Total,1,4,3
+2017,ROS,Not Stated,M,Total,5,20,12
+2017,ROS,Other Non Hispanic,F,1-9,0,0,0
+2017,ROS,Other Non Hispanic,M,1-9,0,0,0
+2017,ROS,Other Non Hispanic,F,10-19,0,0,2
+2017,ROS,Other Non Hispanic,M,10-19,1,0,4
+2017,ROS,Other Non Hispanic,F,20-24,0,0,3
+2017,ROS,Other Non Hispanic,M,20-24,0,0,2
+2017,ROS,Other Non Hispanic,F,25-34,0,0,0
+2017,ROS,Other Non Hispanic,M,25-34,0,4,6
+2017,ROS,Other Non Hispanic,F,35-44,0,1,3
+2017,ROS,Other Non Hispanic,M,35-44,1,6,6
+2017,ROS,Other Non Hispanic,F,45-54,0,4,2
+2017,ROS,Other Non Hispanic,M,45-54,0,16,2
+2017,ROS,Other Non Hispanic,F,55-64,0,4,1
+2017,ROS,Other Non Hispanic,M,55-64,2,7,3
+2017,ROS,Other Non Hispanic,F,65-74,0,6,0
+2017,ROS,Other Non Hispanic,M,65-74,0,7,1
+2017,ROS,Other Non Hispanic,F,75-84,1,4,0
+2017,ROS,Other Non Hispanic,M,75-84,0,5,2
+2017,ROS,Other Non Hispanic,F,85+,0,1,0
+2017,ROS,Other Non Hispanic,M,85+,0,1,0
+2017,ROS,Other Non Hispanic,F,<1,0,0,0
+2017,ROS,Other Non Hispanic,M,<1,0,0,0
+2017,ROS,Other Non Hispanic,F,Total,1,20,11
+2017,ROS,Other Non Hispanic,M,Total,4,46,26
+2017,ROS,White Non Hispanic,F,1-9,0,0,0
+2017,ROS,White Non Hispanic,M,1-9,0,0,0
+2017,ROS,White Non Hispanic,F,10-19,2,1,15
+2017,ROS,White Non Hispanic,M,10-19,16,4,41
+2017,ROS,White Non Hispanic,F,20-24,2,7,10
+2017,ROS,White Non Hispanic,M,20-24,18,12,50
+2017,ROS,White Non Hispanic,F,25-34,6,30,27
+2017,ROS,White Non Hispanic,M,25-34,34,85,109
+2017,ROS,White Non Hispanic,F,35-44,2,46,33
+2017,ROS,White Non Hispanic,M,35-44,39,116,110
+2017,ROS,White Non Hispanic,F,45-54,8,152,45
+2017,ROS,White Non Hispanic,M,45-54,61,335,157
+2017,ROS,White Non Hispanic,F,55-64,9,211,42
+2017,ROS,White Non Hispanic,M,55-64,75,537,159
+2017,ROS,White Non Hispanic,F,65-74,4,184,25
+2017,ROS,White Non Hispanic,M,65-74,45,410,69
+2017,ROS,White Non Hispanic,F,75-84,2,107,7
+2017,ROS,White Non Hispanic,M,75-84,40,195,45
+2017,ROS,White Non Hispanic,F,85+,1,59,1
+2017,ROS,White Non Hispanic,M,85+,21,57,30
+2017,ROS,White Non Hispanic,F,<1,0,0,0
+2017,ROS,White Non Hispanic,M,<1,0,0,0
+2017,ROS,White Non Hispanic,F,Total,36,797,205
+2017,ROS,White Non Hispanic,M,Total,349,1751,770
+2017,NYC,Black Non Hispanic,F,1-9,0,0,0
+2017,NYC,Black Non Hispanic,M,1-9,0,0,0
+2017,NYC,Black Non Hispanic,F,10-19,0,0,5
+2017,NYC,Black Non Hispanic,M,10-19,12,0,4
+2017,NYC,Black Non Hispanic,F,20-24,3,0,0
+2017,NYC,Black Non Hispanic,M,20-24,30,0,8
+2017,NYC,Black Non Hispanic,F,25-34,2,5,1
+2017,NYC,Black Non Hispanic,M,25-34,42,8,22
+2017,NYC,Black Non Hispanic,F,35-44,1,26,7
+2017,NYC,Black Non Hispanic,M,35-44,20,29,13
+2017,NYC,Black Non Hispanic,F,45-54,1,34,5
+2017,NYC,Black Non Hispanic,M,45-54,8,87,11
+2017,NYC,Black Non Hispanic,F,55-64,0,50,4
+2017,NYC,Black Non Hispanic,M,55-64,3,145,12
+2017,NYC,Black Non Hispanic,F,65-74,0,21,3
+2017,NYC,Black Non Hispanic,M,65-74,1,88,2
+2017,NYC,Black Non Hispanic,F,75-84,0,11,0
+2017,NYC,Black Non Hispanic,M,75-84,0,22,0
+2017,NYC,Black Non Hispanic,F,85+,0,5,0
+2017,NYC,Black Non Hispanic,M,85+,0,3,0
+2017,NYC,Black Non Hispanic,F,<1,0,0,0
+2017,NYC,Black Non Hispanic,M,<1,0,0,0
+2017,NYC,Black Non Hispanic,F,Total,7,152,25
+2017,NYC,Black Non Hispanic,M,Total,116,382,72
+2017,NYC,Hispanic,F,1-9,0,0,0
+2017,NYC,Hispanic,M,1-9,0,0,0
+2017,NYC,Hispanic,F,10-19,1,0,2
+2017,NYC,Hispanic,M,10-19,12,1,6
+2017,NYC,Hispanic,F,20-24,1,1,0
+2017,NYC,Hispanic,M,20-24,8,5,9
+2017,NYC,Hispanic,F,25-34,3,4,4
+2017,NYC,Hispanic,M,25-34,8,49,24
+2017,NYC,Hispanic,F,35-44,1,10,2
+2017,NYC,Hispanic,M,35-44,4,92,11
+2017,NYC,Hispanic,F,45-54,2,36,6
+2017,NYC,Hispanic,M,45-54,4,130,17
+2017,NYC,Hispanic,F,55-64,0,44,1
+2017,NYC,Hispanic,M,55-64,0,143,14
+2017,NYC,Hispanic,F,65-74,0,37,3
+2017,NYC,Hispanic,M,65-74,2,94,5
+2017,NYC,Hispanic,F,75-84,0,32,0
+2017,NYC,Hispanic,M,75-84,0,29,3
+2017,NYC,Hispanic,F,85+,0,12,0
+2017,NYC,Hispanic,M,85+,1,8,1
+2017,NYC,Hispanic,F,<1,0,0,0
+2017,NYC,Hispanic,M,<1,0,0,0
+2017,NYC,Hispanic,F,Total,8,176,18
+2017,NYC,Hispanic,M,Total,39,551,90
+2017,NYC,Not Stated,F,1-9,0,0,0
+2017,NYC,Not Stated,M,1-9,0,0,0
+2017,NYC,Not Stated,F,10-19,0,0,0
+2017,NYC,Not Stated,M,10-19,0,0,0
+2017,NYC,Not Stated,F,20-24,0,0,0
+2017,NYC,Not Stated,M,20-24,0,0,0
+2017,NYC,Not Stated,F,25-34,0,1,0
+2017,NYC,Not Stated,M,25-34,0,2,0
+2017,NYC,Not Stated,F,35-44,0,2,3
+2017,NYC,Not Stated,M,35-44,1,2,2
+2017,NYC,Not Stated,F,45-54,0,1,0
+2017,NYC,Not Stated,M,45-54,1,6,3
+2017,NYC,Not Stated,F,55-64,0,3,0
+2017,NYC,Not Stated,M,55-64,0,12,1
+2017,NYC,Not Stated,F,65-74,0,0,1
+2017,NYC,Not Stated,M,65-74,0,10,0
+2017,NYC,Not Stated,F,75-84,0,0,0
+2017,NYC,Not Stated,M,75-84,0,3,1
+2017,NYC,Not Stated,F,85+,0,0,0
+2017,NYC,Not Stated,M,85+,0,0,0
+2017,NYC,Not Stated,F,<1,0,0,0
+2017,NYC,Not Stated,M,<1,0,0,0
+2017,NYC,Not Stated,F,Total,0,7,4
+2017,NYC,Not Stated,M,Total,2,35,7
+2017,NYC,Other Non Hispanic,F,1-9,0,0,0
+2017,NYC,Other Non Hispanic,M,1-9,0,0,0
+2017,NYC,Other Non Hispanic,F,10-19,0,0,1
+2017,NYC,Other Non Hispanic,M,10-19,0,0,2
+2017,NYC,Other Non Hispanic,F,20-24,0,1,3
+2017,NYC,Other Non Hispanic,M,20-24,1,0,1
+2017,NYC,Other Non Hispanic,F,25-34,1,1,6
+2017,NYC,Other Non Hispanic,M,25-34,1,4,6
+2017,NYC,Other Non Hispanic,F,35-44,0,2,4
+2017,NYC,Other Non Hispanic,M,35-44,2,12,7
+2017,NYC,Other Non Hispanic,F,45-54,0,3,5
+2017,NYC,Other Non Hispanic,M,45-54,0,17,4
+2017,NYC,Other Non Hispanic,F,55-64,0,5,2
+2017,NYC,Other Non Hispanic,M,55-64,0,26,7
+2017,NYC,Other Non Hispanic,F,65-74,0,4,2
+2017,NYC,Other Non Hispanic,M,65-74,0,17,3
+2017,NYC,Other Non Hispanic,F,75-84,0,3,0
+2017,NYC,Other Non Hispanic,M,75-84,0,7,4
+2017,NYC,Other Non Hispanic,F,85+,0,3,0
+2017,NYC,Other Non Hispanic,M,85+,0,3,1
+2017,NYC,Other Non Hispanic,F,<1,0,0,0
+2017,NYC,Other Non Hispanic,M,<1,0,0,0
+2017,NYC,Other Non Hispanic,F,Total,1,22,23
+2017,NYC,Other Non Hispanic,M,Total,4,86,35
+2017,NYC,White Non Hispanic,F,1-9,0,0,0
+2017,NYC,White Non Hispanic,M,1-9,0,0,0
+2017,NYC,White Non Hispanic,F,10-19,0,0,1
+2017,NYC,White Non Hispanic,M,10-19,0,0,0
+2017,NYC,White Non Hispanic,F,20-24,0,1,2
+2017,NYC,White Non Hispanic,M,20-24,1,3,10
+2017,NYC,White Non Hispanic,F,25-34,0,11,15
+2017,NYC,White Non Hispanic,M,25-34,6,29,36
+2017,NYC,White Non Hispanic,F,35-44,1,12,14
+2017,NYC,White Non Hispanic,M,35-44,2,48,25
+2017,NYC,White Non Hispanic,F,45-54,1,24,13
+2017,NYC,White Non Hispanic,M,45-54,7,101,43
+2017,NYC,White Non Hispanic,F,55-64,2,41,14
+2017,NYC,White Non Hispanic,M,55-64,6,143,40
+2017,NYC,White Non Hispanic,F,65-74,0,35,15
+2017,NYC,White Non Hispanic,M,65-74,7,90,17
+2017,NYC,White Non Hispanic,F,75-84,0,31,4
+2017,NYC,White Non Hispanic,M,75-84,3,27,12
+2017,NYC,White Non Hispanic,F,85+,0,17,2
+2017,NYC,White Non Hispanic,M,85+,2,11,4
+2017,NYC,White Non Hispanic,F,<1,0,0,0
+2017,NYC,White Non Hispanic,M,<1,0,0,0
+2017,NYC,White Non Hispanic,F,Total,4,172,80
+2017,NYC,White Non Hispanic,M,Total,34,452,187
+2017,ROS,Black Non Hispanic,F,1-9,0,0,0
+2017,ROS,Black Non Hispanic,M,1-9,2,0,0
+2017,ROS,Black Non Hispanic,F,10-19,0,0,2
+2017,ROS,Black Non Hispanic,M,10-19,7,0,3
+2017,ROS,Black Non Hispanic,F,20-24,1,2,3
+2017,ROS,Black Non Hispanic,M,20-24,22,3,7
+2017,ROS,Black Non Hispanic,F,25-34,3,5,4
+2017,ROS,Black Non Hispanic,M,25-34,38,15,15
+2017,ROS,Black Non Hispanic,F,35-44,0,14,3
+2017,ROS,Black Non Hispanic,M,35-44,18,8,4
+2017,ROS,Black Non Hispanic,F,45-54,0,13,3
+2017,ROS,Black Non Hispanic,M,45-54,8,28,6
+2016,ROS,Black Non Hispanic,F,55-64,0,25,0
+2016,ROS,Black Non Hispanic,M,55-64,4,55,6
+2016,ROS,Black Non Hispanic,F,65-74,0,13,1
+2016,ROS,Black Non Hispanic,M,65-74,1,32,2
+2016,ROS,Black Non Hispanic,F,75-84,0,3,0
+2016,ROS,Black Non Hispanic,M,75-84,1,7,2
+2016,ROS,Black Non Hispanic,F,85+,0,0,0
+2016,ROS,Black Non Hispanic,M,85+,0,1,0
+2016,ROS,Black Non Hispanic,F,<1,0,0,0
+2016,ROS,Black Non Hispanic,M,<1,0,0,0
+2016,ROS,Black Non Hispanic,F,Total,11,64,12
+2016,ROS,Black Non Hispanic,M,Total,112,150,50
+2016,ROS,Hispanic,F,1-9,0,0,0
+2016,ROS,Hispanic,M,1-9,0,0,0
+2016,ROS,Hispanic,F,10-19,0,0,2
+2016,ROS,Hispanic,M,10-19,3,0,5
+2016,ROS,Hispanic,F,20-24,2,2,3
+2016,ROS,Hispanic,M,20-24,3,4,5
+2016,ROS,Hispanic,F,25-34,1,3,2
+2016,ROS,Hispanic,M,25-34,16,16,9
+2016,ROS,Hispanic,F,35-44,1,4,3
+2016,ROS,Hispanic,M,35-44,9,27,8
+2016,ROS,Hispanic,F,45-54,0,8,1
+2016,ROS,Hispanic,M,45-54,4,39,11
+2016,ROS,Hispanic,F,55-64,0,16,1
+2016,ROS,Hispanic,M,55-64,2,37,5
+2016,ROS,Hispanic,F,65-74,0,6,0
+2016,ROS,Hispanic,M,65-74,1,15,2
+2016,ROS,Hispanic,F,75-84,0,13,1
+2016,ROS,Hispanic,M,75-84,1,7,1
+2016,ROS,Hispanic,F,85+,0,1,0
+2016,ROS,Hispanic,M,85+,0,2,0
+2016,ROS,Hispanic,F,<1,0,0,0
+2016,ROS,Hispanic,M,<1,0,0,0
+2016,ROS,Hispanic,F,Total,4,53,13
+2016,ROS,Hispanic,M,Total,39,147,46
+2016,ROS,Not Stated,F,1-9,0,0,0
+2016,ROS,Not Stated,M,1-9,0,0,0
+2016,ROS,Not Stated,F,10-19,0,0,0
+2016,ROS,Not Stated,M,10-19,1,0,2
+2016,ROS,Not Stated,M,20-24,0,0,0
+2016,ROS,Not Stated,F,25-34,0,1,0
+2016,ROS,Not Stated,M,25-34,0,1,2
+2016,ROS,Not Stated,F,35-44,0,1,1
+2016,ROS,Not Stated,M,35-44,2,1,0
+2016,ROS,Not Stated,F,45-54,0,1,0
+2016,ROS,Not Stated,M,45-54,2,3,2
+2016,ROS,Not Stated,F,55-64,0,0,0
+2016,ROS,Not Stated,M,55-64,0,6,0
+2016,ROS,Not Stated,F,65-74,0,1,0
+2016,ROS,Not Stated,M,65-74,1,3,1
+2016,ROS,Not Stated,F,75-84,0,1,0
+2016,ROS,Not Stated,M,75-84,0,2,0
+2016,ROS,Not Stated,F,85+,0,0,0
+2016,ROS,Not Stated,M,85+,0,0,0
+2016,ROS,Not Stated,F,<1,0,0,0
+2016,ROS,Not Stated,M,<1,0,0,0
+2016,ROS,Not Stated,F,Total,0,5,1
+2016,ROS,Not Stated,M,Total,6,16,7
+2016,ROS,Other Non Hispanic,F,1-9,0,0,0
+2016,ROS,Other Non Hispanic,M,1-9,0,0,0
+2016,ROS,Other Non Hispanic,F,10-19,0,0,0
+2016,ROS,Other Non Hispanic,M,10-19,0,0,1
+2016,ROS,Other Non Hispanic,F,20-24,0,1,3
+2016,ROS,Other Non Hispanic,M,20-24,3,1,2
+2016,ROS,Other Non Hispanic,F,25-34,0,0,4
+2016,ROS,Other Non Hispanic,M,25-34,2,1,3
+2016,ROS,Other Non Hispanic,F,35-44,0,0,3
+2016,ROS,Other Non Hispanic,M,35-44,0,4,2
+2016,ROS,Other Non Hispanic,F,45-54,0,1,1
+2016,ROS,Other Non Hispanic,M,45-54,0,10,1
+2016,ROS,Other Non Hispanic,F,55-64,0,1,1
+2016,ROS,Other Non Hispanic,M,55-64,2,7,4
+2016,ROS,Other Non Hispanic,F,65-74,0,4,0
+2016,ROS,Other Non Hispanic,M,65-74,0,7,1
+2016,ROS,Other Non Hispanic,F,75-84,1,3,2
+2016,ROS,Other Non Hispanic,M,75-84,1,4,2
+2016,ROS,Other Non Hispanic,F,85+,0,1,2
+2016,ROS,Other Non Hispanic,M,85+,0,1,0
+2016,ROS,Other Non Hispanic,F,<1,0,0,0
+2016,ROS,Other Non Hispanic,M,<1,0,0,0
+2016,ROS,Other Non Hispanic,F,Total,1,11,16
+2016,ROS,Other Non Hispanic,M,Total,8,35,16
+2016,ROS,White Non Hispanic,F,1-9,0,0,0
+2016,ROS,White Non Hispanic,M,1-9,1,0,0
+2016,ROS,White Non Hispanic,F,10-19,4,1,12
+2016,ROS,White Non Hispanic,M,10-19,18,1,44
+2016,ROS,White Non Hispanic,F,20-24,2,3,10
+2016,ROS,White Non Hispanic,M,20-24,16,23,52
+2016,ROS,White Non Hispanic,F,25-34,4,28,19
+2016,ROS,White Non Hispanic,M,25-34,39,80,94
+2016,ROS,White Non Hispanic,F,35-44,10,57,29
+2016,ROS,White Non Hispanic,M,35-44,46,122,118
+2016,ROS,White Non Hispanic,F,45-54,7,137,62
+2016,ROS,White Non Hispanic,M,45-54,75,333,160
+2016,ROS,White Non Hispanic,F,55-64,6,215,37
+2016,ROS,White Non Hispanic,M,55-64,83,567,157
+2016,ROS,White Non Hispanic,F,65-74,4,155,20
+2016,ROS,White Non Hispanic,M,65-74,63,374,85
+2016,ROS,White Non Hispanic,F,75-84,2,106,12
+2016,ROS,White Non Hispanic,M,75-84,42,160,56
+2016,ROS,White Non Hispanic,F,85+,1,44,1
+2016,ROS,White Non Hispanic,M,85+,14,55,22
+2016,ROS,White Non Hispanic,F,<1,0,0,0
+2016,ROS,White Non Hispanic,M,<1,0,0,0
+2016,ROS,White Non Hispanic,F,Total,40,746,202
+2016,ROS,White Non Hispanic,M,Total,397,1715,788
+2016,NYC,Black Non Hispanic,F,1-9,0,0,0
+2016,NYC,Black Non Hispanic,M,1-9,0,0,0
+2016,NYC,Black Non Hispanic,F,10-19,1,1,1
+2016,NYC,Black Non Hispanic,M,10-19,9,0,1
+2016,NYC,Black Non Hispanic,F,20-24,2,2,6
+2016,NYC,Black Non Hispanic,M,20-24,45,1,8
+2016,NYC,Black Non Hispanic,F,25-34,6,10,5
+2016,NYC,Black Non Hispanic,M,25-34,55,10,15
+2016,NYC,Black Non Hispanic,F,35-44,1,19,4
+2016,NYC,Black Non Hispanic,M,35-44,29,20,9
+2016,NYC,Black Non Hispanic,F,45-54,1,26,2
+2016,NYC,Black Non Hispanic,M,45-54,15,70,15
+2016,NYC,Black Non Hispanic,F,55-64,1,68,4
+2016,NYC,Black Non Hispanic,M,55-64,4,123,8
+2016,NYC,Black Non Hispanic,F,65-74,0,31,2
+2016,NYC,Black Non Hispanic,M,65-74,1,71,2
+2016,NYC,Black Non Hispanic,F,75-84,0,10,0
+2016,NYC,Black Non Hispanic,M,75-84,1,20,1
+2016,NYC,Black Non Hispanic,F,85+,0,3,0
+2016,NYC,Black Non Hispanic,M,85+,0,2,0
+2016,NYC,Black Non Hispanic,F,<1,0,1,0
+2016,NYC,Black Non Hispanic,M,<1,0,0,0
+2016,NYC,Black Non Hispanic,F,Total,12,171,24
+2016,NYC,Black Non Hispanic,M,Total,159,317,59
+2016,NYC,Hispanic,F,1-9,0,0,0
+2016,NYC,Hispanic,M,1-9,0,0,0
+2016,NYC,Hispanic,F,10-19,0,0,3
+2016,NYC,Hispanic,M,10-19,6,0,5
+2016,NYC,Hispanic,F,20-24,1,2,2
+2016,NYC,Hispanic,M,20-24,11,4,8
+2016,NYC,Hispanic,F,25-34,0,8,3
+2016,NYC,Hispanic,M,25-34,16,50,23
+2016,NYC,Hispanic,F,35-44,3,12,6
+2016,NYC,Hispanic,M,35-44,10,68,16
+2016,NYC,Hispanic,F,45-54,3,29,2
+2016,NYC,Hispanic,M,45-54,2,118,9
+2016,NYC,Hispanic,F,55-64,0,43,4
+2016,NYC,Hispanic,M,55-64,0,152,8
+2016,NYC,Hispanic,F,65-74,0,32,1
+2016,NYC,Hispanic,M,65-74,0,84,4
+2016,NYC,Hispanic,F,75-84,0,25,1
+2016,NYC,Hispanic,M,75-84,0,36,1
+2016,NYC,Hispanic,F,85+,0,14,0
+2016,NYC,Hispanic,M,85+,0,6,2
+2016,NYC,Hispanic,F,<1,0,0,0
+2016,NYC,Hispanic,M,<1,0,0,0
+2016,NYC,Hispanic,F,Total,7,165,22
+2016,NYC,Hispanic,M,Total,45,518,76
+2016,NYC,Not Stated,F,1-9,0,0,0
+2016,NYC,Not Stated,M,1-9,0,0,0
+2016,NYC,Not Stated,F,10-19,0,0,0
+2016,NYC,Not Stated,M,10-19,0,0,0
+2016,NYC,Not Stated,F,20-24,0,0,1
+2016,NYC,Not Stated,M,20-24,2,2,0
+2016,NYC,Not Stated,F,25-34,0,0,1
+2016,NYC,Not Stated,M,25-34,1,2,0
+2016,NYC,Not Stated,F,35-44,0,1,0
+2016,NYC,Not Stated,M,35-44,1,2,3
+2016,NYC,Not Stated,F,45-54,0,4,2
+2016,NYC,Not Stated,M,45-54,0,10,2
+2016,NYC,Not Stated,F,55-64,0,7,2
+2016,NYC,Not Stated,M,55-64,0,18,0
+2016,NYC,Not Stated,F,65-74,0,1,0
+2016,NYC,Not Stated,M,65-74,0,8,1
+2016,NYC,Not Stated,F,75-84,0,1,0
+2016,NYC,Not Stated,M,75-84,0,3,0
+2016,NYC,Not Stated,F,85+,0,0,0
+2016,NYC,Not Stated,M,85+,0,0,0
+2016,NYC,Not Stated,F,<1,0,1,0
+2016,NYC,Not Stated,M,<1,0,0,0
+2016,NYC,Not Stated,F,Total,0,15,6
+2016,NYC,Not Stated,M,Total,4,45,6
+2016,NYC,Other Non Hispanic,F,1-9,0,0,0
+2016,NYC,Other Non Hispanic,M,1-9,0,0,0
+2016,NYC,Other Non Hispanic,F,10-19,0,0,0
+2016,NYC,Other Non Hispanic,M,10-19,1,0,1
+2016,NYC,Other Non Hispanic,F,20-24,0,0,3
+2016,NYC,Other Non Hispanic,M,20-24,0,5,7
+2016,NYC,Other Non Hispanic,F,25-34,0,0,6
+2016,NYC,Other Non Hispanic,M,25-34,0,5,4
+2016,NYC,Other Non Hispanic,F,35-44,0,2,2
+2016,NYC,Other Non Hispanic,M,35-44,1,16,7
+2016,NYC,Other Non Hispanic,F,45-54,0,6,10
+2016,NYC,Other Non Hispanic,M,45-54,0,15,4
+2016,NYC,Other Non Hispanic,F,55-64,0,3,4
+2016,NYC,Other Non Hispanic,M,55-64,2,17,5
+2016,NYC,Other Non Hispanic,F,65-74,0,5,1
+2016,NYC,Other Non Hispanic,M,65-74,0,14,4
+2016,NYC,Other Non Hispanic,F,75-84,0,7,3
+2016,NYC,Other Non Hispanic,M,75-84,0,8,2
+2016,NYC,Other Non Hispanic,F,85+,0,4,1
+2016,NYC,Other Non Hispanic,M,85+,0,4,1
+2016,NYC,Other Non Hispanic,F,<1,0,0,0
+2016,NYC,Other Non Hispanic,M,<1,0,0,0
+2016,NYC,Other Non Hispanic,F,Total,0,27,30
+2016,NYC,Other Non Hispanic,M,Total,4,84,35
+2016,NYC,White Non Hispanic,F,1-9,0,0,0
+2016,NYC,White Non Hispanic,M,1-9,0,0,0
+2016,NYC,White Non Hispanic,F,10-19,0,0,3
+2016,NYC,White Non Hispanic,M,10-19,0,0,4
+2016,NYC,White Non Hispanic,F,20-24,1,0,5
+2016,NYC,White Non Hispanic,M,20-24,3,7,5
+2016,NYC,White Non Hispanic,F,25-34,4,9,16
+2016,NYC,White Non Hispanic,M,25-34,3,30,17
+2016,NYC,White Non Hispanic,F,35-44,1,12,14
+2016,NYC,White Non Hispanic,M,35-44,7,49,29
+2016,NYC,White Non Hispanic,F,45-54,1,31,13
+2016,NYC,White Non Hispanic,M,45-54,3,142,32
+2016,NYC,White Non Hispanic,F,55-64,0,35,14
+2016,NYC,White Non Hispanic,M,55-64,4,149,45
+2016,NYC,White Non Hispanic,F,65-74,3,31,12
+2016,NYC,White Non Hispanic,M,65-74,4,109,20
+2016,NYC,White Non Hispanic,F,75-84,0,24,8
+2016,NYC,White Non Hispanic,M,75-84,6,45,13
+2016,NYC,White Non Hispanic,F,85+,1,16,2
+2016,NYC,White Non Hispanic,M,85+,1,11,6
+2016,NYC,White Non Hispanic,F,<1,0,0,0
+2016,NYC,White Non Hispanic,M,<1,0,0,0
+2016,NYC,White Non Hispanic,F,Total,11,158,87
+2016,NYC,White Non Hispanic,M,Total,31,542,171
+2016,ROS,Black Non Hispanic,F,1-9,0,0,0
+2016,ROS,Black Non Hispanic,M,1-9,0,0,2
+2016,ROS,Black Non Hispanic,F,10-19,5,0,2
+2016,ROS,Black Non Hispanic,M,10-19,14,0,3
+2016,ROS,Black Non Hispanic,F,20-24,0,0,1
+2016,ROS,Black Non Hispanic,M,20-24,30,3,11
+2016,ROS,Black Non Hispanic,F,25-34,5,5,5
+2016,ROS,Black Non Hispanic,M,25-34,34,12,9
+2016,ROS,Black Non Hispanic,F,35-44,1,5,3
+2016,ROS,Black Non Hispanic,M,35-44,18,9,11
+2016,ROS,Black Non Hispanic,F,45-54,0,13,0
+2016,ROS,Black Non Hispanic,M,45-54,10,31,4
+2015,ROS,Black Non Hispanic,F,65-74,0,13,1
+2015,ROS,Black Non Hispanic,M,65-74,3,27,2
+2015,ROS,Black Non Hispanic,F,75-84,0,7,0
+2015,ROS,Black Non Hispanic,M,75-84,0,11,0
+2015,ROS,Black Non Hispanic,F,85+,0,1,0
+2015,ROS,Black Non Hispanic,M,85+,1,3,1
+2015,ROS,Black Non Hispanic,F,<1,0,0,0
+2015,ROS,Black Non Hispanic,M,<1,0,0,0
+2015,ROS,Black Non Hispanic,F,Total,5,68,8
+2015,ROS,Black Non Hispanic,M,Total,117,127,43
+2015,ROS,Hispanic,F,1-9,0,0,0
+2015,ROS,Hispanic,M,1-9,0,0,0
+2015,ROS,Hispanic,F,10-19,0,1,3
+2015,ROS,Hispanic,M,10-19,1,1,2
+2015,ROS,Hispanic,F,20-24,2,0,3
+2015,ROS,Hispanic,M,20-24,6,1,4
+2015,ROS,Hispanic,F,25-34,1,1,1
+2015,ROS,Hispanic,M,25-34,9,13,10
+2015,ROS,Hispanic,F,35-44,0,5,0
+2015,ROS,Hispanic,M,35-44,2,19,5
+2015,ROS,Hispanic,F,45-54,0,5,2
+2015,ROS,Hispanic,M,45-54,0,32,4
+2015,ROS,Hispanic,F,55-64,0,12,0
+2015,ROS,Hispanic,M,55-64,2,27,7
+2015,ROS,Hispanic,F,65-74,0,7,0
+2015,ROS,Hispanic,M,65-74,1,16,2
+2015,ROS,Hispanic,F,75-84,0,4,0
+2015,ROS,Hispanic,M,75-84,1,8,2
+2015,ROS,Hispanic,F,85+,0,1,0
+2015,ROS,Hispanic,M,85+,0,2,0
+2015,ROS,Hispanic,F,<1,0,0,0
+2015,ROS,Hispanic,M,<1,0,0,0
+2015,ROS,Hispanic,F,Total,3,36,9
+2015,ROS,Hispanic,M,Total,22,119,36
+2015,ROS,Not Stated,F,1-9,0,0,0
+2015,ROS,Not Stated,M,1-9,0,0,0
+2015,ROS,Not Stated,F,10-19,0,0,0
+2015,ROS,Not Stated,M,10-19,0,0,1
+2015,ROS,Not Stated,M,20-24,0,0,0
+2015,ROS,Not Stated,F,25-34,0,0,0
+2015,ROS,Not Stated,M,25-34,1,0,2
+2015,ROS,Not Stated,F,35-44,0,1,2
+2015,ROS,Not Stated,M,35-44,2,0,1
+2015,ROS,Not Stated,F,45-54,0,3,1
+2015,ROS,Not Stated,M,45-54,1,7,0
+2015,ROS,Not Stated,F,55-64,0,2,2
+2015,ROS,Not Stated,M,55-64,1,6,0
+2015,ROS,Not Stated,F,65-74,0,1,0
+2015,ROS,Not Stated,M,65-74,0,3,1
+2015,ROS,Not Stated,F,75-84,0,0,0
+2015,ROS,Not Stated,M,75-84,0,0,0
+2015,ROS,Not Stated,F,85+,0,0,0
+2015,ROS,Not Stated,M,85+,0,0,0
+2015,ROS,Not Stated,F,<1,0,0,0
+2015,ROS,Not Stated,M,<1,0,0,0
+2015,ROS,Not Stated,F,Total,0,7,5
+2015,ROS,Not Stated,M,Total,5,16,5
+2015,ROS,Other Non Hispanic,F,1-9,0,0,0
+2015,ROS,Other Non Hispanic,M,1-9,0,0,0
+2015,ROS,Other Non Hispanic,F,10-19,0,0,0
+2015,ROS,Other Non Hispanic,M,10-19,0,0,1
+2015,ROS,Other Non Hispanic,F,20-24,0,0,1
+2015,ROS,Other Non Hispanic,M,20-24,2,0,5
+2015,ROS,Other Non Hispanic,F,25-34,0,1,2
+2015,ROS,Other Non Hispanic,M,25-34,1,0,1
+2015,ROS,Other Non Hispanic,F,35-44,0,2,1
+2015,ROS,Other Non Hispanic,M,35-44,0,3,2
+2015,ROS,Other Non Hispanic,F,45-54,0,2,0
+2015,ROS,Other Non Hispanic,M,45-54,2,12,5
+2015,ROS,Other Non Hispanic,F,55-64,0,1,5
+2015,ROS,Other Non Hispanic,M,55-64,0,5,4
+2015,ROS,Other Non Hispanic,F,65-74,0,3,0
+2015,ROS,Other Non Hispanic,M,65-74,0,7,2
+2015,ROS,Other Non Hispanic,F,75-84,0,3,0
+2015,ROS,Other Non Hispanic,M,75-84,0,1,0
+2015,ROS,Other Non Hispanic,F,85+,0,1,0
+2015,ROS,Other Non Hispanic,M,85+,0,0,0
+2015,ROS,Other Non Hispanic,F,<1,0,0,0
+2015,ROS,Other Non Hispanic,M,<1,0,0,0
+2015,ROS,Other Non Hispanic,F,Total,0,13,9
+2015,ROS,Other Non Hispanic,M,Total,5,28,20
+2015,ROS,White Non Hispanic,F,1-9,0,0,0
+2015,ROS,White Non Hispanic,M,1-9,0,0,0
+2015,ROS,White Non Hispanic,F,10-19,3,1,11
+2015,ROS,White Non Hispanic,M,10-19,14,4,36
+2015,ROS,White Non Hispanic,F,20-24,2,3,14
+2015,ROS,White Non Hispanic,M,20-24,18,19,42
+2015,ROS,White Non Hispanic,F,25-34,6,23,28
+2015,ROS,White Non Hispanic,M,25-34,38,64,98
+2015,ROS,White Non Hispanic,F,35-44,5,42,36
+2015,ROS,White Non Hispanic,M,35-44,44,124,115
+2015,ROS,White Non Hispanic,F,45-54,9,142,67
+2015,ROS,White Non Hispanic,M,45-54,69,305,162
+2015,ROS,White Non Hispanic,F,55-64,9,177,51
+2015,ROS,White Non Hispanic,M,55-64,74,522,159
+2015,ROS,White Non Hispanic,F,65-74,5,129,22
+2015,ROS,White Non Hispanic,M,65-74,52,323,84
+2015,ROS,White Non Hispanic,F,75-84,3,115,10
+2015,ROS,White Non Hispanic,M,75-84,26,169,43
+2015,ROS,White Non Hispanic,F,85+,1,45,6
+2015,ROS,White Non Hispanic,M,85+,15,57,24
+2015,ROS,White Non Hispanic,F,<1,0,0,0
+2015,ROS,White Non Hispanic,M,<1,1,0,0
+2015,ROS,White Non Hispanic,F,Total,43,677,245
+2015,ROS,White Non Hispanic,M,Total,351,1587,763
+2015,NYC,Black Non Hispanic,F,1-9,1,0,0
+2015,NYC,Black Non Hispanic,M,1-9,0,0,0
+2015,NYC,Black Non Hispanic,F,10-19,2,0,1
+2015,NYC,Black Non Hispanic,M,10-19,18,0,4
+2015,NYC,Black Non Hispanic,F,20-24,0,0,3
+2015,NYC,Black Non Hispanic,M,20-24,34,0,9
+2015,NYC,Black Non Hispanic,F,25-34,4,10,5
+2015,NYC,Black Non Hispanic,M,25-34,65,4,20
+2015,NYC,Black Non Hispanic,F,35-44,2,9,4
+2015,NYC,Black Non Hispanic,M,35-44,29,20,6
+2015,NYC,Black Non Hispanic,F,45-54,0,34,8
+2015,NYC,Black Non Hispanic,M,45-54,17,73,16
+2015,NYC,Black Non Hispanic,F,55-64,2,58,2
+2015,NYC,Black Non Hispanic,M,55-64,1,142,4
+2015,NYC,Black Non Hispanic,F,65-74,1,38,0
+2015,NYC,Black Non Hispanic,M,65-74,1,73,2
+2015,NYC,Black Non Hispanic,F,75-84,0,9,1
+2015,NYC,Black Non Hispanic,M,75-84,2,30,2
+2015,NYC,Black Non Hispanic,F,85+,0,7,0
+2015,NYC,Black Non Hispanic,M,85+,0,5,0
+2015,NYC,Black Non Hispanic,F,<1,0,0,0
+2015,NYC,Black Non Hispanic,M,<1,0,0,0
+2015,NYC,Black Non Hispanic,F,Total,12,165,24
+2015,NYC,Black Non Hispanic,M,Total,167,347,63
+2015,NYC,Hispanic,F,1-9,0,0,0
+2015,NYC,Hispanic,M,1-9,0,0,0
+2015,NYC,Hispanic,F,10-19,0,0,2
+2015,NYC,Hispanic,M,10-19,6,1,3
+2015,NYC,Hispanic,F,20-24,3,1,2
+2015,NYC,Hispanic,M,20-24,22,7,17
+2015,NYC,Hispanic,F,25-34,3,8,6
+2015,NYC,Hispanic,M,25-34,13,38,13
+2015,NYC,Hispanic,F,35-44,1,13,4
+2015,NYC,Hispanic,M,35-44,14,60,10
+2015,NYC,Hispanic,F,45-54,0,21,8
+2015,NYC,Hispanic,M,45-54,10,125,14
+2015,NYC,Hispanic,F,55-64,0,58,1
+2015,NYC,Hispanic,M,55-64,1,136,8
+2015,NYC,Hispanic,F,65-74,0,33,4
+2015,NYC,Hispanic,M,65-74,0,106,7
+2015,NYC,Hispanic,F,75-84,0,18,2
+2015,NYC,Hispanic,M,75-84,0,45,3
+2015,NYC,Hispanic,F,85+,0,9,0
+2015,NYC,Hispanic,M,85+,0,10,1
+2015,NYC,Hispanic,F,<1,0,1,0
+2015,NYC,Hispanic,M,<1,0,0,0
+2015,NYC,Hispanic,F,Total,7,162,29
+2015,NYC,Hispanic,M,Total,66,528,76
+2015,NYC,Not Stated,M,1-9,0,0,0
+2015,NYC,Not Stated,M,10-19,0,0,0
+2015,NYC,Not Stated,F,20-24,0,0,0
+2015,NYC,Not Stated,M,20-24,1,0,1
+2015,NYC,Not Stated,F,25-34,1,2,0
+2015,NYC,Not Stated,M,25-34,3,0,1
+2015,NYC,Not Stated,F,35-44,0,0,0
+2015,NYC,Not Stated,M,35-44,0,4,1
+2015,NYC,Not Stated,F,45-54,0,3,1
+2015,NYC,Not Stated,M,45-54,0,14,1
+2015,NYC,Not Stated,F,55-64,0,4,0
+2015,NYC,Not Stated,M,55-64,0,17,0
+2015,NYC,Not Stated,F,65-74,0,3,0
+2015,NYC,Not Stated,M,65-74,0,10,1
+2015,NYC,Not Stated,F,75-84,0,1,0
+2015,NYC,Not Stated,M,75-84,0,2,0
+2015,NYC,Not Stated,F,85+,0,0,0
+2015,NYC,Not Stated,M,85+,0,1,0
+2015,NYC,Not Stated,F,<1,0,0,0
+2015,NYC,Not Stated,M,<1,0,0,0
+2015,NYC,Not Stated,F,Total,1,13,1
+2015,NYC,Not Stated,M,Total,4,48,5
+2015,NYC,Other Non Hispanic,F,1-9,0,0,0
+2015,NYC,Other Non Hispanic,M,1-9,0,0,0
+2015,NYC,Other Non Hispanic,F,10-19,0,0,0
+2015,NYC,Other Non Hispanic,M,10-19,2,0,2
+2015,NYC,Other Non Hispanic,F,20-24,0,1,4
+2015,NYC,Other Non Hispanic,M,20-24,0,0,5
+2015,NYC,Other Non Hispanic,F,25-34,0,1,5
+2015,NYC,Other Non Hispanic,M,25-34,4,5,14
+2015,NYC,Other Non Hispanic,F,35-44,0,1,8
+2015,NYC,Other Non Hispanic,M,35-44,0,6,1
+2015,NYC,Other Non Hispanic,F,45-54,0,4,6
+2015,NYC,Other Non Hispanic,M,45-54,0,20,2
+2015,NYC,Other Non Hispanic,F,55-64,0,5,3
+2015,NYC,Other Non Hispanic,M,55-64,0,27,3
+2015,NYC,Other Non Hispanic,F,65-74,0,5,1
+2015,NYC,Other Non Hispanic,M,65-74,2,11,3
+2015,NYC,Other Non Hispanic,F,75-84,0,9,6
+2015,NYC,Other Non Hispanic,M,75-84,0,7,3
+2015,NYC,Other Non Hispanic,F,85+,0,3,1
+2015,NYC,Other Non Hispanic,M,85+,0,3,1
+2015,NYC,Other Non Hispanic,F,<1,0,0,0
+2015,NYC,Other Non Hispanic,M,<1,0,0,0
+2015,NYC,Other Non Hispanic,F,Total,0,29,34
+2015,NYC,Other Non Hispanic,M,Total,8,79,34
+2015,NYC,White Non Hispanic,F,1-9,0,0,0
+2015,NYC,White Non Hispanic,M,1-9,0,0,0
+2015,NYC,White Non Hispanic,F,10-19,0,2,0
+2015,NYC,White Non Hispanic,M,10-19,0,0,0
+2015,NYC,White Non Hispanic,F,20-24,0,1,3
+2015,NYC,White Non Hispanic,M,20-24,0,5,3
+2015,NYC,White Non Hispanic,F,25-34,0,7,8
+2015,NYC,White Non Hispanic,M,25-34,5,11,17
+2015,NYC,White Non Hispanic,F,35-44,2,14,15
+2015,NYC,White Non Hispanic,M,35-44,5,53,26
+2015,NYC,White Non Hispanic,F,45-54,1,22,19
+2015,NYC,White Non Hispanic,M,45-54,6,119,38
+2015,NYC,White Non Hispanic,F,55-64,0,41,20
+2015,NYC,White Non Hispanic,M,55-64,7,164,42
+2015,NYC,White Non Hispanic,F,65-74,1,36,16
+2015,NYC,White Non Hispanic,M,65-74,10,90,27
+2015,NYC,White Non Hispanic,F,75-84,0,27,3
+2015,NYC,White Non Hispanic,M,75-84,1,45,17
+2015,NYC,White Non Hispanic,F,85+,0,14,3
+2015,NYC,White Non Hispanic,M,85+,0,18,2
+2015,NYC,White Non Hispanic,F,<1,0,0,0
+2015,NYC,White Non Hispanic,M,<1,0,0,0
+2015,NYC,White Non Hispanic,F,Total,4,164,87
+2015,NYC,White Non Hispanic,M,Total,34,505,172
+2015,ROS,Black Non Hispanic,F,1-9,1,0,0
+2015,ROS,Black Non Hispanic,M,1-9,0,0,0
+2015,ROS,Black Non Hispanic,F,10-19,2,0,1
+2015,ROS,Black Non Hispanic,M,10-19,22,0,1
+2015,ROS,Black Non Hispanic,F,20-24,0,1,1
+2015,ROS,Black Non Hispanic,M,20-24,24,0,7
+2015,ROS,Black Non Hispanic,F,25-34,0,6,2
+2015,ROS,Black Non Hispanic,M,25-34,43,7,10
+2015,ROS,Black Non Hispanic,F,35-44,1,8,0
+2015,ROS,Black Non Hispanic,M,35-44,17,11,12
+2015,ROS,Black Non Hispanic,F,45-54,1,18,1
+2015,ROS,Black Non Hispanic,M,45-54,4,34,7
+2015,ROS,Black Non Hispanic,F,55-64,0,14,2
+2015,ROS,Black Non Hispanic,M,55-64,3,34,3
+2014,ROS,Black Non Hispanic,F,55-64,0,28,1
+2014,ROS,Black Non Hispanic,M,55-64,1,50,4
+2014,ROS,Black Non Hispanic,F,65-74,0,10,0
+2014,ROS,Black Non Hispanic,M,65-74,3,32,3
+2014,ROS,Black Non Hispanic,F,75-84,0,4,0
+2014,ROS,Black Non Hispanic,M,75-84,1,8,1
+2014,ROS,Black Non Hispanic,F,85+,0,3,0
+2014,ROS,Black Non Hispanic,M,85+,0,1,0
+2014,ROS,Black Non Hispanic,F,<1,0,0,0
+2014,ROS,Black Non Hispanic,M,<1,0,0,0
+2014,ROS,Black Non Hispanic,F,Total,8,65,10
+2014,ROS,Black Non Hispanic,M,Total,114,154,35
+2014,ROS,Hispanic,F,1-9,0,0,0
+2014,ROS,Hispanic,M,1-9,0,0,0
+2014,ROS,Hispanic,F,10-19,1,0,1
+2014,ROS,Hispanic,M,10-19,1,0,4
+2014,ROS,Hispanic,F,20-24,1,2,1
+2014,ROS,Hispanic,M,20-24,4,0,8
+2014,ROS,Hispanic,F,25-34,1,4,3
+2014,ROS,Hispanic,M,25-34,11,7,8
+2014,ROS,Hispanic,F,35-44,0,3,4
+2014,ROS,Hispanic,M,35-44,4,20,9
+2014,ROS,Hispanic,F,45-54,0,12,5
+2014,ROS,Hispanic,M,45-54,2,38,5
+2014,ROS,Hispanic,F,55-64,0,6,2
+2014,ROS,Hispanic,M,55-64,0,40,1
+2014,ROS,Hispanic,F,65-74,0,11,1
+2014,ROS,Hispanic,M,65-74,1,27,4
+2014,ROS,Hispanic,F,75-84,0,6,0
+2014,ROS,Hispanic,M,75-84,1,6,2
+2014,ROS,Hispanic,F,85+,0,5,0
+2014,ROS,Hispanic,M,85+,0,1,0
+2014,ROS,Hispanic,F,<1,0,0,0
+2014,ROS,Hispanic,M,<1,0,0,0
+2014,ROS,Hispanic,F,Total,3,49,17
+2014,ROS,Hispanic,M,Total,24,139,41
+2014,ROS,Not Stated,M,1-9,0,0,0
+2014,ROS,Not Stated,F,10-19,0,0,0
+2014,ROS,Not Stated,M,10-19,1,0,1
+2014,ROS,Not Stated,M,20-24,0,0,0
+2014,ROS,Not Stated,F,25-34,0,0,0
+2014,ROS,Not Stated,M,25-34,2,1,1
+2014,ROS,Not Stated,F,35-44,0,0,0
+2014,ROS,Not Stated,M,35-44,1,0,1
+2014,ROS,Not Stated,F,45-54,0,0,0
+2014,ROS,Not Stated,M,45-54,0,2,1
+2014,ROS,Not Stated,F,55-64,0,0,0
+2014,ROS,Not Stated,M,55-64,0,0,1
+2014,ROS,Not Stated,F,65-74,0,0,0
+2014,ROS,Not Stated,M,65-74,0,1,0
+2014,ROS,Not Stated,F,75-84,0,1,0
+2014,ROS,Not Stated,M,75-84,0,1,0
+2014,ROS,Not Stated,F,85+,0,0,0
+2014,ROS,Not Stated,M,85+,0,0,0
+2014,ROS,Not Stated,F,<1,0,0,0
+2014,ROS,Not Stated,M,<1,0,0,0
+2014,ROS,Not Stated,F,Total,0,1,0
+2014,ROS,Not Stated,M,Total,4,5,5
+2014,ROS,Other Non Hispanic,F,1-9,0,0,0
+2014,ROS,Other Non Hispanic,M,1-9,0,0,0
+2014,ROS,Other Non Hispanic,F,10-19,0,0,0
+2014,ROS,Other Non Hispanic,M,10-19,0,0,1
+2014,ROS,Other Non Hispanic,F,20-24,0,0,2
+2014,ROS,Other Non Hispanic,M,20-24,2,0,4
+2014,ROS,Other Non Hispanic,F,25-34,0,1,3
+2014,ROS,Other Non Hispanic,M,25-34,1,4,2
+2014,ROS,Other Non Hispanic,F,35-44,0,1,3
+2014,ROS,Other Non Hispanic,M,35-44,1,1,3
+2014,ROS,Other Non Hispanic,F,45-54,0,4,1
+2014,ROS,Other Non Hispanic,M,45-54,1,6,4
+2014,ROS,Other Non Hispanic,F,55-64,0,0,0
+2014,ROS,Other Non Hispanic,M,55-64,1,14,3
+2014,ROS,Other Non Hispanic,F,65-74,0,3,1
+2014,ROS,Other Non Hispanic,M,65-74,1,5,0
+2014,ROS,Other Non Hispanic,F,75-84,0,3,0
+2014,ROS,Other Non Hispanic,M,75-84,0,1,0
+2014,ROS,Other Non Hispanic,F,85+,0,1,0
+2014,ROS,Other Non Hispanic,M,85+,0,0,0
+2014,ROS,Other Non Hispanic,F,<1,0,0,0
+2014,ROS,Other Non Hispanic,M,<1,0,0,0
+2014,ROS,Other Non Hispanic,F,Total,0,13,10
+2014,ROS,Other Non Hispanic,M,Total,7,31,17
+2014,ROS,White Non Hispanic,F,1-9,0,0,0
+2014,ROS,White Non Hispanic,M,1-9,0,1,0
+2014,ROS,White Non Hispanic,F,10-19,0,3,13
+2014,ROS,White Non Hispanic,M,10-19,12,0,35
+2014,ROS,White Non Hispanic,F,20-24,3,3,9
+2014,ROS,White Non Hispanic,M,20-24,28,16,59
+2014,ROS,White Non Hispanic,F,25-34,9,23,32
+2014,ROS,White Non Hispanic,M,25-34,39,45,103
+2014,ROS,White Non Hispanic,F,35-44,4,39,39
+2014,ROS,White Non Hispanic,M,35-44,43,84,95
+2014,ROS,White Non Hispanic,F,45-54,14,132,65
+2014,ROS,White Non Hispanic,M,45-54,90,319,193
+2014,ROS,White Non Hispanic,F,55-64,9,177,47
+2014,ROS,White Non Hispanic,M,55-64,85,517,148
+2014,ROS,White Non Hispanic,F,65-74,6,131,19
+2014,ROS,White Non Hispanic,M,65-74,51,310,82
+2014,ROS,White Non Hispanic,F,75-84,1,92,7
+2014,ROS,White Non Hispanic,M,75-84,23,165,33
+2014,ROS,White Non Hispanic,F,85+,2,57,6
+2014,ROS,White Non Hispanic,M,85+,16,56,23
+2014,ROS,White Non Hispanic,F,<1,0,0,0
+2014,ROS,White Non Hispanic,M,<1,0,0,0
+2014,ROS,White Non Hispanic,F,Total,48,657,237
+2014,ROS,White Non Hispanic,M,Total,387,1513,771
+2014,NYC,Black Non Hispanic,F,1-9,0,0,0
+2014,NYC,Black Non Hispanic,M,1-9,0,0,0
+2014,NYC,Black Non Hispanic,F,10-19,2,0,3
+2014,NYC,Black Non Hispanic,M,10-19,14,0,1
+2014,NYC,Black Non Hispanic,F,20-24,2,0,1
+2014,NYC,Black Non Hispanic,M,20-24,38,1,5
+2014,NYC,Black Non Hispanic,F,25-34,3,5,4
+2014,NYC,Black Non Hispanic,M,25-34,47,4,17
+2014,NYC,Black Non Hispanic,F,35-44,1,9,2
+2014,NYC,Black Non Hispanic,M,35-44,21,22,10
+2014,NYC,Black Non Hispanic,F,45-54,0,25,6
+2014,NYC,Black Non Hispanic,M,45-54,15,75,10
+2014,NYC,Black Non Hispanic,F,55-64,0,59,6
+2014,NYC,Black Non Hispanic,M,55-64,7,128,5
+2014,NYC,Black Non Hispanic,F,65-74,0,25,0
+2014,NYC,Black Non Hispanic,M,65-74,1,83,3
+2014,NYC,Black Non Hispanic,F,75-84,0,14,0
+2014,NYC,Black Non Hispanic,M,75-84,0,19,2
+2014,NYC,Black Non Hispanic,F,85+,0,5,0
+2014,NYC,Black Non Hispanic,M,85+,0,4,0
+2014,NYC,Black Non Hispanic,F,<1,0,0,0
+2014,NYC,Black Non Hispanic,M,<1,0,0,0
+2014,NYC,Black Non Hispanic,F,Total,8,142,22
+2014,NYC,Black Non Hispanic,M,Total,143,336,53
+2014,NYC,Hispanic,F,1-9,0,0,0
+2014,NYC,Hispanic,M,1-9,0,0,0
+2014,NYC,Hispanic,F,10-19,0,0,4
+2014,NYC,Hispanic,M,10-19,5,0,5
+2014,NYC,Hispanic,F,20-24,2,0,4
+2014,NYC,Hispanic,M,20-24,27,3,8
+2014,NYC,Hispanic,F,25-34,1,5,8
+2014,NYC,Hispanic,M,25-34,15,23,18
+2014,NYC,Hispanic,F,35-44,1,14,0
+2014,NYC,Hispanic,M,35-44,12,67,11
+2014,NYC,Hispanic,F,45-54,0,22,6
+2014,NYC,Hispanic,M,45-54,8,110,14
+2014,NYC,Hispanic,F,55-64,0,53,5
+2014,NYC,Hispanic,M,55-64,3,166,10
+2014,NYC,Hispanic,F,65-74,0,36,2
+2014,NYC,Hispanic,M,65-74,2,94,6
+2014,NYC,Hispanic,F,75-84,0,34,1
+2014,NYC,Hispanic,M,75-84,0,25,3
+2014,NYC,Hispanic,F,85+,0,4,0
+2014,NYC,Hispanic,M,85+,1,4,2
+2014,NYC,Hispanic,F,<1,0,0,0
+2014,NYC,Hispanic,M,<1,0,0,0
+2014,NYC,Hispanic,F,Total,4,168,30
+2014,NYC,Hispanic,M,Total,73,492,77
+2014,NYC,Not Stated,F,1-9,0,0,0
+2014,NYC,Not Stated,M,1-9,0,0,1
+2014,NYC,Not Stated,F,10-19,0,0,1
+2014,NYC,Not Stated,M,10-19,0,0,2
+2014,NYC,Not Stated,F,20-24,0,1,0
+2014,NYC,Not Stated,M,20-24,0,1,0
+2014,NYC,Not Stated,F,25-34,0,0,1
+2014,NYC,Not Stated,M,25-34,0,1,2
+2014,NYC,Not Stated,F,35-44,0,0,1
+2014,NYC,Not Stated,M,35-44,0,7,2
+2014,NYC,Not Stated,F,45-54,0,4,0
+2014,NYC,Not Stated,M,45-54,0,11,0
+2014,NYC,Not Stated,F,55-64,0,7,0
+2014,NYC,Not Stated,M,55-64,0,15,0
+2014,NYC,Not Stated,F,65-74,0,1,0
+2014,NYC,Not Stated,M,65-74,0,9,0
+2014,NYC,Not Stated,F,75-84,0,1,0
+2014,NYC,Not Stated,M,75-84,0,2,0
+2014,NYC,Not Stated,F,85+,0,1,2
+2014,NYC,Not Stated,M,85+,0,0,0
+2014,NYC,Not Stated,F,<1,0,0,0
+2014,NYC,Not Stated,M,<1,0,0,0
+2014,NYC,Not Stated,F,Total,0,15,5
+2014,NYC,Not Stated,M,Total,0,46,7
+2014,NYC,Other Non Hispanic,F,1-9,0,0,0
+2014,NYC,Other Non Hispanic,M,1-9,0,0,0
+2014,NYC,Other Non Hispanic,F,10-19,0,1,2
+2014,NYC,Other Non Hispanic,M,10-19,0,0,0
+2014,NYC,Other Non Hispanic,F,20-24,0,0,0
+2014,NYC,Other Non Hispanic,M,20-24,0,1,7
+2014,NYC,Other Non Hispanic,F,25-34,0,0,7
+2014,NYC,Other Non Hispanic,M,25-34,1,5,9
+2014,NYC,Other Non Hispanic,F,35-44,0,0,6
+2014,NYC,Other Non Hispanic,M,35-44,1,11,10
+2014,NYC,Other Non Hispanic,F,45-54,1,3,5
+2014,NYC,Other Non Hispanic,M,45-54,2,18,6
+2014,NYC,Other Non Hispanic,F,55-64,0,5,1
+2014,NYC,Other Non Hispanic,M,55-64,0,23,5
+2014,NYC,Other Non Hispanic,F,65-74,0,10,4
+2014,NYC,Other Non Hispanic,M,65-74,0,11,5
+2014,NYC,Other Non Hispanic,F,75-84,0,6,1
+2014,NYC,Other Non Hispanic,M,75-84,0,7,2
+2014,NYC,Other Non Hispanic,F,85+,0,2,1
+2014,NYC,Other Non Hispanic,M,85+,0,4,2
+2014,NYC,Other Non Hispanic,F,<1,0,0,0
+2014,NYC,Other Non Hispanic,M,<1,0,0,0
+2014,NYC,Other Non Hispanic,F,Total,1,27,27
+2014,NYC,Other Non Hispanic,M,Total,4,80,46
+2014,NYC,White Non Hispanic,F,1-9,0,0,0
+2014,NYC,White Non Hispanic,M,1-9,0,0,0
+2014,NYC,White Non Hispanic,F,10-19,0,0,1
+2014,NYC,White Non Hispanic,M,10-19,0,4,4
+2014,NYC,White Non Hispanic,F,20-24,0,2,2
+2014,NYC,White Non Hispanic,M,20-24,2,6,2
+2014,NYC,White Non Hispanic,F,25-34,0,13,11
+2014,NYC,White Non Hispanic,M,25-34,7,22,31
+2014,NYC,White Non Hispanic,F,35-44,2,12,10
+2014,NYC,White Non Hispanic,M,35-44,6,42,29
+2014,NYC,White Non Hispanic,F,45-54,0,23,16
+2014,NYC,White Non Hispanic,M,45-54,9,102,40
+2014,NYC,White Non Hispanic,F,55-64,2,57,21
+2014,NYC,White Non Hispanic,M,55-64,4,151,42
+2014,NYC,White Non Hispanic,F,65-74,1,28,7
+2014,NYC,White Non Hispanic,M,65-74,7,100,23
+2014,NYC,White Non Hispanic,F,75-84,0,36,5
+2014,NYC,White Non Hispanic,M,75-84,2,42,8
+2014,NYC,White Non Hispanic,F,85+,0,12,5
+2014,NYC,White Non Hispanic,M,85+,2,12,6
+2014,NYC,White Non Hispanic,F,<1,0,0,0
+2014,NYC,White Non Hispanic,M,<1,0,0,0
+2014,NYC,White Non Hispanic,F,Total,5,183,78
+2014,NYC,White Non Hispanic,M,Total,39,481,185
+2014,ROS,Black Non Hispanic,F,1-9,0,0,0
+2014,ROS,Black Non Hispanic,M,1-9,0,0,1
+2014,ROS,Black Non Hispanic,F,10-19,1,0,1
+2014,ROS,Black Non Hispanic,M,10-19,12,0,0
+2014,ROS,Black Non Hispanic,F,20-24,3,1,0
+2014,ROS,Black Non Hispanic,M,20-24,36,1,10
+2014,ROS,Black Non Hispanic,F,25-34,4,1,2
+2014,ROS,Black Non Hispanic,M,25-34,40,6,4
+2014,ROS,Black Non Hispanic,F,35-44,0,4,3
+2014,ROS,Black Non Hispanic,M,35-44,14,14,5
+2014,ROS,Black Non Hispanic,F,45-54,0,14,3
+2014,ROS,Black Non Hispanic,M,45-54,7,42,7
+2013,ROS,Black Non Hispanic,F,55-64,0,16,1
+2013,ROS,Black Non Hispanic,M,55-64,2,62,5
+2013,ROS,Black Non Hispanic,F,65-74,0,9,0
+2013,ROS,Black Non Hispanic,M,65-74,0,22,1
+2013,ROS,Black Non Hispanic,F,75-84,0,7,1
+2013,ROS,Black Non Hispanic,M,75-84,0,6,0
+2013,ROS,Black Non Hispanic,F,85+,0,1,0
+2013,ROS,Black Non Hispanic,M,85+,0,2,0
+2013,ROS,Black Non Hispanic,F,<1,0,0,0
+2013,ROS,Black Non Hispanic,M,<1,0,0,0
+2013,ROS,Black Non Hispanic,F,Total,14,49,7
+2013,ROS,Black Non Hispanic,M,Total,108,130,37
+2013,ROS,Hispanic,F,1-9,0,0,0
+2013,ROS,Hispanic,M,1-9,0,0,0
+2013,ROS,Hispanic,F,10-19,0,0,3
+2013,ROS,Hispanic,M,10-19,0,0,5
+2013,ROS,Hispanic,F,20-24,0,0,2
+2013,ROS,Hispanic,M,20-24,6,2,7
+2013,ROS,Hispanic,F,25-34,3,1,2
+2013,ROS,Hispanic,M,25-34,4,17,11
+2013,ROS,Hispanic,F,35-44,1,5,2
+2013,ROS,Hispanic,M,35-44,3,22,4
+2013,ROS,Hispanic,F,45-54,0,7,1
+2013,ROS,Hispanic,M,45-54,6,38,7
+2013,ROS,Hispanic,F,55-64,0,8,2
+2013,ROS,Hispanic,M,55-64,0,29,5
+2013,ROS,Hispanic,F,65-74,0,6,0
+2013,ROS,Hispanic,M,65-74,0,17,3
+2013,ROS,Hispanic,F,75-84,0,5,0
+2013,ROS,Hispanic,M,75-84,0,4,0
+2013,ROS,Hispanic,F,85+,0,2,0
+2013,ROS,Hispanic,M,85+,0,1,0
+2013,ROS,Hispanic,F,<1,0,0,0
+2013,ROS,Hispanic,M,<1,0,0,0
+2013,ROS,Hispanic,F,Total,4,34,12
+2013,ROS,Hispanic,M,Total,19,130,42
+2013,ROS,Not Stated,F,1-9,0,0,0
+2013,ROS,Not Stated,M,1-9,1,0,0
+2013,ROS,Not Stated,F,10-19,0,0,0
+2013,ROS,Not Stated,M,10-19,1,0,0
+2013,ROS,Not Stated,M,20-24,0,0,0
+2013,ROS,Not Stated,F,25-34,1,0,0
+2013,ROS,Not Stated,M,25-34,1,0,3
+2013,ROS,Not Stated,M,35-44,1,0,3
+2013,ROS,Not Stated,F,45-54,0,1,0
+2013,ROS,Not Stated,M,45-54,2,0,1
+2013,ROS,Not Stated,F,55-64,0,2,1
+2013,ROS,Not Stated,M,55-64,0,0,1
+2013,ROS,Not Stated,F,65-74,0,0,0
+2013,ROS,Not Stated,M,65-74,0,1,1
+2013,ROS,Not Stated,F,75-84,0,0,0
+2013,ROS,Not Stated,M,75-84,1,1,1
+2013,ROS,Not Stated,F,85+,0,0,0
+2013,ROS,Not Stated,M,85+,0,0,0
+2013,ROS,Not Stated,F,<1,0,0,0
+2013,ROS,Not Stated,M,<1,0,0,0
+2013,ROS,Not Stated,F,Total,1,3,1
+2013,ROS,Not Stated,M,Total,7,2,10
+2013,ROS,Other Non Hispanic,F,1-9,0,0,0
+2013,ROS,Other Non Hispanic,M,1-9,0,0,0
+2013,ROS,Other Non Hispanic,F,10-19,0,0,2
+2013,ROS,Other Non Hispanic,M,10-19,0,0,0
+2013,ROS,Other Non Hispanic,F,20-24,0,0,0
+2013,ROS,Other Non Hispanic,M,20-24,0,0,0
+2013,ROS,Other Non Hispanic,F,25-34,0,0,3
+2013,ROS,Other Non Hispanic,M,25-34,0,2,5
+2013,ROS,Other Non Hispanic,F,35-44,1,2,2
+2013,ROS,Other Non Hispanic,M,35-44,1,6,3
+2013,ROS,Other Non Hispanic,F,45-54,1,8,0
+2013,ROS,Other Non Hispanic,M,45-54,2,5,3
+2013,ROS,Other Non Hispanic,F,55-64,0,0,1
+2013,ROS,Other Non Hispanic,M,55-64,0,6,3
+2013,ROS,Other Non Hispanic,F,65-74,1,4,1
+2013,ROS,Other Non Hispanic,M,65-74,2,4,4
+2013,ROS,Other Non Hispanic,F,75-84,1,1,1
+2013,ROS,Other Non Hispanic,M,75-84,0,3,0
+2013,ROS,Other Non Hispanic,F,85+,0,1,0
+2013,ROS,Other Non Hispanic,M,85+,0,1,0
+2013,ROS,Other Non Hispanic,F,<1,0,0,0
+2013,ROS,Other Non Hispanic,M,<1,0,0,0
+2013,ROS,Other Non Hispanic,F,Total,4,16,10
+2013,ROS,Other Non Hispanic,M,Total,5,27,18
+2013,ROS,White Non Hispanic,F,1-9,0,0,0
+2013,ROS,White Non Hispanic,M,1-9,0,0,1
+2013,ROS,White Non Hispanic,F,10-19,0,0,10
+2013,ROS,White Non Hispanic,M,10-19,15,4,26
+2013,ROS,White Non Hispanic,F,20-24,3,2,14
+2013,ROS,White Non Hispanic,M,20-24,26,14,52
+2013,ROS,White Non Hispanic,F,25-34,2,17,25
+2013,ROS,White Non Hispanic,M,25-34,37,56,99
+2013,ROS,White Non Hispanic,F,35-44,4,53,31
+2013,ROS,White Non Hispanic,M,35-44,40,96,102
+2013,ROS,White Non Hispanic,F,45-54,13,148,62
+2013,ROS,White Non Hispanic,M,45-54,83,350,189
+2013,ROS,White Non Hispanic,F,55-64,11,182,64
+2013,ROS,White Non Hispanic,M,55-64,78,518,140
+2013,ROS,White Non Hispanic,F,65-74,2,140,12
+2013,ROS,White Non Hispanic,M,65-74,46,277,81
+2013,ROS,White Non Hispanic,F,75-84,2,112,5
+2013,ROS,White Non Hispanic,M,75-84,39,149,52
+2013,ROS,White Non Hispanic,F,85+,5,43,6
+2013,ROS,White Non Hispanic,M,85+,10,58,20
+2013,ROS,White Non Hispanic,F,<1,0,0,0
+2013,ROS,White Non Hispanic,M,<1,0,0,0
+2013,ROS,White Non Hispanic,F,Total,42,697,229
+2013,ROS,White Non Hispanic,M,Total,374,1522,762
+2013,NYC,Black Non Hispanic,F,1-9,0,0,1
+2013,NYC,Black Non Hispanic,M,1-9,2,0,0
+2013,NYC,Black Non Hispanic,F,10-19,1,1,2
+2013,NYC,Black Non Hispanic,M,10-19,14,0,6
+2013,NYC,Black Non Hispanic,F,20-24,2,1,4
+2013,NYC,Black Non Hispanic,M,20-24,30,0,3
+2013,NYC,Black Non Hispanic,F,25-34,2,6,2
+2013,NYC,Black Non Hispanic,M,25-34,56,5,17
+2013,NYC,Black Non Hispanic,F,35-44,2,12,3
+2013,NYC,Black Non Hispanic,M,35-44,23,22,10
+2013,NYC,Black Non Hispanic,F,45-54,1,35,1
+2013,NYC,Black Non Hispanic,M,45-54,13,77,8
+2013,NYC,Black Non Hispanic,F,55-64,2,59,4
+2013,NYC,Black Non Hispanic,M,55-64,3,127,4
+2013,NYC,Black Non Hispanic,F,65-74,0,21,2
+2013,NYC,Black Non Hispanic,M,65-74,3,71,3
+2013,NYC,Black Non Hispanic,F,75-84,0,14,0
+2013,NYC,Black Non Hispanic,M,75-84,1,21,3
+2013,NYC,Black Non Hispanic,F,85+,0,4,0
+2013,NYC,Black Non Hispanic,M,85+,0,5,1
+2013,NYC,Black Non Hispanic,F,<1,0,0,0
+2013,NYC,Black Non Hispanic,M,<1,0,0,0
+2013,NYC,Black Non Hispanic,F,Total,10,153,19
+2013,NYC,Black Non Hispanic,M,Total,145,328,55
+2013,NYC,Hispanic,F,1-9,0,0,0
+2013,NYC,Hispanic,M,1-9,0,0,0
+2013,NYC,Hispanic,F,10-19,0,1,3
+2013,NYC,Hispanic,M,10-19,5,0,2
+2013,NYC,Hispanic,F,20-24,1,0,1
+2013,NYC,Hispanic,M,20-24,9,1,9
+2013,NYC,Hispanic,F,25-34,1,8,3
+2013,NYC,Hispanic,M,25-34,13,25,15
+2013,NYC,Hispanic,F,35-44,0,7,9
+2013,NYC,Hispanic,M,35-44,6,57,14
+2013,NYC,Hispanic,F,45-54,1,31,5
+2013,NYC,Hispanic,M,45-54,3,132,15
+2013,NYC,Hispanic,F,55-64,0,41,3
+2013,NYC,Hispanic,M,55-64,0,141,14
+2013,NYC,Hispanic,F,65-74,0,34,4
+2013,NYC,Hispanic,M,65-74,0,94,3
+2013,NYC,Hispanic,F,75-84,0,22,1
+2013,NYC,Hispanic,M,75-84,1,29,6
+2013,NYC,Hispanic,F,85+,0,5,0
+2013,NYC,Hispanic,M,85+,0,7,0
+2013,NYC,Hispanic,F,<1,0,0,0
+2013,NYC,Hispanic,M,<1,0,0,0
+2013,NYC,Hispanic,F,Total,3,149,29
+2013,NYC,Hispanic,M,Total,37,486,78
+2013,NYC,Not Stated,F,1-9,0,0,0
+2013,NYC,Not Stated,M,1-9,0,0,0
+2013,NYC,Not Stated,F,10-19,0,0,0
+2013,NYC,Not Stated,M,10-19,0,0,1
+2013,NYC,Not Stated,F,20-24,0,0,1
+2013,NYC,Not Stated,M,20-24,2,0,0
+2013,NYC,Not Stated,F,25-34,0,0,1
+2013,NYC,Not Stated,M,25-34,2,1,3
+2013,NYC,Not Stated,F,35-44,0,0,0
+2013,NYC,Not Stated,M,35-44,0,3,3
+2013,NYC,Not Stated,F,45-54,1,1,0
+2013,NYC,Not Stated,M,45-54,0,10,3
+2013,NYC,Not Stated,F,55-64,0,5,1
+2013,NYC,Not Stated,M,55-64,1,17,3
+2013,NYC,Not Stated,F,65-74,0,2,1
+2013,NYC,Not Stated,M,65-74,0,11,3
+2013,NYC,Not Stated,F,75-84,0,2,0
+2013,NYC,Not Stated,M,75-84,0,5,0
+2013,NYC,Not Stated,F,85+,0,0,0
+2013,NYC,Not Stated,M,85+,1,0,1
+2013,NYC,Not Stated,F,<1,0,0,0
+2013,NYC,Not Stated,M,<1,0,0,0
+2013,NYC,Not Stated,F,Total,1,10,4
+2013,NYC,Not Stated,M,Total,6,47,17
+2013,NYC,Other Non Hispanic,F,1-9,0,0,0
+2013,NYC,Other Non Hispanic,M,1-9,0,0,0
+2013,NYC,Other Non Hispanic,F,10-19,0,1,1
+2013,NYC,Other Non Hispanic,M,10-19,1,0,3
+2013,NYC,Other Non Hispanic,F,20-24,0,0,1
+2013,NYC,Other Non Hispanic,M,20-24,0,0,3
+2013,NYC,Other Non Hispanic,F,25-34,0,0,2
+2013,NYC,Other Non Hispanic,M,25-34,2,0,8
+2013,NYC,Other Non Hispanic,F,35-44,0,2,2
+2013,NYC,Other Non Hispanic,M,35-44,3,12,11
+2013,NYC,Other Non Hispanic,F,45-54,0,4,6
+2013,NYC,Other Non Hispanic,M,45-54,2,15,5
+2013,NYC,Other Non Hispanic,F,55-64,0,4,2
+2013,NYC,Other Non Hispanic,M,55-64,1,22,6
+2013,NYC,Other Non Hispanic,F,65-74,0,7,0
+2013,NYC,Other Non Hispanic,M,65-74,0,17,1
+2013,NYC,Other Non Hispanic,F,75-84,0,6,0
+2013,NYC,Other Non Hispanic,M,75-84,0,7,4
+2013,NYC,Other Non Hispanic,F,85+,0,1,2
+2013,NYC,Other Non Hispanic,M,85+,0,0,1
+2013,NYC,Other Non Hispanic,F,<1,0,0,0
+2013,NYC,Other Non Hispanic,M,<1,0,0,0
+2013,NYC,Other Non Hispanic,F,Total,0,25,16
+2013,NYC,Other Non Hispanic,M,Total,9,73,42
+2013,NYC,White Non Hispanic,F,1-9,0,0,0
+2013,NYC,White Non Hispanic,M,1-9,0,0,0
+2013,NYC,White Non Hispanic,F,10-19,0,0,1
+2013,NYC,White Non Hispanic,M,10-19,1,1,4
+2013,NYC,White Non Hispanic,F,20-24,0,1,2
+2013,NYC,White Non Hispanic,M,20-24,2,3,4
+2013,NYC,White Non Hispanic,F,25-34,0,8,12
+2013,NYC,White Non Hispanic,M,25-34,5,15,31
+2013,NYC,White Non Hispanic,F,35-44,0,14,10
+2013,NYC,White Non Hispanic,M,35-44,8,37,28
+2013,NYC,White Non Hispanic,F,45-54,2,43,11
+2013,NYC,White Non Hispanic,M,45-54,4,115,32
+2013,NYC,White Non Hispanic,F,55-64,0,53,19
+2013,NYC,White Non Hispanic,M,55-64,7,149,26
+2013,NYC,White Non Hispanic,F,65-74,0,37,6
+2013,NYC,White Non Hispanic,M,65-74,4,86,34
+2013,NYC,White Non Hispanic,F,75-84,0,19,9
+2013,NYC,White Non Hispanic,M,75-84,3,44,11
+2013,NYC,White Non Hispanic,F,85+,0,22,1
+2013,NYC,White Non Hispanic,M,85+,2,16,8
+2013,NYC,White Non Hispanic,F,<1,0,0,0
+2013,NYC,White Non Hispanic,M,<1,0,0,0
+2013,NYC,White Non Hispanic,F,Total,2,197,71
+2013,NYC,White Non Hispanic,M,Total,36,466,178
+2013,ROS,Black Non Hispanic,F,1-9,0,0,0
+2013,ROS,Black Non Hispanic,M,1-9,0,0,0
+2013,ROS,Black Non Hispanic,F,10-19,0,0,1
+2013,ROS,Black Non Hispanic,M,10-19,10,0,2
+2013,ROS,Black Non Hispanic,F,20-24,4,0,1
+2013,ROS,Black Non Hispanic,M,20-24,31,0,6
+2013,ROS,Black Non Hispanic,F,25-34,4,0,2
+2013,ROS,Black Non Hispanic,M,25-34,41,2,9
+2013,ROS,Black Non Hispanic,F,35-44,3,2,0
+2013,ROS,Black Non Hispanic,M,35-44,15,9,7
+2013,ROS,Black Non Hispanic,F,45-54,3,14,1
+2013,ROS,Black Non Hispanic,M,45-54,9,27,7
+2012,ROS,Black Non Hispanic,F,55-64,0,19,0
+2012,ROS,Black Non Hispanic,M,55-64,3,68,4
+2012,ROS,Black Non Hispanic,F,65-74,0,9,0
+2012,ROS,Black Non Hispanic,M,65-74,0,30,0
+2012,ROS,Black Non Hispanic,F,75-84,0,5,0
+2012,ROS,Black Non Hispanic,M,75-84,0,4,0
+2012,ROS,Black Non Hispanic,F,85+,0,1,0
+2012,ROS,Black Non Hispanic,M,85+,0,1,0
+2012,ROS,Black Non Hispanic,F,<1,0,0,0
+2012,ROS,Black Non Hispanic,M,<1,0,0,0
+2012,ROS,Black Non Hispanic,F,Total,8,65,6
+2012,ROS,Black Non Hispanic,M,Total,134,139,37
+2012,ROS,Hispanic,F,1-9,0,0,0
+2012,ROS,Hispanic,M,1-9,0,0,0
+2012,ROS,Hispanic,F,10-19,0,0,1
+2012,ROS,Hispanic,M,10-19,3,0,7
+2012,ROS,Hispanic,F,20-24,0,1,3
+2012,ROS,Hispanic,M,20-24,10,0,4
+2012,ROS,Hispanic,F,25-34,0,0,3
+2012,ROS,Hispanic,M,25-34,9,15,12
+2012,ROS,Hispanic,F,35-44,0,2,2
+2012,ROS,Hispanic,M,35-44,4,16,9
+2012,ROS,Hispanic,F,45-54,2,7,1
+2012,ROS,Hispanic,M,45-54,3,25,9
+2012,ROS,Hispanic,F,55-64,0,10,0
+2012,ROS,Hispanic,M,55-64,1,45,7
+2012,ROS,Hispanic,F,65-74,0,4,2
+2012,ROS,Hispanic,M,65-74,0,15,2
+2012,ROS,Hispanic,F,75-84,0,4,0
+2012,ROS,Hispanic,M,75-84,0,3,1
+2012,ROS,Hispanic,F,85+,0,4,0
+2012,ROS,Hispanic,M,85+,0,3,0
+2012,ROS,Hispanic,F,<1,0,0,0
+2012,ROS,Hispanic,M,<1,0,0,0
+2012,ROS,Hispanic,F,Total,2,32,12
+2012,ROS,Hispanic,M,Total,30,122,51
+2012,ROS,Not Stated,F,1-9,0,0,0
+2012,ROS,Not Stated,M,1-9,0,0,0
+2012,ROS,Not Stated,M,10-19,1,0,2
+2012,ROS,Not Stated,F,20-24,0,0,0
+2012,ROS,Not Stated,M,20-24,2,0,0
+2012,ROS,Not Stated,F,25-34,0,0,1
+2012,ROS,Not Stated,M,25-34,0,0,0
+2012,ROS,Not Stated,F,35-44,0,0,0
+2012,ROS,Not Stated,M,35-44,0,0,1
+2012,ROS,Not Stated,F,45-54,0,1,1
+2012,ROS,Not Stated,M,45-54,1,1,1
+2012,ROS,Not Stated,F,55-64,0,1,0
+2012,ROS,Not Stated,M,55-64,0,2,0
+2012,ROS,Not Stated,F,65-74,0,0,0
+2012,ROS,Not Stated,M,65-74,0,0,0
+2012,ROS,Not Stated,F,75-84,0,0,0
+2012,ROS,Not Stated,M,75-84,0,0,0
+2012,ROS,Not Stated,F,85+,0,0,0
+2012,ROS,Not Stated,M,85+,0,0,0
+2012,ROS,Not Stated,F,<1,0,0,0
+2012,ROS,Not Stated,M,<1,0,0,0
+2012,ROS,Not Stated,F,Total,0,2,2
+2012,ROS,Not Stated,M,Total,4,3,4
+2012,ROS,Other Non Hispanic,F,1-9,0,0,0
+2012,ROS,Other Non Hispanic,M,1-9,0,0,0
+2012,ROS,Other Non Hispanic,F,10-19,0,0,2
+2012,ROS,Other Non Hispanic,M,10-19,1,0,1
+2012,ROS,Other Non Hispanic,F,20-24,0,0,1
+2012,ROS,Other Non Hispanic,M,20-24,0,0,1
+2012,ROS,Other Non Hispanic,F,25-34,1,0,2
+2012,ROS,Other Non Hispanic,M,25-34,1,2,3
+2012,ROS,Other Non Hispanic,F,35-44,0,1,2
+2012,ROS,Other Non Hispanic,M,35-44,1,4,2
+2012,ROS,Other Non Hispanic,F,45-54,0,2,0
+2012,ROS,Other Non Hispanic,M,45-54,0,8,1
+2012,ROS,Other Non Hispanic,F,55-64,0,2,2
+2012,ROS,Other Non Hispanic,M,55-64,0,6,1
+2012,ROS,Other Non Hispanic,F,65-74,0,6,0
+2012,ROS,Other Non Hispanic,M,65-74,0,3,0
+2012,ROS,Other Non Hispanic,F,75-84,0,4,0
+2012,ROS,Other Non Hispanic,M,75-84,0,5,0
+2012,ROS,Other Non Hispanic,F,85+,0,0,0
+2012,ROS,Other Non Hispanic,M,85+,0,0,0
+2012,ROS,Other Non Hispanic,F,<1,0,0,0
+2012,ROS,Other Non Hispanic,M,<1,0,0,0
+2012,ROS,Other Non Hispanic,F,Total,1,15,9
+2012,ROS,Other Non Hispanic,M,Total,3,28,9
+2012,ROS,White Non Hispanic,F,1-9,0,0,0
+2012,ROS,White Non Hispanic,M,1-9,0,0,0
+2012,ROS,White Non Hispanic,F,10-19,2,1,15
+2012,ROS,White Non Hispanic,M,10-19,18,2,33
+2012,ROS,White Non Hispanic,F,20-24,4,2,16
+2012,ROS,White Non Hispanic,M,20-24,29,12,52
+2012,ROS,White Non Hispanic,F,25-34,6,8,18
+2012,ROS,White Non Hispanic,M,25-34,50,42,105
+2012,ROS,White Non Hispanic,F,35-44,5,44,21
+2012,ROS,White Non Hispanic,M,35-44,59,96,130
+2012,ROS,White Non Hispanic,F,45-54,9,142,68
+2012,ROS,White Non Hispanic,M,45-54,76,379,182
+2012,ROS,White Non Hispanic,F,55-64,7,182,40
+2012,ROS,White Non Hispanic,M,55-64,83,450,149
+2012,ROS,White Non Hispanic,F,65-74,3,102,19
+2012,ROS,White Non Hispanic,M,65-74,57,270,87
+2012,ROS,White Non Hispanic,F,75-84,2,88,8
+2012,ROS,White Non Hispanic,M,75-84,43,146,50
+2012,ROS,White Non Hispanic,F,85+,2,46,5
+2012,ROS,White Non Hispanic,M,85+,12,36,17
+2012,ROS,White Non Hispanic,F,<1,0,1,0
+2012,ROS,White Non Hispanic,M,<1,0,0,0
+2012,ROS,White Non Hispanic,F,Total,40,616,210
+2012,ROS,White Non Hispanic,M,Total,427,1433,805
+2012,NYC,Black Non Hispanic,F,1-9,0,0,0
+2012,NYC,Black Non Hispanic,M,1-9,1,0,0
+2012,NYC,Black Non Hispanic,F,10-19,1,0,1
+2012,NYC,Black Non Hispanic,M,10-19,28,0,3
+2012,NYC,Black Non Hispanic,F,20-24,2,0,0
+2012,NYC,Black Non Hispanic,M,20-24,48,1,2
+2012,NYC,Black Non Hispanic,F,25-34,4,4,4
+2012,NYC,Black Non Hispanic,M,25-34,56,6,3
+2012,NYC,Black Non Hispanic,F,35-44,2,13,4
+2012,NYC,Black Non Hispanic,M,35-44,24,16,13
+2012,NYC,Black Non Hispanic,F,45-54,1,36,3
+2012,NYC,Black Non Hispanic,M,45-54,10,82,14
+2012,NYC,Black Non Hispanic,F,55-64,0,57,3
+2012,NYC,Black Non Hispanic,M,55-64,2,119,7
+2012,NYC,Black Non Hispanic,F,65-74,0,26,0
+2012,NYC,Black Non Hispanic,M,65-74,1,73,4
+2012,NYC,Black Non Hispanic,F,75-84,0,16,0
+2012,NYC,Black Non Hispanic,M,75-84,1,22,1
+2012,NYC,Black Non Hispanic,F,85+,0,7,0
+2012,NYC,Black Non Hispanic,M,85+,0,7,0
+2012,NYC,Black Non Hispanic,F,<1,0,0,0
+2012,NYC,Black Non Hispanic,M,<1,0,0,0
+2012,NYC,Black Non Hispanic,F,Total,10,159,15
+2012,NYC,Black Non Hispanic,M,Total,171,326,47
+2012,NYC,Hispanic,F,1-9,0,0,0
+2012,NYC,Hispanic,M,1-9,0,0,0
+2012,NYC,Hispanic,F,10-19,0,0,5
+2012,NYC,Hispanic,M,10-19,6,0,5
+2012,NYC,Hispanic,F,20-24,1,1,2
+2012,NYC,Hispanic,M,20-24,18,4,11
+2012,NYC,Hispanic,F,25-34,1,4,6
+2012,NYC,Hispanic,M,25-34,20,23,16
+2012,NYC,Hispanic,F,35-44,1,9,0
+2012,NYC,Hispanic,M,35-44,6,60,14
+2012,NYC,Hispanic,F,45-54,0,36,9
+2012,NYC,Hispanic,M,45-54,5,117,22
+2012,NYC,Hispanic,F,55-64,0,50,6
+2012,NYC,Hispanic,M,55-64,0,150,9
+2012,NYC,Hispanic,F,65-74,0,35,1
+2012,NYC,Hispanic,M,65-74,1,70,6
+2012,NYC,Hispanic,F,75-84,0,21,2
+2012,NYC,Hispanic,M,75-84,1,20,3
+2012,NYC,Hispanic,F,85+,0,7,0
+2012,NYC,Hispanic,M,85+,0,4,0
+2012,NYC,Hispanic,F,<1,0,0,0
+2012,NYC,Hispanic,M,<1,0,0,0
+2012,NYC,Hispanic,F,Total,3,163,31
+2012,NYC,Hispanic,M,Total,57,448,86
+2012,NYC,Not Stated,F,1-9,0,0,0
+2012,NYC,Not Stated,M,1-9,0,0,0
+2012,NYC,Not Stated,F,10-19,0,0,0
+2012,NYC,Not Stated,M,10-19,0,0,0
+2012,NYC,Not Stated,F,20-24,0,1,0
+2012,NYC,Not Stated,M,20-24,1,0,0
+2012,NYC,Not Stated,F,25-34,1,0,1
+2012,NYC,Not Stated,M,25-34,3,1,2
+2012,NYC,Not Stated,F,35-44,1,1,0
+2012,NYC,Not Stated,M,35-44,0,3,2
+2012,NYC,Not Stated,F,45-54,0,3,1
+2012,NYC,Not Stated,M,45-54,0,9,3
+2012,NYC,Not Stated,F,55-64,0,3,0
+2012,NYC,Not Stated,M,55-64,0,8,2
+2012,NYC,Not Stated,F,65-74,0,3,0
+2012,NYC,Not Stated,M,65-74,0,3,1
+2012,NYC,Not Stated,F,75-84,0,1,0
+2012,NYC,Not Stated,M,75-84,0,0,0
+2012,NYC,Not Stated,F,85+,0,1,0
+2012,NYC,Not Stated,M,85+,0,0,0
+2012,NYC,Not Stated,F,<1,0,0,0
+2012,NYC,Not Stated,M,<1,0,0,0
+2012,NYC,Not Stated,F,Total,2,13,2
+2012,NYC,Not Stated,M,Total,4,24,10
+2012,NYC,Other Non Hispanic,F,1-9,0,0,0
+2012,NYC,Other Non Hispanic,M,1-9,0,0,0
+2012,NYC,Other Non Hispanic,F,10-19,0,0,2
+2012,NYC,Other Non Hispanic,M,10-19,0,1,1
+2012,NYC,Other Non Hispanic,F,20-24,0,0,4
+2012,NYC,Other Non Hispanic,M,20-24,0,0,2
+2012,NYC,Other Non Hispanic,F,25-34,0,2,4
+2012,NYC,Other Non Hispanic,M,25-34,2,0,10
+2012,NYC,Other Non Hispanic,F,35-44,1,0,2
+2012,NYC,Other Non Hispanic,M,35-44,1,8,4
+2012,NYC,Other Non Hispanic,F,45-54,0,1,7
+2012,NYC,Other Non Hispanic,M,45-54,0,15,8
+2012,NYC,Other Non Hispanic,F,55-64,0,2,4
+2012,NYC,Other Non Hispanic,M,55-64,2,24,7
+2012,NYC,Other Non Hispanic,F,65-74,1,6,4
+2012,NYC,Other Non Hispanic,M,65-74,1,11,3
+2012,NYC,Other Non Hispanic,F,75-84,0,5,4
+2012,NYC,Other Non Hispanic,M,75-84,0,8,4
+2012,NYC,Other Non Hispanic,F,85+,0,0,0
+2012,NYC,Other Non Hispanic,M,85+,0,1,1
+2012,NYC,Other Non Hispanic,F,<1,0,0,0
+2012,NYC,Other Non Hispanic,M,<1,0,0,0
+2012,NYC,Other Non Hispanic,F,Total,2,16,31
+2012,NYC,Other Non Hispanic,M,Total,6,68,40
+2012,NYC,White Non Hispanic,F,1-9,0,0,0
+2012,NYC,White Non Hispanic,M,1-9,0,0,0
+2012,NYC,White Non Hispanic,F,10-19,0,0,4
+2012,NYC,White Non Hispanic,M,10-19,1,0,4
+2012,NYC,White Non Hispanic,F,20-24,0,2,4
+2012,NYC,White Non Hispanic,M,20-24,6,2,11
+2012,NYC,White Non Hispanic,F,25-34,0,11,11
+2012,NYC,White Non Hispanic,M,25-34,5,20,30
+2012,NYC,White Non Hispanic,F,35-44,1,11,11
+2012,NYC,White Non Hispanic,M,35-44,0,50,27
+2012,NYC,White Non Hispanic,F,45-54,0,42,14
+2012,NYC,White Non Hispanic,M,45-54,10,117,37
+2012,NYC,White Non Hispanic,F,55-64,1,55,15
+2012,NYC,White Non Hispanic,M,55-64,9,159,37
+2012,NYC,White Non Hispanic,F,65-74,1,25,7
+2012,NYC,White Non Hispanic,M,65-74,5,82,13
+2012,NYC,White Non Hispanic,F,75-84,0,18,5
+2012,NYC,White Non Hispanic,M,75-84,1,28,12
+2012,NYC,White Non Hispanic,F,85+,0,7,2
+2012,NYC,White Non Hispanic,M,85+,4,6,9
+2012,NYC,White Non Hispanic,F,<1,0,0,0
+2012,NYC,White Non Hispanic,M,<1,0,0,0
+2012,NYC,White Non Hispanic,F,Total,3,171,73
+2012,NYC,White Non Hispanic,M,Total,41,464,180
+2012,ROS,Black Non Hispanic,F,1-9,0,0,0
+2012,ROS,Black Non Hispanic,M,1-9,1,0,0
+2012,ROS,Black Non Hispanic,F,10-19,1,0,0
+2012,ROS,Black Non Hispanic,M,10-19,21,0,4
+2012,ROS,Black Non Hispanic,F,20-24,2,1,1
+2012,ROS,Black Non Hispanic,M,20-24,41,0,7
+2012,ROS,Black Non Hispanic,F,25-34,2,1,2
+2012,ROS,Black Non Hispanic,M,25-34,43,4,12
+2012,ROS,Black Non Hispanic,F,35-44,3,7,3
+2012,ROS,Black Non Hispanic,M,35-44,16,5,2
+2012,ROS,Black Non Hispanic,F,45-54,0,22,0
+2012,ROS,Black Non Hispanic,M,45-54,9,27,8
+2011,ROS,Black Non Hispanic,M,55-64,1,62,6
+2011,ROS,Black Non Hispanic,F,65-74,0,6,1
+2011,ROS,Black Non Hispanic,M,65-74,2,23,0
+2011,ROS,Black Non Hispanic,F,75-84,0,3,0
+2011,ROS,Black Non Hispanic,M,75-84,2,4,2
+2011,ROS,Black Non Hispanic,F,85+,0,4,0
+2011,ROS,Black Non Hispanic,M,85+,0,0,0
+2011,ROS,Black Non Hispanic,F,<1,0,0,0
+2011,ROS,Black Non Hispanic,M,<1,0,0,0
+2011,ROS,Black Non Hispanic,F,Total,6,49,12
+2011,ROS,Black Non Hispanic,M,Total,84,126,48
+2011,ROS,Hispanic,F,1-9,0,0,0
+2011,ROS,Hispanic,M,1-9,0,0,0
+2011,ROS,Hispanic,F,10-19,1,0,2
+2011,ROS,Hispanic,M,10-19,6,0,4
+2011,ROS,Hispanic,F,20-24,0,0,2
+2011,ROS,Hispanic,M,20-24,6,2,4
+2011,ROS,Hispanic,F,25-34,1,1,1
+2011,ROS,Hispanic,M,25-34,9,7,15
+2011,ROS,Hispanic,F,35-44,0,2,0
+2011,ROS,Hispanic,M,35-44,1,18,11
+2011,ROS,Hispanic,F,45-54,0,7,2
+2011,ROS,Hispanic,M,45-54,1,29,4
+2011,ROS,Hispanic,F,55-64,1,15,0
+2011,ROS,Hispanic,M,55-64,2,38,3
+2011,ROS,Hispanic,F,65-74,0,8,1
+2011,ROS,Hispanic,M,65-74,2,18,4
+2011,ROS,Hispanic,F,75-84,0,5,0
+2011,ROS,Hispanic,M,75-84,0,5,0
+2011,ROS,Hispanic,F,85+,0,4,0
+2011,ROS,Hispanic,M,85+,0,1,0
+2011,ROS,Hispanic,F,<1,0,0,0
+2011,ROS,Hispanic,M,<1,0,0,0
+2011,ROS,Hispanic,F,Total,3,42,8
+2011,ROS,Hispanic,M,Total,27,118,45
+2011,ROS,Not Stated,F,1-9,0,0,0
+2011,ROS,Not Stated,F,10-19,0,0,0
+2011,ROS,Not Stated,M,10-19,0,0,0
+2011,ROS,Not Stated,F,20-24,0,0,0
+2011,ROS,Not Stated,M,20-24,0,0,1
+2011,ROS,Not Stated,F,25-34,0,0,0
+2011,ROS,Not Stated,M,25-34,0,0,1
+2011,ROS,Not Stated,F,35-44,0,0,0
+2011,ROS,Not Stated,M,35-44,0,0,0
+2011,ROS,Not Stated,F,45-54,0,2,1
+2011,ROS,Not Stated,M,45-54,1,1,1
+2011,ROS,Not Stated,F,55-64,0,0,0
+2011,ROS,Not Stated,M,55-64,0,1,0
+2011,ROS,Not Stated,F,65-74,0,2,0
+2011,ROS,Not Stated,M,65-74,0,1,0
+2011,ROS,Not Stated,F,75-84,0,0,0
+2011,ROS,Not Stated,M,75-84,0,0,0
+2011,ROS,Not Stated,F,85+,0,0,0
+2011,ROS,Not Stated,M,85+,0,0,0
+2011,ROS,Not Stated,F,<1,0,0,0
+2011,ROS,Not Stated,M,<1,0,0,0
+2011,ROS,Not Stated,F,Total,0,4,1
+2011,ROS,Not Stated,M,Total,1,3,3
+2011,ROS,Other Non Hispanic,F,1-9,0,0,0
+2011,ROS,Other Non Hispanic,M,1-9,0,0,0
+2011,ROS,Other Non Hispanic,F,10-19,0,1,1
+2011,ROS,Other Non Hispanic,M,10-19,1,0,3
+2011,ROS,Other Non Hispanic,F,20-24,0,1,0
+2011,ROS,Other Non Hispanic,M,20-24,1,0,3
+2011,ROS,Other Non Hispanic,F,25-34,0,0,1
+2011,ROS,Other Non Hispanic,M,25-34,1,1,0
+2011,ROS,Other Non Hispanic,F,35-44,0,0,2
+2011,ROS,Other Non Hispanic,M,35-44,0,2,2
+2011,ROS,Other Non Hispanic,F,45-54,0,1,1
+2011,ROS,Other Non Hispanic,M,45-54,1,9,3
+2011,ROS,Other Non Hispanic,F,55-64,0,1,1
+2011,ROS,Other Non Hispanic,M,55-64,0,10,0
+2011,ROS,Other Non Hispanic,F,65-74,0,2,1
+2011,ROS,Other Non Hispanic,M,65-74,0,3,0
+2011,ROS,Other Non Hispanic,F,75-84,0,1,0
+2011,ROS,Other Non Hispanic,M,75-84,0,2,1
+2011,ROS,Other Non Hispanic,F,85+,0,0,0
+2011,ROS,Other Non Hispanic,M,85+,0,0,0
+2011,ROS,Other Non Hispanic,F,<1,0,0,0
+2011,ROS,Other Non Hispanic,M,<1,0,0,0
+2011,ROS,Other Non Hispanic,F,Total,0,7,7
+2011,ROS,Other Non Hispanic,M,Total,4,27,12
+2011,ROS,White Non Hispanic,F,1-9,1,0,0
+2011,ROS,White Non Hispanic,M,1-9,1,0,0
+2011,ROS,White Non Hispanic,F,10-19,8,0,17
+2011,ROS,White Non Hispanic,M,10-19,20,3,35
+2011,ROS,White Non Hispanic,F,20-24,2,2,13
+2011,ROS,White Non Hispanic,M,20-24,25,15,60
+2011,ROS,White Non Hispanic,F,25-34,6,13,18
+2011,ROS,White Non Hispanic,M,25-34,47,42,109
+2011,ROS,White Non Hispanic,F,35-44,8,38,38
+2011,ROS,White Non Hispanic,M,35-44,54,106,130
+2011,ROS,White Non Hispanic,F,45-54,14,137,47
+2011,ROS,White Non Hispanic,M,45-54,97,304,189
+2011,ROS,White Non Hispanic,F,55-64,6,158,37
+2011,ROS,White Non Hispanic,M,55-64,76,443,137
+2011,ROS,White Non Hispanic,F,65-74,2,125,5
+2011,ROS,White Non Hispanic,M,65-74,42,217,65
+2011,ROS,White Non Hispanic,F,75-84,0,129,8
+2011,ROS,White Non Hispanic,M,75-84,49,142,63
+2011,ROS,White Non Hispanic,F,85+,1,44,4
+2011,ROS,White Non Hispanic,M,85+,14,44,22
+2011,ROS,White Non Hispanic,F,<1,0,0,0
+2011,ROS,White Non Hispanic,M,<1,0,0,0
+2011,ROS,White Non Hispanic,F,Total,48,646,187
+2011,ROS,White Non Hispanic,M,Total,425,1316,810
+2011,NYC,Black Non Hispanic,F,1-9,0,0,0
+2011,NYC,Black Non Hispanic,M,1-9,0,0,0
+2011,NYC,Black Non Hispanic,F,10-19,0,0,1
+2011,NYC,Black Non Hispanic,M,10-19,1,1,3
+2011,NYC,Black Non Hispanic,F,20-24,0,1,4
+2011,NYC,Black Non Hispanic,M,20-24,0,1,5
+2011,NYC,Black Non Hispanic,F,25-34,0,4,4
+2011,NYC,Black Non Hispanic,M,25-34,1,8,15
+2011,NYC,Black Non Hispanic,F,35-44,0,14,2
+2011,NYC,Black Non Hispanic,M,35-44,3,24,4
+2011,NYC,Black Non Hispanic,F,45-54,0,35,1
+2011,NYC,Black Non Hispanic,M,45-54,0,76,15
+2011,NYC,Black Non Hispanic,F,55-64,1,45,1
+2011,NYC,Black Non Hispanic,M,55-64,0,112,5
+2011,NYC,Black Non Hispanic,F,65-74,0,30,0
+2011,NYC,Black Non Hispanic,M,65-74,0,60,3
+2011,NYC,Black Non Hispanic,F,75-84,0,14,0
+2011,NYC,Black Non Hispanic,M,75-84,0,21,0
+2011,NYC,Black Non Hispanic,F,85+,0,4,0
+2011,NYC,Black Non Hispanic,M,85+,0,6,0
+2011,NYC,Black Non Hispanic,F,<1,0,0,0
+2011,NYC,Black Non Hispanic,M,<1,0,0,0
+2011,NYC,Black Non Hispanic,F,Total,1,147,13
+2011,NYC,Black Non Hispanic,M,Total,5,309,50
+2011,NYC,Hispanic,F,1-9,0,0,0
+2011,NYC,Hispanic,M,1-9,0,0,0
+2011,NYC,Hispanic,F,10-19,0,0,3
+2011,NYC,Hispanic,M,10-19,0,0,6
+2011,NYC,Hispanic,F,20-24,0,2,2
+2011,NYC,Hispanic,M,20-24,1,4,13
+2011,NYC,Hispanic,F,25-34,0,2,4
+2011,NYC,Hispanic,M,25-34,3,26,21
+2011,NYC,Hispanic,F,35-44,1,8,5
+2011,NYC,Hispanic,M,35-44,1,53,17
+2011,NYC,Hispanic,F,45-54,0,25,6
+2011,NYC,Hispanic,M,45-54,0,132,17
+2011,NYC,Hispanic,F,55-64,0,30,0
+2011,NYC,Hispanic,M,55-64,2,161,8
+2011,NYC,Hispanic,F,65-74,0,27,1
+2011,NYC,Hispanic,M,65-74,0,82,3
+2011,NYC,Hispanic,F,75-84,0,25,1
+2011,NYC,Hispanic,M,75-84,0,25,5
+2011,NYC,Hispanic,F,85+,0,5,0
+2011,NYC,Hispanic,M,85+,0,10,0
+2011,NYC,Hispanic,F,<1,0,0,0
+2011,NYC,Hispanic,M,<1,0,0,0
+2011,NYC,Hispanic,F,Total,1,124,22
+2011,NYC,Hispanic,M,Total,7,493,90
+2011,NYC,Not Stated,M,1-9,0,0,0
+2011,NYC,Not Stated,F,10-19,0,0,0
+2011,NYC,Not Stated,M,10-19,0,0,1
+2011,NYC,Not Stated,F,20-24,0,0,0
+2011,NYC,Not Stated,M,20-24,0,0,0
+2011,NYC,Not Stated,F,25-34,0,0,0
+2011,NYC,Not Stated,M,25-34,2,1,3
+2011,NYC,Not Stated,F,35-44,0,0,0
+2011,NYC,Not Stated,M,35-44,0,1,0
+2011,NYC,Not Stated,F,45-54,0,0,0
+2011,NYC,Not Stated,M,45-54,0,3,1
+2011,NYC,Not Stated,F,55-64,0,0,0
+2011,NYC,Not Stated,M,55-64,0,6,1
+2011,NYC,Not Stated,F,65-74,0,0,0
+2011,NYC,Not Stated,M,65-74,0,4,0
+2011,NYC,Not Stated,F,75-84,0,0,0
+2011,NYC,Not Stated,M,75-84,0,1,1
+2011,NYC,Not Stated,F,85+,0,1,0
+2011,NYC,Not Stated,M,85+,0,0,0
+2011,NYC,Not Stated,F,<1,0,0,0
+2011,NYC,Not Stated,M,<1,0,0,0
+2011,NYC,Not Stated,F,Total,0,1,0
+2011,NYC,Not Stated,M,Total,2,16,7
+2011,NYC,Other Non Hispanic,F,1-9,0,0,0
+2011,NYC,Other Non Hispanic,M,1-9,0,0,0
+2011,NYC,Other Non Hispanic,F,10-19,0,0,1
+2011,NYC,Other Non Hispanic,M,10-19,0,0,2
+2011,NYC,Other Non Hispanic,F,20-24,0,0,1
+2011,NYC,Other Non Hispanic,M,20-24,1,0,2
+2011,NYC,Other Non Hispanic,F,25-34,0,0,9
+2011,NYC,Other Non Hispanic,M,25-34,0,1,5
+2011,NYC,Other Non Hispanic,F,35-44,0,2,1
+2011,NYC,Other Non Hispanic,M,35-44,0,10,9
+2011,NYC,Other Non Hispanic,F,45-54,0,6,4
+2011,NYC,Other Non Hispanic,M,45-54,0,13,8
+2011,NYC,Other Non Hispanic,F,55-64,0,2,0
+2011,NYC,Other Non Hispanic,M,55-64,0,19,11
+2011,NYC,Other Non Hispanic,F,65-74,0,6,3
+2011,NYC,Other Non Hispanic,M,65-74,0,9,7
+2011,NYC,Other Non Hispanic,F,75-84,0,4,3
+2011,NYC,Other Non Hispanic,M,75-84,0,2,2
+2011,NYC,Other Non Hispanic,F,85+,0,0,1
+2011,NYC,Other Non Hispanic,M,85+,0,3,2
+2011,NYC,Other Non Hispanic,F,<1,0,0,0
+2011,NYC,Other Non Hispanic,M,<1,0,0,0
+2011,NYC,Other Non Hispanic,F,Total,0,20,23
+2011,NYC,Other Non Hispanic,M,Total,1,57,48
+2011,NYC,White Non Hispanic,F,1-9,0,0,0
+2011,NYC,White Non Hispanic,M,1-9,0,0,0
+2011,NYC,White Non Hispanic,F,10-19,0,0,2
+2011,NYC,White Non Hispanic,M,10-19,0,1,8
+2011,NYC,White Non Hispanic,F,20-24,0,1,2
+2011,NYC,White Non Hispanic,M,20-24,0,6,4
+2011,NYC,White Non Hispanic,F,25-34,0,8,11
+2011,NYC,White Non Hispanic,M,25-34,1,11,18
+2011,NYC,White Non Hispanic,F,35-44,1,18,5
+2011,NYC,White Non Hispanic,M,35-44,2,35,31
+2011,NYC,White Non Hispanic,F,45-54,0,46,12
+2011,NYC,White Non Hispanic,M,45-54,2,106,44
+2011,NYC,White Non Hispanic,F,55-64,0,37,10
+2011,NYC,White Non Hispanic,M,55-64,0,147,33
+2011,NYC,White Non Hispanic,F,65-74,0,36,13
+2011,NYC,White Non Hispanic,M,65-74,0,67,22
+2011,NYC,White Non Hispanic,F,75-84,0,21,3
+2011,NYC,White Non Hispanic,M,75-84,1,35,11
+2011,NYC,White Non Hispanic,F,85+,0,10,6
+2011,NYC,White Non Hispanic,M,85+,0,7,1
+2011,NYC,White Non Hispanic,F,<1,0,0,0
+2011,NYC,White Non Hispanic,M,<1,0,0,0
+2011,NYC,White Non Hispanic,F,Total,1,177,64
+2011,NYC,White Non Hispanic,M,Total,6,415,172
+2011,ROS,Black Non Hispanic,F,1-9,0,0,0
+2011,ROS,Black Non Hispanic,M,1-9,0,0,0
+2011,ROS,Black Non Hispanic,F,10-19,1,1,1
+2011,ROS,Black Non Hispanic,M,10-19,15,0,4
+2011,ROS,Black Non Hispanic,F,20-24,2,0,3
+2011,ROS,Black Non Hispanic,M,20-24,25,0,8
+2011,ROS,Black Non Hispanic,F,25-34,3,2,2
+2011,ROS,Black Non Hispanic,M,25-34,27,1,9
+2011,ROS,Black Non Hispanic,F,35-44,0,2,3
+2011,ROS,Black Non Hispanic,M,35-44,9,7,13
+2011,ROS,Black Non Hispanic,F,45-54,0,16,0
+2011,ROS,Black Non Hispanic,M,45-54,3,29,6
+2011,ROS,Black Non Hispanic,F,55-64,0,15,2
+2010,ROS,Black Non Hispanic,M,55-64,5,51,2
+2010,ROS,Black Non Hispanic,F,65-74,0,7,0
+2010,ROS,Black Non Hispanic,M,65-74,2,15,1
+2010,ROS,Black Non Hispanic,F,75-84,0,3,0
+2010,ROS,Black Non Hispanic,M,75-84,2,2,1
+2010,ROS,Black Non Hispanic,F,85+,0,5,0
+2010,ROS,Black Non Hispanic,M,85+,0,0,0
+2010,ROS,Black Non Hispanic,F,<1,0,0,0
+2010,ROS,Black Non Hispanic,M,<1,0,0,0
+2010,ROS,Black Non Hispanic,F,Total,11,45,4
+2010,ROS,Black Non Hispanic,M,Total,124,126,40
+2010,ROS,Hispanic,F,1-9,0,0,0
+2010,ROS,Hispanic,M,1-9,1,0,0
+2010,ROS,Hispanic,F,10-19,1,0,0
+2010,ROS,Hispanic,M,10-19,5,0,7
+2010,ROS,Hispanic,F,20-24,1,0,2
+2010,ROS,Hispanic,M,20-24,6,0,5
+2010,ROS,Hispanic,F,25-34,1,2,2
+2010,ROS,Hispanic,M,25-34,8,16,12
+2010,ROS,Hispanic,F,35-44,2,2,2
+2010,ROS,Hispanic,M,35-44,4,19,8
+2010,ROS,Hispanic,F,45-54,0,2,0
+2010,ROS,Hispanic,M,45-54,3,27,10
+2010,ROS,Hispanic,F,55-64,0,7,1
+2010,ROS,Hispanic,M,55-64,0,30,2
+2010,ROS,Hispanic,F,65-74,0,6,1
+2010,ROS,Hispanic,M,65-74,1,12,1
+2010,ROS,Hispanic,F,75-84,1,4,0
+2010,ROS,Hispanic,M,75-84,0,10,0
+2010,ROS,Hispanic,F,85+,0,2,0
+2010,ROS,Hispanic,M,85+,0,2,0
+2010,ROS,Hispanic,F,<1,0,0,0
+2010,ROS,Hispanic,M,<1,0,0,0
+2010,ROS,Hispanic,F,Total,6,25,8
+2010,ROS,Hispanic,M,Total,28,116,45
+2010,ROS,Not Stated,M,1-9,0,0,0
+2010,ROS,Not Stated,F,10-19,0,0,1
+2010,ROS,Not Stated,M,10-19,0,0,0
+2010,ROS,Not Stated,M,20-24,2,0,1
+2010,ROS,Not Stated,F,25-34,0,0,1
+2010,ROS,Not Stated,M,25-34,3,1,2
+2010,ROS,Not Stated,F,35-44,0,1,1
+2010,ROS,Not Stated,M,35-44,1,0,0
+2010,ROS,Not Stated,F,45-54,0,3,0
+2010,ROS,Not Stated,M,45-54,1,0,1
+2010,ROS,Not Stated,F,55-64,0,0,0
+2010,ROS,Not Stated,M,55-64,0,0,0
+2010,ROS,Not Stated,F,65-74,0,1,0
+2010,ROS,Not Stated,M,65-74,0,3,0
+2010,ROS,Not Stated,F,75-84,0,1,0
+2010,ROS,Not Stated,M,75-84,0,2,1
+2010,ROS,Not Stated,F,85+,0,0,0
+2010,ROS,Not Stated,M,85+,0,0,0
+2010,ROS,Not Stated,F,<1,0,0,0
+2010,ROS,Not Stated,M,<1,0,0,0
+2010,ROS,Not Stated,F,Total,0,6,3
+2010,ROS,Not Stated,M,Total,7,6,5
+2010,ROS,Other Non Hispanic,F,1-9,0,0,0
+2010,ROS,Other Non Hispanic,M,1-9,0,0,0
+2010,ROS,Other Non Hispanic,F,10-19,0,0,0
+2010,ROS,Other Non Hispanic,M,10-19,0,0,0
+2010,ROS,Other Non Hispanic,F,20-24,0,0,0
+2010,ROS,Other Non Hispanic,M,20-24,1,1,2
+2010,ROS,Other Non Hispanic,F,25-34,0,0,0
+2010,ROS,Other Non Hispanic,M,25-34,1,2,5
+2010,ROS,Other Non Hispanic,F,35-44,0,0,2
+2010,ROS,Other Non Hispanic,M,35-44,0,0,3
+2010,ROS,Other Non Hispanic,F,45-54,0,3,0
+2010,ROS,Other Non Hispanic,M,45-54,0,5,4
+2010,ROS,Other Non Hispanic,F,55-64,0,5,1
+2010,ROS,Other Non Hispanic,M,55-64,0,6,1
+2010,ROS,Other Non Hispanic,F,65-74,0,2,0
+2010,ROS,Other Non Hispanic,M,65-74,1,3,1
+2010,ROS,Other Non Hispanic,F,75-84,0,3,0
+2010,ROS,Other Non Hispanic,M,75-84,0,2,0
+2010,ROS,Other Non Hispanic,F,85+,0,0,0
+2010,ROS,Other Non Hispanic,M,85+,0,0,0
+2010,ROS,Other Non Hispanic,F,<1,0,0,0
+2010,ROS,Other Non Hispanic,M,<1,0,0,0
+2010,ROS,Other Non Hispanic,F,Total,0,13,3
+2010,ROS,Other Non Hispanic,M,Total,3,19,16
+2010,ROS,White Non Hispanic,F,1-9,0,0,0
+2010,ROS,White Non Hispanic,M,1-9,2,0,0
+2010,ROS,White Non Hispanic,F,10-19,0,0,12
+2010,ROS,White Non Hispanic,M,10-19,13,3,31
+2010,ROS,White Non Hispanic,F,20-24,0,2,7
+2010,ROS,White Non Hispanic,M,20-24,23,12,55
+2010,ROS,White Non Hispanic,F,25-34,6,7,16
+2010,ROS,White Non Hispanic,M,25-34,31,36,83
+2010,ROS,White Non Hispanic,F,35-44,8,37,27
+2010,ROS,White Non Hispanic,M,35-44,68,102,139
+2010,ROS,White Non Hispanic,F,45-54,13,126,49
+2010,ROS,White Non Hispanic,M,45-54,93,300,203
+2010,ROS,White Non Hispanic,F,55-64,8,136,33
+2010,ROS,White Non Hispanic,M,55-64,57,442,110
+2010,ROS,White Non Hispanic,F,65-74,6,113,14
+2010,ROS,White Non Hispanic,M,65-74,52,227,69
+2010,ROS,White Non Hispanic,F,75-84,0,98,6
+2010,ROS,White Non Hispanic,M,75-84,38,145,53
+2010,ROS,White Non Hispanic,F,85+,1,46,5
+2010,ROS,White Non Hispanic,M,85+,12,51,20
+2010,ROS,White Non Hispanic,F,<1,0,0,0
+2010,ROS,White Non Hispanic,M,<1,1,0,0
+2010,ROS,White Non Hispanic,F,Total,42,565,169
+2010,ROS,White Non Hispanic,M,Total,390,1318,763
+2010,NYC,Black Non Hispanic,F,1-9,0,0,0
+2010,NYC,Black Non Hispanic,M,1-9,0,0,0
+2010,NYC,Black Non Hispanic,F,10-19,0,0,0
+2010,NYC,Black Non Hispanic,M,10-19,1,0,3
+2010,NYC,Black Non Hispanic,F,20-24,0,1,0
+2010,NYC,Black Non Hispanic,M,20-24,2,0,7
+2010,NYC,Black Non Hispanic,F,25-34,0,3,8
+2010,NYC,Black Non Hispanic,M,25-34,3,3,14
+2010,NYC,Black Non Hispanic,F,35-44,1,9,5
+2010,NYC,Black Non Hispanic,M,35-44,0,17,13
+2010,NYC,Black Non Hispanic,F,45-54,0,37,3
+2010,NYC,Black Non Hispanic,M,45-54,2,80,5
+2010,NYC,Black Non Hispanic,F,55-64,0,39,2
+2010,NYC,Black Non Hispanic,M,55-64,2,118,9
+2010,NYC,Black Non Hispanic,F,65-74,0,22,0
+2010,NYC,Black Non Hispanic,M,65-74,0,51,6
+2010,NYC,Black Non Hispanic,F,75-84,0,8,1
+2010,NYC,Black Non Hispanic,M,75-84,0,25,0
+2010,NYC,Black Non Hispanic,F,85+,0,3,0
+2010,NYC,Black Non Hispanic,M,85+,0,3,2
+2010,NYC,Black Non Hispanic,F,<1,0,0,0
+2010,NYC,Black Non Hispanic,M,<1,0,0,0
+2010,NYC,Black Non Hispanic,F,Total,1,122,19
+2010,NYC,Black Non Hispanic,M,Total,10,297,59
+2010,NYC,Hispanic,F,1-9,0,0,0
+2010,NYC,Hispanic,M,1-9,0,0,0
+2010,NYC,Hispanic,F,10-19,0,0,1
+2010,NYC,Hispanic,M,10-19,1,1,3
+2010,NYC,Hispanic,F,20-24,0,0,3
+2010,NYC,Hispanic,M,20-24,1,4,9
+2010,NYC,Hispanic,F,25-34,0,3,4
+2010,NYC,Hispanic,M,25-34,1,18,18
+2010,NYC,Hispanic,F,35-44,0,8,8
+2010,NYC,Hispanic,M,35-44,0,48,9
+2010,NYC,Hispanic,F,45-54,0,31,3
+2010,NYC,Hispanic,M,45-54,0,129,18
+2010,NYC,Hispanic,F,55-64,0,43,3
+2010,NYC,Hispanic,M,55-64,1,107,9
+2010,NYC,Hispanic,F,65-74,0,25,3
+2010,NYC,Hispanic,M,65-74,0,74,4
+2010,NYC,Hispanic,F,75-84,0,17,0
+2010,NYC,Hispanic,M,75-84,0,25,1
+2010,NYC,Hispanic,F,85+,0,10,0
+2010,NYC,Hispanic,M,85+,0,7,0
+2010,NYC,Hispanic,F,<1,0,0,0
+2010,NYC,Hispanic,M,<1,0,0,0
+2010,NYC,Hispanic,F,Total,0,137,25
+2010,NYC,Hispanic,M,Total,4,413,71
+2010,NYC,Not Stated,F,1-9,0,0,0
+2010,NYC,Not Stated,F,10-19,0,0,1
+2010,NYC,Not Stated,M,10-19,0,0,0
+2010,NYC,Not Stated,F,20-24,0,0,1
+2010,NYC,Not Stated,M,20-24,0,0,0
+2010,NYC,Not Stated,F,25-34,0,0,0
+2010,NYC,Not Stated,M,25-34,0,0,0
+2010,NYC,Not Stated,F,35-44,0,1,0
+2010,NYC,Not Stated,M,35-44,0,5,1
+2010,NYC,Not Stated,F,45-54,0,0,0
+2010,NYC,Not Stated,M,45-54,0,5,2
+2010,NYC,Not Stated,F,55-64,0,3,0
+2010,NYC,Not Stated,M,55-64,0,6,1
+2010,NYC,Not Stated,F,65-74,0,1,0
+2010,NYC,Not Stated,M,65-74,0,8,0
+2010,NYC,Not Stated,F,75-84,0,0,0
+2010,NYC,Not Stated,M,75-84,0,0,0
+2010,NYC,Not Stated,F,85+,0,0,0
+2010,NYC,Not Stated,M,85+,0,0,0
+2010,NYC,Not Stated,F,<1,0,0,0
+2010,NYC,Not Stated,M,<1,0,0,0
+2010,NYC,Not Stated,F,Total,0,5,2
+2010,NYC,Not Stated,M,Total,0,24,4
+2010,NYC,Other Non Hispanic,F,1-9,0,0,0
+2010,NYC,Other Non Hispanic,M,1-9,0,0,0
+2010,NYC,Other Non Hispanic,F,10-19,0,0,1
+2010,NYC,Other Non Hispanic,M,10-19,0,0,0
+2010,NYC,Other Non Hispanic,F,20-24,0,0,0
+2010,NYC,Other Non Hispanic,M,20-24,0,0,5
+2010,NYC,Other Non Hispanic,F,25-34,0,0,2
+2010,NYC,Other Non Hispanic,M,25-34,1,1,4
+2010,NYC,Other Non Hispanic,F,35-44,0,1,3
+2010,NYC,Other Non Hispanic,M,35-44,0,6,11
+2010,NYC,Other Non Hispanic,F,45-54,0,4,4
+2010,NYC,Other Non Hispanic,M,45-54,0,19,8
+2010,NYC,Other Non Hispanic,F,55-64,0,5,2
+2010,NYC,Other Non Hispanic,M,55-64,0,19,5
+2010,NYC,Other Non Hispanic,F,65-74,0,2,2
+2010,NYC,Other Non Hispanic,M,65-74,0,9,4
+2010,NYC,Other Non Hispanic,F,75-84,0,4,1
+2010,NYC,Other Non Hispanic,M,75-84,0,4,1
+2010,NYC,Other Non Hispanic,F,85+,0,5,0
+2010,NYC,Other Non Hispanic,M,85+,0,1,1
+2010,NYC,Other Non Hispanic,F,<1,0,0,0
+2010,NYC,Other Non Hispanic,M,<1,0,0,0
+2010,NYC,Other Non Hispanic,F,Total,0,21,15
+2010,NYC,Other Non Hispanic,M,Total,1,59,39
+2010,NYC,White Non Hispanic,F,1-9,0,0,0
+2010,NYC,White Non Hispanic,M,1-9,0,0,0
+2010,NYC,White Non Hispanic,F,10-19,0,0,2
+2010,NYC,White Non Hispanic,M,10-19,0,0,5
+2010,NYC,White Non Hispanic,F,20-24,0,0,2
+2010,NYC,White Non Hispanic,M,20-24,1,2,4
+2010,NYC,White Non Hispanic,F,25-34,0,9,11
+2010,NYC,White Non Hispanic,M,25-34,1,16,13
+2010,NYC,White Non Hispanic,F,35-44,0,12,4
+2010,NYC,White Non Hispanic,M,35-44,0,42,31
+2010,NYC,White Non Hispanic,F,45-54,0,30,17
+2010,NYC,White Non Hispanic,M,45-54,3,106,51
+2010,NYC,White Non Hispanic,F,55-64,0,38,9
+2010,NYC,White Non Hispanic,M,55-64,2,127,41
+2010,NYC,White Non Hispanic,F,65-74,0,32,7
+2010,NYC,White Non Hispanic,M,65-74,0,64,7
+2010,NYC,White Non Hispanic,F,75-84,0,20,1
+2010,NYC,White Non Hispanic,M,75-84,0,39,9
+2010,NYC,White Non Hispanic,F,85+,0,7,2
+2010,NYC,White Non Hispanic,M,85+,0,11,5
+2010,NYC,White Non Hispanic,F,<1,0,0,0
+2010,NYC,White Non Hispanic,M,<1,0,0,0
+2010,NYC,White Non Hispanic,F,Total,0,148,55
+2010,NYC,White Non Hispanic,M,Total,7,407,166
+2010,ROS,Black Non Hispanic,F,1-9,1,0,0
+2010,ROS,Black Non Hispanic,M,1-9,1,0,0
+2010,ROS,Black Non Hispanic,F,10-19,1,0,0
+2010,ROS,Black Non Hispanic,M,10-19,19,0,2
+2010,ROS,Black Non Hispanic,F,20-24,0,1,1
+2010,ROS,Black Non Hispanic,M,20-24,37,1,11
+2010,ROS,Black Non Hispanic,F,25-34,6,0,1
+2010,ROS,Black Non Hispanic,M,25-34,38,6,8
+2010,ROS,Black Non Hispanic,F,35-44,1,4,0
+2010,ROS,Black Non Hispanic,M,35-44,13,9,9
+2010,ROS,Black Non Hispanic,F,45-54,2,15,0
+2010,ROS,Black Non Hispanic,M,45-54,7,42,6
+2010,ROS,Black Non Hispanic,F,55-64,0,10,2
+2009,ROS,Black Non Hispanic,M,65-74,0,18,0
+2009,ROS,Black Non Hispanic,F,75-84,0,3,0
+2009,ROS,Black Non Hispanic,M,75-84,2,5,1
+2009,ROS,Black Non Hispanic,F,85+,0,1,0
+2009,ROS,Black Non Hispanic,M,85+,0,0,0
+2009,ROS,Black Non Hispanic,F,<1,0,0,0
+2009,ROS,Black Non Hispanic,M,<1,0,0,0
+2009,ROS,Black Non Hispanic,F,Total,8,51,12
+2009,ROS,Black Non Hispanic,M,Total,109,115,32
+2009,ROS,Hispanic,F,1-9,0,0,0
+2009,ROS,Hispanic,M,1-9,0,0,0
+2009,ROS,Hispanic,F,10-19,0,0,3
+2009,ROS,Hispanic,M,10-19,5,2,2
+2009,ROS,Hispanic,F,20-24,0,0,0
+2009,ROS,Hispanic,M,20-24,6,0,4
+2009,ROS,Hispanic,F,25-34,0,0,0
+2009,ROS,Hispanic,M,25-34,11,11,7
+2009,ROS,Hispanic,F,35-44,2,2,4
+2009,ROS,Hispanic,M,35-44,2,14,9
+2009,ROS,Hispanic,F,45-54,1,4,1
+2009,ROS,Hispanic,M,45-54,2,24,8
+2009,ROS,Hispanic,F,55-64,0,9,0
+2009,ROS,Hispanic,M,55-64,1,26,1
+2009,ROS,Hispanic,F,65-74,0,8,0
+2009,ROS,Hispanic,M,65-74,0,14,0
+2009,ROS,Hispanic,F,75-84,0,2,0
+2009,ROS,Hispanic,M,75-84,1,5,2
+2009,ROS,Hispanic,F,85+,0,1,0
+2009,ROS,Hispanic,M,85+,0,1,0
+2009,ROS,Hispanic,F,<1,0,0,0
+2009,ROS,Hispanic,M,<1,0,0,0
+2009,ROS,Hispanic,F,Total,3,26,8
+2009,ROS,Hispanic,M,Total,28,97,33
+2009,ROS,Not Stated,F,1-9,0,0,0
+2009,ROS,Not Stated,M,1-9,0,0,0
+2009,ROS,Not Stated,F,10-19,0,0,0
+2009,ROS,Not Stated,M,10-19,0,0,0
+2009,ROS,Not Stated,F,20-24,0,0,0
+2009,ROS,Not Stated,M,20-24,2,1,1
+2009,ROS,Not Stated,F,25-34,0,1,0
+2009,ROS,Not Stated,M,25-34,0,2,0
+2009,ROS,Not Stated,F,35-44,0,0,0
+2009,ROS,Not Stated,M,35-44,1,0,1
+2009,ROS,Not Stated,F,45-54,0,0,0
+2009,ROS,Not Stated,M,45-54,0,5,0
+2009,ROS,Not Stated,F,55-64,0,0,0
+2009,ROS,Not Stated,M,55-64,0,1,0
+2009,ROS,Not Stated,F,65-74,0,1,0
+2009,ROS,Not Stated,M,65-74,0,6,0
+2009,ROS,Not Stated,F,75-84,0,0,0
+2009,ROS,Not Stated,M,75-84,0,3,0
+2009,ROS,Not Stated,F,85+,0,0,0
+2009,ROS,Not Stated,M,85+,0,0,0
+2009,ROS,Not Stated,F,<1,0,0,0
+2009,ROS,Not Stated,M,<1,0,0,0
+2009,ROS,Not Stated,F,Total,0,2,0
+2009,ROS,Not Stated,M,Total,3,18,2
+2009,ROS,Other Non Hispanic,F,1-9,0,0,0
+2009,ROS,Other Non Hispanic,M,1-9,0,0,0
+2009,ROS,Other Non Hispanic,F,10-19,0,0,0
+2009,ROS,Other Non Hispanic,M,10-19,0,0,2
+2009,ROS,Other Non Hispanic,F,20-24,1,0,0
+2009,ROS,Other Non Hispanic,M,20-24,0,1,4
+2009,ROS,Other Non Hispanic,F,25-34,0,1,2
+2009,ROS,Other Non Hispanic,M,25-34,0,0,0
+2009,ROS,Other Non Hispanic,F,35-44,2,1,1
+2009,ROS,Other Non Hispanic,M,35-44,1,3,4
+2009,ROS,Other Non Hispanic,F,45-54,3,2,0
+2009,ROS,Other Non Hispanic,M,45-54,2,7,3
+2009,ROS,Other Non Hispanic,F,55-64,1,2,0
+2009,ROS,Other Non Hispanic,M,55-64,0,7,1
+2009,ROS,Other Non Hispanic,F,65-74,0,3,1
+2009,ROS,Other Non Hispanic,M,65-74,1,0,1
+2009,ROS,Other Non Hispanic,F,75-84,0,0,0
+2009,ROS,Other Non Hispanic,M,75-84,0,0,0
+2009,ROS,Other Non Hispanic,F,85+,0,0,0
+2009,ROS,Other Non Hispanic,M,85+,0,0,0
+2009,ROS,Other Non Hispanic,F,<1,0,0,0
+2009,ROS,Other Non Hispanic,M,<1,0,0,0
+2009,ROS,Other Non Hispanic,F,Total,7,9,4
+2009,ROS,Other Non Hispanic,M,Total,4,18,15
+2009,ROS,White Non Hispanic,F,1-9,0,0,0
+2009,ROS,White Non Hispanic,M,1-9,1,0,0
+2009,ROS,White Non Hispanic,F,10-19,4,0,9
+2009,ROS,White Non Hispanic,M,10-19,17,2,32
+2009,ROS,White Non Hispanic,F,20-24,2,2,11
+2009,ROS,White Non Hispanic,M,20-24,27,8,55
+2009,ROS,White Non Hispanic,F,25-34,4,7,19
+2009,ROS,White Non Hispanic,M,25-34,35,34,67
+2009,ROS,White Non Hispanic,F,35-44,6,39,32
+2009,ROS,White Non Hispanic,M,35-44,41,93,106
+2009,ROS,White Non Hispanic,F,45-54,7,95,43
+2009,ROS,White Non Hispanic,M,45-54,70,333,172
+2009,ROS,White Non Hispanic,F,55-64,8,118,23
+2009,ROS,White Non Hispanic,M,55-64,63,369,118
+2009,ROS,White Non Hispanic,F,65-74,4,106,12
+2009,ROS,White Non Hispanic,M,65-74,42,226,65
+2009,ROS,White Non Hispanic,F,75-84,2,100,4
+2009,ROS,White Non Hispanic,M,75-84,27,148,40
+2009,ROS,White Non Hispanic,F,85+,6,50,8
+2009,ROS,White Non Hispanic,M,85+,20,47,27
+2009,ROS,White Non Hispanic,F,<1,0,0,0
+2009,ROS,White Non Hispanic,M,<1,0,0,0
+2009,ROS,White Non Hispanic,F,Total,43,517,161
+2009,ROS,White Non Hispanic,M,Total,343,1260,682
+2009,NYC,Black Non Hispanic,F,1-9,0,0,0
+2009,NYC,Black Non Hispanic,M,1-9,0,0,0
+2009,NYC,Black Non Hispanic,F,10-19,0,0,1
+2009,NYC,Black Non Hispanic,M,10-19,3,0,4
+2009,NYC,Black Non Hispanic,F,20-24,0,0,4
+2009,NYC,Black Non Hispanic,M,20-24,6,1,6
+2009,NYC,Black Non Hispanic,F,25-34,1,1,4
+2009,NYC,Black Non Hispanic,M,25-34,2,3,10
+2009,NYC,Black Non Hispanic,F,35-44,0,21,4
+2009,NYC,Black Non Hispanic,M,35-44,5,22,14
+2009,NYC,Black Non Hispanic,F,45-54,1,42,3
+2009,NYC,Black Non Hispanic,M,45-54,1,92,12
+2009,NYC,Black Non Hispanic,F,55-64,0,39,2
+2009,NYC,Black Non Hispanic,M,55-64,1,118,5
+2009,NYC,Black Non Hispanic,F,65-74,0,19,0
+2009,NYC,Black Non Hispanic,M,65-74,0,62,1
+2009,NYC,Black Non Hispanic,F,75-84,0,12,0
+2009,NYC,Black Non Hispanic,M,75-84,0,25,2
+2009,NYC,Black Non Hispanic,F,85+,0,2,0
+2009,NYC,Black Non Hispanic,M,85+,0,5,0
+2009,NYC,Black Non Hispanic,F,<1,0,0,0
+2009,NYC,Black Non Hispanic,M,<1,0,1,0
+2009,NYC,Black Non Hispanic,F,Total,2,136,18
+2009,NYC,Black Non Hispanic,M,Total,18,329,54
+2009,NYC,Hispanic,F,1-9,0,0,0
+2009,NYC,Hispanic,M,1-9,0,0,1
+2009,NYC,Hispanic,F,10-19,0,0,3
+2009,NYC,Hispanic,M,10-19,0,1,1
+2009,NYC,Hispanic,F,20-24,0,0,1
+2009,NYC,Hispanic,M,20-24,0,1,9
+2009,NYC,Hispanic,F,25-34,0,3,1
+2009,NYC,Hispanic,M,25-34,6,19,19
+2009,NYC,Hispanic,F,35-44,0,15,4
+2009,NYC,Hispanic,M,35-44,3,48,13
+2009,NYC,Hispanic,F,45-54,0,25,1
+2009,NYC,Hispanic,M,45-54,0,138,16
+2009,NYC,Hispanic,F,55-64,0,33,4
+2009,NYC,Hispanic,M,55-64,0,117,6
+2009,NYC,Hispanic,F,65-74,0,12,4
+2009,NYC,Hispanic,M,65-74,0,67,3
+2009,NYC,Hispanic,F,75-84,0,25,0
+2009,NYC,Hispanic,M,75-84,0,28,2
+2009,NYC,Hispanic,F,85+,0,6,1
+2009,NYC,Hispanic,M,85+,0,3,1
+2009,NYC,Hispanic,F,<1,0,0,0
+2009,NYC,Hispanic,M,<1,0,0,0
+2009,NYC,Hispanic,F,Total,0,119,19
+2009,NYC,Hispanic,M,Total,9,422,71
+2009,NYC,Not Stated,F,1-9,0,0,0
+2009,NYC,Not Stated,M,1-9,0,0,0
+2009,NYC,Not Stated,M,10-19,0,0,0
+2009,NYC,Not Stated,M,20-24,0,0,0
+2009,NYC,Not Stated,M,25-34,1,0,1
+2009,NYC,Not Stated,F,35-44,0,1,0
+2009,NYC,Not Stated,M,35-44,0,4,0
+2009,NYC,Not Stated,F,45-54,0,1,0
+2009,NYC,Not Stated,M,45-54,0,7,0
+2009,NYC,Not Stated,F,55-64,0,0,1
+2009,NYC,Not Stated,M,55-64,1,2,1
+2009,NYC,Not Stated,F,65-74,0,1,0
+2009,NYC,Not Stated,M,65-74,0,4,1
+2009,NYC,Not Stated,F,75-84,0,0,0
+2009,NYC,Not Stated,M,75-84,0,0,0
+2009,NYC,Not Stated,F,85+,0,0,0
+2009,NYC,Not Stated,M,85+,0,0,0
+2009,NYC,Not Stated,F,<1,0,0,0
+2009,NYC,Not Stated,M,<1,0,0,0
+2009,NYC,Not Stated,F,Total,0,3,1
+2009,NYC,Not Stated,M,Total,2,17,3
+2009,NYC,Other Non Hispanic,F,1-9,0,0,0
+2009,NYC,Other Non Hispanic,M,1-9,0,0,0
+2009,NYC,Other Non Hispanic,F,10-19,0,0,1
+2009,NYC,Other Non Hispanic,M,10-19,0,0,2
+2009,NYC,Other Non Hispanic,F,20-24,0,0,2
+2009,NYC,Other Non Hispanic,M,20-24,0,0,2
+2009,NYC,Other Non Hispanic,F,25-34,0,0,3
+2009,NYC,Other Non Hispanic,M,25-34,0,2,5
+2009,NYC,Other Non Hispanic,F,35-44,0,2,2
+2009,NYC,Other Non Hispanic,M,35-44,0,12,6
+2009,NYC,Other Non Hispanic,F,45-54,0,6,4
+2009,NYC,Other Non Hispanic,M,45-54,0,13,6
+2009,NYC,Other Non Hispanic,F,55-64,0,5,2
+2009,NYC,Other Non Hispanic,M,55-64,0,12,6
+2009,NYC,Other Non Hispanic,F,65-74,0,4,1
+2009,NYC,Other Non Hispanic,M,65-74,0,8,3
+2009,NYC,Other Non Hispanic,F,75-84,0,7,0
+2009,NYC,Other Non Hispanic,M,75-84,0,6,2
+2009,NYC,Other Non Hispanic,F,85+,0,0,2
+2009,NYC,Other Non Hispanic,M,85+,0,2,0
+2009,NYC,Other Non Hispanic,F,<1,0,0,0
+2009,NYC,Other Non Hispanic,M,<1,0,0,0
+2009,NYC,Other Non Hispanic,F,Total,0,24,17
+2009,NYC,Other Non Hispanic,M,Total,0,55,32
+2009,NYC,White Non Hispanic,F,1-9,0,0,0
+2009,NYC,White Non Hispanic,M,1-9,0,0,0
+2009,NYC,White Non Hispanic,F,10-19,0,0,1
+2009,NYC,White Non Hispanic,M,10-19,0,0,5
+2009,NYC,White Non Hispanic,F,20-24,0,0,4
+2009,NYC,White Non Hispanic,M,20-24,1,1,9
+2009,NYC,White Non Hispanic,F,25-34,0,4,4
+2009,NYC,White Non Hispanic,M,25-34,1,18,23
+2009,NYC,White Non Hispanic,F,35-44,0,7,10
+2009,NYC,White Non Hispanic,M,35-44,1,41,28
+2009,NYC,White Non Hispanic,F,45-54,1,34,10
+2009,NYC,White Non Hispanic,M,45-54,1,123,44
+2009,NYC,White Non Hispanic,F,55-64,0,48,11
+2009,NYC,White Non Hispanic,M,55-64,1,148,39
+2009,NYC,White Non Hispanic,F,65-74,0,35,5
+2009,NYC,White Non Hispanic,M,65-74,0,83,11
+2009,NYC,White Non Hispanic,F,75-84,1,28,7
+2009,NYC,White Non Hispanic,M,75-84,1,37,15
+2009,NYC,White Non Hispanic,F,85+,0,6,2
+2009,NYC,White Non Hispanic,M,85+,0,17,4
+2009,NYC,White Non Hispanic,F,<1,0,0,0
+2009,NYC,White Non Hispanic,M,<1,0,0,0
+2009,NYC,White Non Hispanic,F,Total,2,162,54
+2009,NYC,White Non Hispanic,M,Total,6,468,178
+2009,ROS,Black Non Hispanic,F,1-9,0,0,0
+2009,ROS,Black Non Hispanic,M,1-9,0,0,0
+2009,ROS,Black Non Hispanic,F,10-19,1,1,3
+2009,ROS,Black Non Hispanic,M,10-19,13,0,0
+2009,ROS,Black Non Hispanic,F,20-24,2,0,0
+2009,ROS,Black Non Hispanic,M,20-24,28,3,5
+2009,ROS,Black Non Hispanic,F,25-34,2,0,1
+2009,ROS,Black Non Hispanic,M,25-34,44,3,7
+2009,ROS,Black Non Hispanic,F,35-44,1,4,4
+2009,ROS,Black Non Hispanic,M,35-44,16,14,10
+2009,ROS,Black Non Hispanic,F,45-54,2,16,3
+2009,ROS,Black Non Hispanic,M,45-54,4,29,7
+2009,ROS,Black Non Hispanic,F,55-64,0,17,0
+2009,ROS,Black Non Hispanic,M,55-64,2,43,2
+2009,ROS,Black Non Hispanic,F,65-74,0,9,1
+2008,ROS,Black Non Hispanic,F,65-74,0,5,0
+2008,ROS,Black Non Hispanic,M,65-74,0,13,0
+2008,ROS,Black Non Hispanic,F,75-84,0,5,0
+2008,ROS,Black Non Hispanic,M,75-84,1,6,1
+2008,ROS,Black Non Hispanic,F,85+,0,1,0
+2008,ROS,Black Non Hispanic,M,85+,0,0,0
+2008,ROS,Black Non Hispanic,F,<1,0,0,0
+2008,ROS,Black Non Hispanic,M,<1,0,0,0
+2008,ROS,Black Non Hispanic,F,Total,9,41,9
+2008,ROS,Black Non Hispanic,M,Total,107,90,30
+2008,ROS,Hispanic,F,1-9,0,0,0
+2008,ROS,Hispanic,M,1-9,0,0,0
+2008,ROS,Hispanic,F,10-19,1,0,1
+2008,ROS,Hispanic,M,10-19,1,0,1
+2008,ROS,Hispanic,F,20-24,0,0,1
+2008,ROS,Hispanic,M,20-24,5,2,2
+2008,ROS,Hispanic,F,25-34,1,0,1
+2008,ROS,Hispanic,M,25-34,12,8,12
+2008,ROS,Hispanic,F,35-44,0,6,1
+2008,ROS,Hispanic,M,35-44,7,19,6
+2008,ROS,Hispanic,F,45-54,1,9,1
+2008,ROS,Hispanic,M,45-54,3,25,8
+2008,ROS,Hispanic,F,55-64,0,8,0
+2008,ROS,Hispanic,M,55-64,1,30,5
+2008,ROS,Hispanic,F,65-74,0,5,0
+2008,ROS,Hispanic,M,65-74,0,12,2
+2008,ROS,Hispanic,F,75-84,0,4,0
+2008,ROS,Hispanic,M,75-84,0,4,1
+2008,ROS,Hispanic,F,85+,0,1,0
+2008,ROS,Hispanic,M,85+,0,0,0
+2008,ROS,Hispanic,F,<1,0,0,0
+2008,ROS,Hispanic,M,<1,0,0,0
+2008,ROS,Hispanic,F,Total,3,33,5
+2008,ROS,Hispanic,M,Total,29,100,37
+2008,ROS,Not Stated,F,1-9,0,0,0
+2008,ROS,Not Stated,F,10-19,1,0,0
+2008,ROS,Not Stated,M,10-19,1,0,0
+2008,ROS,Not Stated,M,20-24,1,0,1
+2008,ROS,Not Stated,F,25-34,0,0,0
+2008,ROS,Not Stated,M,25-34,1,0,1
+2008,ROS,Not Stated,F,35-44,0,0,1
+2008,ROS,Not Stated,M,35-44,0,4,1
+2008,ROS,Not Stated,F,45-54,0,1,0
+2008,ROS,Not Stated,M,45-54,0,0,0
+2008,ROS,Not Stated,F,55-64,0,1,0
+2008,ROS,Not Stated,M,55-64,0,2,0
+2008,ROS,Not Stated,F,65-74,0,1,0
+2008,ROS,Not Stated,M,65-74,0,3,2
+2008,ROS,Not Stated,F,75-84,0,0,0
+2008,ROS,Not Stated,M,75-84,0,1,0
+2008,ROS,Not Stated,F,85+,0,0,0
+2008,ROS,Not Stated,M,85+,0,0,1
+2008,ROS,Not Stated,F,<1,0,0,0
+2008,ROS,Not Stated,M,<1,0,0,0
+2008,ROS,Not Stated,F,Total,1,3,1
+2008,ROS,Not Stated,M,Total,3,10,6
+2008,ROS,Other Non Hispanic,F,1-9,0,0,0
+2008,ROS,Other Non Hispanic,M,1-9,0,0,0
+2008,ROS,Other Non Hispanic,F,10-19,0,0,0
+2008,ROS,Other Non Hispanic,M,10-19,1,0,2
+2008,ROS,Other Non Hispanic,F,20-24,0,0,0
+2008,ROS,Other Non Hispanic,M,20-24,1,1,2
+2008,ROS,Other Non Hispanic,F,25-34,0,0,0
+2008,ROS,Other Non Hispanic,M,25-34,1,0,2
+2008,ROS,Other Non Hispanic,F,35-44,0,2,0
+2008,ROS,Other Non Hispanic,M,35-44,2,6,1
+2008,ROS,Other Non Hispanic,F,45-54,0,1,0
+2008,ROS,Other Non Hispanic,M,45-54,0,7,2
+2008,ROS,Other Non Hispanic,F,55-64,0,1,0
+2008,ROS,Other Non Hispanic,M,55-64,0,3,0
+2008,ROS,Other Non Hispanic,F,65-74,0,0,1
+2008,ROS,Other Non Hispanic,M,65-74,0,4,2
+2008,ROS,Other Non Hispanic,F,75-84,0,2,0
+2008,ROS,Other Non Hispanic,M,75-84,0,2,0
+2008,ROS,Other Non Hispanic,F,85+,0,1,1
+2008,ROS,Other Non Hispanic,M,85+,0,1,0
+2008,ROS,Other Non Hispanic,F,<1,0,0,0
+2008,ROS,Other Non Hispanic,M,<1,0,0,0
+2008,ROS,Other Non Hispanic,F,Total,0,7,2
+2008,ROS,Other Non Hispanic,M,Total,5,24,11
+2008,ROS,White Non Hispanic,F,1-9,0,1,0
+2008,ROS,White Non Hispanic,M,1-9,1,0,0
+2008,ROS,White Non Hispanic,F,10-19,2,1,5
+2008,ROS,White Non Hispanic,M,10-19,17,4,26
+2008,ROS,White Non Hispanic,F,20-24,4,5,16
+2008,ROS,White Non Hispanic,M,20-24,15,20,43
+2008,ROS,White Non Hispanic,F,25-34,7,9,14
+2008,ROS,White Non Hispanic,M,25-34,40,35,78
+2008,ROS,White Non Hispanic,F,35-44,9,34,30
+2008,ROS,White Non Hispanic,M,35-44,61,96,135
+2008,ROS,White Non Hispanic,F,45-54,9,126,57
+2008,ROS,White Non Hispanic,M,45-54,66,313,148
+2008,ROS,White Non Hispanic,F,55-64,4,120,35
+2008,ROS,White Non Hispanic,M,55-64,57,381,102
+2008,ROS,White Non Hispanic,F,65-74,1,112,12
+2008,ROS,White Non Hispanic,M,65-74,41,212,56
+2008,ROS,White Non Hispanic,F,75-84,2,121,9
+2008,ROS,White Non Hispanic,M,75-84,30,165,47
+2008,ROS,White Non Hispanic,F,85+,4,55,3
+2008,ROS,White Non Hispanic,M,85+,16,41,20
+2008,ROS,White Non Hispanic,F,<1,0,0,0
+2008,ROS,White Non Hispanic,M,<1,0,0,0
+2008,ROS,White Non Hispanic,F,Total,42,584,181
+2008,ROS,White Non Hispanic,M,Total,344,1267,655
+2008,NYC,Black Non Hispanic,F,1-9,0,0,0
+2008,NYC,Black Non Hispanic,M,1-9,0,0,0
+2008,NYC,Black Non Hispanic,F,10-19,0,0,2
+2008,NYC,Black Non Hispanic,M,10-19,2,0,3
+2008,NYC,Black Non Hispanic,F,20-24,0,0,2
+2008,NYC,Black Non Hispanic,M,20-24,11,0,7
+2008,NYC,Black Non Hispanic,F,25-34,0,2,5
+2008,NYC,Black Non Hispanic,M,25-34,3,2,10
+2008,NYC,Black Non Hispanic,F,35-44,0,18,5
+2008,NYC,Black Non Hispanic,M,35-44,0,24,10
+2008,NYC,Black Non Hispanic,F,45-54,0,44,4
+2008,NYC,Black Non Hispanic,M,45-54,0,72,10
+2008,NYC,Black Non Hispanic,F,55-64,0,42,0
+2008,NYC,Black Non Hispanic,M,55-64,0,113,2
+2008,NYC,Black Non Hispanic,F,65-74,0,18,0
+2008,NYC,Black Non Hispanic,M,65-74,0,51,4
+2008,NYC,Black Non Hispanic,F,75-84,0,12,1
+2008,NYC,Black Non Hispanic,M,75-84,0,13,1
+2008,NYC,Black Non Hispanic,F,85+,0,2,0
+2008,NYC,Black Non Hispanic,M,85+,0,3,0
+2008,NYC,Black Non Hispanic,F,<1,0,0,0
+2008,NYC,Black Non Hispanic,M,<1,0,0,0
+2008,NYC,Black Non Hispanic,F,Total,0,138,19
+2008,NYC,Black Non Hispanic,M,Total,16,278,47
+2008,NYC,Hispanic,F,1-9,0,0,0
+2008,NYC,Hispanic,M,1-9,0,0,0
+2008,NYC,Hispanic,F,10-19,0,0,3
+2008,NYC,Hispanic,M,10-19,0,2,3
+2008,NYC,Hispanic,F,20-24,0,0,1
+2008,NYC,Hispanic,M,20-24,2,5,6
+2008,NYC,Hispanic,F,25-34,0,0,3
+2008,NYC,Hispanic,M,25-34,1,29,14
+2008,NYC,Hispanic,F,35-44,1,15,4
+2008,NYC,Hispanic,M,35-44,2,62,14
+2008,NYC,Hispanic,F,45-54,0,32,3
+2008,NYC,Hispanic,M,45-54,1,130,16
+2008,NYC,Hispanic,F,55-64,0,30,3
+2008,NYC,Hispanic,M,55-64,0,147,12
+2008,NYC,Hispanic,F,65-74,0,34,2
+2008,NYC,Hispanic,M,65-74,0,63,4
+2008,NYC,Hispanic,F,75-84,0,17,0
+2008,NYC,Hispanic,M,75-84,0,15,2
+2008,NYC,Hispanic,F,85+,0,7,0
+2008,NYC,Hispanic,M,85+,0,5,0
+2008,NYC,Hispanic,F,<1,0,0,0
+2008,NYC,Hispanic,M,<1,0,0,0
+2008,NYC,Hispanic,F,Total,1,135,19
+2008,NYC,Hispanic,M,Total,6,458,71
+2008,NYC,Not Stated,M,1-9,0,0,0
+2008,NYC,Not Stated,M,10-19,0,0,1
+2008,NYC,Not Stated,F,20-24,0,0,0
+2008,NYC,Not Stated,M,20-24,1,0,0
+2008,NYC,Not Stated,F,25-34,0,0,1
+2008,NYC,Not Stated,M,25-34,1,1,0
+2008,NYC,Not Stated,F,35-44,0,0,0
+2008,NYC,Not Stated,M,35-44,0,3,2
+2008,NYC,Not Stated,F,45-54,0,1,0
+2008,NYC,Not Stated,M,45-54,0,4,0
+2008,NYC,Not Stated,F,55-64,0,0,0
+2008,NYC,Not Stated,M,55-64,0,6,0
+2008,NYC,Not Stated,F,65-74,0,0,1
+2008,NYC,Not Stated,M,65-74,0,2,0
+2008,NYC,Not Stated,F,75-84,0,1,1
+2008,NYC,Not Stated,M,75-84,0,0,0
+2008,NYC,Not Stated,F,85+,0,0,0
+2008,NYC,Not Stated,M,85+,0,0,0
+2008,NYC,Not Stated,F,<1,0,0,0
+2008,NYC,Not Stated,M,<1,0,0,0
+2008,NYC,Not Stated,F,Total,0,2,3
+2008,NYC,Not Stated,M,Total,2,16,3
+2008,NYC,Other Non Hispanic,F,1-9,0,0,0
+2008,NYC,Other Non Hispanic,M,1-9,0,0,0
+2008,NYC,Other Non Hispanic,F,10-19,0,0,0
+2008,NYC,Other Non Hispanic,M,10-19,0,2,1
+2008,NYC,Other Non Hispanic,F,20-24,0,0,0
+2008,NYC,Other Non Hispanic,M,20-24,0,0,1
+2008,NYC,Other Non Hispanic,F,25-34,0,0,8
+2008,NYC,Other Non Hispanic,M,25-34,0,3,6
+2008,NYC,Other Non Hispanic,F,35-44,0,1,7
+2008,NYC,Other Non Hispanic,M,35-44,0,12,6
+2008,NYC,Other Non Hispanic,F,45-54,0,2,5
+2008,NYC,Other Non Hispanic,M,45-54,0,11,10
+2008,NYC,Other Non Hispanic,F,55-64,0,3,1
+2008,NYC,Other Non Hispanic,M,55-64,0,17,0
+2008,NYC,Other Non Hispanic,F,65-74,0,7,2
+2008,NYC,Other Non Hispanic,M,65-74,0,9,4
+2008,NYC,Other Non Hispanic,F,75-84,0,0,2
+2008,NYC,Other Non Hispanic,M,75-84,0,5,1
+2008,NYC,Other Non Hispanic,F,85+,0,5,1
+2008,NYC,Other Non Hispanic,M,85+,0,0,1
+2008,NYC,Other Non Hispanic,F,<1,0,0,0
+2008,NYC,Other Non Hispanic,M,<1,0,0,0
+2008,NYC,Other Non Hispanic,F,Total,0,18,26
+2008,NYC,Other Non Hispanic,M,Total,0,59,30
+2008,NYC,White Non Hispanic,F,1-9,0,0,0
+2008,NYC,White Non Hispanic,M,1-9,0,0,0
+2008,NYC,White Non Hispanic,F,10-19,0,0,1
+2008,NYC,White Non Hispanic,M,10-19,0,1,3
+2008,NYC,White Non Hispanic,F,20-24,1,0,1
+2008,NYC,White Non Hispanic,M,20-24,0,4,7
+2008,NYC,White Non Hispanic,F,25-34,0,4,10
+2008,NYC,White Non Hispanic,M,25-34,1,13,25
+2008,NYC,White Non Hispanic,F,35-44,0,17,12
+2008,NYC,White Non Hispanic,M,35-44,2,45,29
+2008,NYC,White Non Hispanic,F,45-54,1,27,11
+2008,NYC,White Non Hispanic,M,45-54,3,135,46
+2008,NYC,White Non Hispanic,F,55-64,0,43,8
+2008,NYC,White Non Hispanic,M,55-64,1,120,30
+2008,NYC,White Non Hispanic,F,65-74,0,21,8
+2008,NYC,White Non Hispanic,M,65-74,1,51,26
+2008,NYC,White Non Hispanic,F,75-84,0,19,2
+2008,NYC,White Non Hispanic,M,75-84,0,30,14
+2008,NYC,White Non Hispanic,F,85+,0,5,3
+2008,NYC,White Non Hispanic,M,85+,0,9,1
+2008,NYC,White Non Hispanic,F,<1,0,0,0
+2008,NYC,White Non Hispanic,M,<1,0,0,0
+2008,NYC,White Non Hispanic,F,Total,2,136,56
+2008,NYC,White Non Hispanic,M,Total,8,408,181
+2008,ROS,Black Non Hispanic,F,1-9,0,0,0
+2008,ROS,Black Non Hispanic,M,1-9,0,0,0
+2008,ROS,Black Non Hispanic,F,10-19,2,0,2
+2008,ROS,Black Non Hispanic,M,10-19,22,0,0
+2008,ROS,Black Non Hispanic,F,20-24,1,0,1
+2008,ROS,Black Non Hispanic,M,20-24,33,1,6
+2008,ROS,Black Non Hispanic,F,25-34,3,3,3
+2008,ROS,Black Non Hispanic,M,25-34,29,1,5
+2008,ROS,Black Non Hispanic,F,35-44,1,4,2
+2008,ROS,Black Non Hispanic,M,35-44,14,5,10
+2008,ROS,Black Non Hispanic,F,45-54,2,10,1
+2008,ROS,Black Non Hispanic,M,45-54,8,27,5
+2008,ROS,Black Non Hispanic,F,55-64,0,13,0
+2008,ROS,Black Non Hispanic,M,55-64,0,37,3
+2007,ROS,Black Non Hispanic,F,65-74,0,7,0
+2007,ROS,Black Non Hispanic,M,65-74,0,20,1
+2007,ROS,Black Non Hispanic,F,75-84,0,6,0
+2007,ROS,Black Non Hispanic,M,75-84,0,4,0
+2007,ROS,Black Non Hispanic,F,85+,0,2,0
+2007,ROS,Black Non Hispanic,M,85+,0,2,0
+2007,ROS,Black Non Hispanic,F,<1,0,0,0
+2007,ROS,Black Non Hispanic,M,<1,0,0,0
+2007,ROS,Black Non Hispanic,F,Total,10,50,13
+2007,ROS,Black Non Hispanic,M,Total,114,107,27
+2007,ROS,Hispanic,F,1-9,0,0,0
+2007,ROS,Hispanic,M,1-9,0,0,0
+2007,ROS,Hispanic,F,10-19,0,0,0
+2007,ROS,Hispanic,M,10-19,5,0,2
+2007,ROS,Hispanic,F,20-24,0,0,0
+2007,ROS,Hispanic,M,20-24,7,4,3
+2007,ROS,Hispanic,F,25-34,2,1,4
+2007,ROS,Hispanic,M,25-34,8,8,5
+2007,ROS,Hispanic,F,35-44,0,1,2
+2007,ROS,Hispanic,M,35-44,4,14,4
+2007,ROS,Hispanic,F,45-54,0,6,1
+2007,ROS,Hispanic,M,45-54,4,32,10
+2007,ROS,Hispanic,F,55-64,0,4,0
+2007,ROS,Hispanic,M,55-64,0,21,3
+2007,ROS,Hispanic,F,65-74,0,4,1
+2007,ROS,Hispanic,M,65-74,0,10,0
+2007,ROS,Hispanic,F,75-84,0,4,0
+2007,ROS,Hispanic,M,75-84,0,4,0
+2007,ROS,Hispanic,F,85+,0,3,0
+2007,ROS,Hispanic,M,85+,0,0,0
+2007,ROS,Hispanic,F,<1,0,0,0
+2007,ROS,Hispanic,M,<1,0,0,0
+2007,ROS,Hispanic,F,Total,2,23,8
+2007,ROS,Hispanic,M,Total,28,93,27
+2007,ROS,Not Stated,M,1-9,0,0,0
+2007,ROS,Not Stated,F,10-19,0,0,0
+2007,ROS,Not Stated,M,10-19,0,0,0
+2007,ROS,Not Stated,F,20-24,0,0,0
+2007,ROS,Not Stated,M,20-24,0,0,1
+2007,ROS,Not Stated,F,25-34,0,0,0
+2007,ROS,Not Stated,M,25-34,1,0,1
+2007,ROS,Not Stated,F,35-44,0,0,0
+2007,ROS,Not Stated,M,35-44,1,0,1
+2007,ROS,Not Stated,F,45-54,0,0,0
+2007,ROS,Not Stated,M,45-54,1,7,0
+2007,ROS,Not Stated,F,55-64,0,0,0
+2007,ROS,Not Stated,M,55-64,0,0,1
+2007,ROS,Not Stated,F,65-74,0,0,0
+2007,ROS,Not Stated,M,65-74,0,1,0
+2007,ROS,Not Stated,F,75-84,0,0,0
+2007,ROS,Not Stated,M,75-84,0,0,0
+2007,ROS,Not Stated,F,85+,0,0,0
+2007,ROS,Not Stated,M,85+,0,0,0
+2007,ROS,Not Stated,F,<1,0,0,0
+2007,ROS,Not Stated,M,<1,0,0,0
+2007,ROS,Not Stated,F,Total,0,0,0
+2007,ROS,Not Stated,M,Total,3,8,4
+2007,ROS,Other Non Hispanic,F,1-9,0,0,0
+2007,ROS,Other Non Hispanic,F,10-19,0,0,0
+2007,ROS,Other Non Hispanic,M,10-19,1,0,1
+2007,ROS,Other Non Hispanic,F,20-24,0,0,0
+2007,ROS,Other Non Hispanic,M,20-24,1,0,2
+2007,ROS,Other Non Hispanic,F,25-34,0,0,1
+2007,ROS,Other Non Hispanic,M,25-34,4,3,3
+2007,ROS,Other Non Hispanic,F,35-44,2,1,1
+2007,ROS,Other Non Hispanic,M,35-44,0,1,2
+2007,ROS,Other Non Hispanic,F,45-54,0,3,1
+2007,ROS,Other Non Hispanic,M,45-54,2,6,3
+2007,ROS,Other Non Hispanic,F,55-64,0,2,1
+2007,ROS,Other Non Hispanic,M,55-64,1,4,1
+2007,ROS,Other Non Hispanic,F,65-74,0,3,0
+2007,ROS,Other Non Hispanic,M,65-74,0,2,0
+2007,ROS,Other Non Hispanic,F,75-84,0,1,0
+2007,ROS,Other Non Hispanic,M,75-84,0,0,0
+2007,ROS,Other Non Hispanic,F,85+,0,1,0
+2007,ROS,Other Non Hispanic,M,85+,0,0,0
+2007,ROS,Other Non Hispanic,F,<1,0,0,0
+2007,ROS,Other Non Hispanic,M,<1,0,0,0
+2007,ROS,Other Non Hispanic,F,Total,2,11,4
+2007,ROS,Other Non Hispanic,M,Total,9,16,12
+2007,ROS,White Non Hispanic,F,1-9,1,0,0
+2007,ROS,White Non Hispanic,M,1-9,0,0,0
+2007,ROS,White Non Hispanic,F,10-19,3,1,8
+2007,ROS,White Non Hispanic,M,10-19,8,5,24
+2007,ROS,White Non Hispanic,F,20-24,2,0,6
+2007,ROS,White Non Hispanic,M,20-24,23,15,41
+2007,ROS,White Non Hispanic,F,25-34,7,16,16
+2007,ROS,White Non Hispanic,M,25-34,35,42,77
+2007,ROS,White Non Hispanic,F,35-44,14,46,36
+2007,ROS,White Non Hispanic,M,35-44,63,108,136
+2007,ROS,White Non Hispanic,F,45-54,4,104,44
+2007,ROS,White Non Hispanic,M,45-54,75,313,154
+2007,ROS,White Non Hispanic,F,55-64,4,116,36
+2007,ROS,White Non Hispanic,M,55-64,60,330,97
+2007,ROS,White Non Hispanic,F,65-74,3,97,19
+2007,ROS,White Non Hispanic,M,65-74,38,230,49
+2007,ROS,White Non Hispanic,F,75-84,2,105,9
+2007,ROS,White Non Hispanic,M,75-84,39,162,53
+2007,ROS,White Non Hispanic,F,85+,1,50,5
+2007,ROS,White Non Hispanic,M,85+,16,39,20
+2007,ROS,White Non Hispanic,F,<1,0,0,0
+2007,ROS,White Non Hispanic,M,<1,0,0,0
+2007,ROS,White Non Hispanic,F,Total,41,535,179
+2007,ROS,White Non Hispanic,M,Total,357,1244,651
+2007,NYC,Black Non Hispanic,F,1-9,0,0,0
+2007,NYC,Black Non Hispanic,M,1-9,0,0,0
+2007,NYC,Black Non Hispanic,F,10-19,1,0,2
+2007,NYC,Black Non Hispanic,M,10-19,39,0,4
+2007,NYC,Black Non Hispanic,F,20-24,1,2,3
+2007,NYC,Black Non Hispanic,M,20-24,55,1,7
+2007,NYC,Black Non Hispanic,F,25-34,7,1,3
+2007,NYC,Black Non Hispanic,M,25-34,65,3,17
+2007,NYC,Black Non Hispanic,F,35-44,6,12,3
+2007,NYC,Black Non Hispanic,M,35-44,50,29,16
+2007,NYC,Black Non Hispanic,F,45-54,1,42,3
+2007,NYC,Black Non Hispanic,M,45-54,12,81,7
+2007,NYC,Black Non Hispanic,F,55-64,0,45,6
+2007,NYC,Black Non Hispanic,M,55-64,4,125,4
+2007,NYC,Black Non Hispanic,F,65-74,0,15,2
+2007,NYC,Black Non Hispanic,M,65-74,3,48,1
+2007,NYC,Black Non Hispanic,F,75-84,1,11,0
+2007,NYC,Black Non Hispanic,M,75-84,1,16,1
+2007,NYC,Black Non Hispanic,F,85+,0,4,0
+2007,NYC,Black Non Hispanic,M,85+,0,4,0
+2007,NYC,Black Non Hispanic,F,<1,0,0,0
+2007,NYC,Black Non Hispanic,M,<1,0,0,0
+2007,NYC,Black Non Hispanic,F,Total,17,132,22
+2007,NYC,Black Non Hispanic,M,Total,229,307,57
+2007,NYC,Hispanic,F,1-9,0,0,0
+2007,NYC,Hispanic,M,1-9,0,0,0
+2007,NYC,Hispanic,F,10-19,1,0,0
+2007,NYC,Hispanic,M,10-19,15,0,5
+2007,NYC,Hispanic,F,20-24,4,0,2
+2007,NYC,Hispanic,M,20-24,14,2,6
+2007,NYC,Hispanic,F,25-34,3,2,5
+2007,NYC,Hispanic,M,25-34,26,14,13
+2007,NYC,Hispanic,F,35-44,2,6,6
+2007,NYC,Hispanic,M,35-44,9,49,16
+2007,NYC,Hispanic,F,45-54,1,23,6
+2007,NYC,Hispanic,M,45-54,5,105,6
+2007,NYC,Hispanic,F,55-64,0,33,2
+2007,NYC,Hispanic,M,55-64,1,105,9
+2007,NYC,Hispanic,F,65-74,0,19,3
+2007,NYC,Hispanic,M,65-74,1,62,4
+2007,NYC,Hispanic,F,75-84,0,17,0
+2007,NYC,Hispanic,M,75-84,0,13,3
+2007,NYC,Hispanic,F,85+,0,6,0
+2007,NYC,Hispanic,M,85+,0,3,0
+2007,NYC,Hispanic,F,<1,0,0,0
+2007,NYC,Hispanic,M,<1,0,0,0
+2007,NYC,Hispanic,F,Total,11,106,24
+2007,NYC,Hispanic,M,Total,71,353,62
+2007,NYC,Not Stated,F,10-19,0,0,0
+2007,NYC,Not Stated,M,10-19,1,0,0
+2007,NYC,Not Stated,F,20-24,1,0,0
+2007,NYC,Not Stated,M,20-24,2,0,1
+2007,NYC,Not Stated,F,25-34,0,0,0
+2007,NYC,Not Stated,M,25-34,1,0,1
+2007,NYC,Not Stated,F,35-44,0,0,1
+2007,NYC,Not Stated,M,35-44,0,2,0
+2007,NYC,Not Stated,F,45-54,0,0,0
+2007,NYC,Not Stated,M,45-54,0,1,2
+2007,NYC,Not Stated,F,55-64,0,3,0
+2007,NYC,Not Stated,M,55-64,0,3,0
+2007,NYC,Not Stated,F,65-74,0,3,0
+2007,NYC,Not Stated,M,65-74,0,1,0
+2007,NYC,Not Stated,F,75-84,0,1,0
+2007,NYC,Not Stated,M,75-84,0,2,0
+2007,NYC,Not Stated,F,85+,0,0,0
+2007,NYC,Not Stated,M,85+,0,1,0
+2007,NYC,Not Stated,F,<1,0,0,0
+2007,NYC,Not Stated,M,<1,0,0,0
+2007,NYC,Not Stated,F,Total,1,7,1
+2007,NYC,Not Stated,M,Total,4,10,4
+2007,NYC,Other Non Hispanic,F,1-9,0,0,0
+2007,NYC,Other Non Hispanic,M,1-9,0,0,0
+2007,NYC,Other Non Hispanic,F,10-19,0,0,0
+2007,NYC,Other Non Hispanic,M,10-19,0,0,2
+2007,NYC,Other Non Hispanic,F,20-24,0,0,3
+2007,NYC,Other Non Hispanic,M,20-24,0,0,4
+2007,NYC,Other Non Hispanic,F,25-34,0,1,10
+2007,NYC,Other Non Hispanic,M,25-34,1,3,3
+2007,NYC,Other Non Hispanic,F,35-44,0,2,3
+2007,NYC,Other Non Hispanic,M,35-44,0,8,9
+2007,NYC,Other Non Hispanic,F,45-54,0,1,0
+2007,NYC,Other Non Hispanic,M,45-54,0,16,5
+2007,NYC,Other Non Hispanic,F,55-64,0,2,2
+2007,NYC,Other Non Hispanic,M,55-64,1,16,5
+2007,NYC,Other Non Hispanic,F,65-74,0,4,1
+2007,NYC,Other Non Hispanic,M,65-74,1,6,3
+2007,NYC,Other Non Hispanic,F,75-84,0,7,2
+2007,NYC,Other Non Hispanic,M,75-84,0,5,2
+2007,NYC,Other Non Hispanic,F,85+,0,2,0
+2007,NYC,Other Non Hispanic,M,85+,0,1,1
+2007,NYC,Other Non Hispanic,F,<1,0,0,0
+2007,NYC,Other Non Hispanic,M,<1,0,0,0
+2007,NYC,Other Non Hispanic,F,Total,0,19,21
+2007,NYC,Other Non Hispanic,M,Total,3,55,34
+2007,NYC,White Non Hispanic,F,1-9,0,0,0
+2007,NYC,White Non Hispanic,M,1-9,0,0,0
+2007,NYC,White Non Hispanic,F,10-19,0,0,0
+2007,NYC,White Non Hispanic,M,10-19,5,0,4
+2007,NYC,White Non Hispanic,F,20-24,0,1,0
+2007,NYC,White Non Hispanic,M,20-24,5,5,9
+2007,NYC,White Non Hispanic,F,25-34,2,2,4
+2007,NYC,White Non Hispanic,M,25-34,19,11,32
+2007,NYC,White Non Hispanic,F,35-44,0,17,7
+2007,NYC,White Non Hispanic,M,35-44,11,24,32
+2007,NYC,White Non Hispanic,F,45-54,1,27,9
+2007,NYC,White Non Hispanic,M,45-54,7,121,38
+2007,NYC,White Non Hispanic,F,55-64,2,40,16
+2007,NYC,White Non Hispanic,M,55-64,5,106,25
+2007,NYC,White Non Hispanic,F,65-74,1,30,11
+2007,NYC,White Non Hispanic,M,65-74,6,57,19
+2007,NYC,White Non Hispanic,F,75-84,1,28,8
+2007,NYC,White Non Hispanic,M,75-84,8,27,17
+2007,NYC,White Non Hispanic,F,85+,2,13,5
+2007,NYC,White Non Hispanic,M,85+,1,9,5
+2007,NYC,White Non Hispanic,F,<1,0,0,0
+2007,NYC,White Non Hispanic,M,<1,0,0,0
+2007,NYC,White Non Hispanic,F,Total,9,158,60
+2007,NYC,White Non Hispanic,M,Total,67,360,181
+2007,ROS,Black Non Hispanic,F,1-9,0,0,0
+2007,ROS,Black Non Hispanic,M,1-9,0,0,0
+2007,ROS,Black Non Hispanic,F,10-19,2,0,2
+2007,ROS,Black Non Hispanic,M,10-19,25,0,4
+2007,ROS,Black Non Hispanic,F,20-24,1,0,2
+2007,ROS,Black Non Hispanic,M,20-24,29,0,4
+2007,ROS,Black Non Hispanic,F,25-34,4,2,5
+2007,ROS,Black Non Hispanic,M,25-34,34,4,7
+2007,ROS,Black Non Hispanic,F,35-44,2,6,1
+2007,ROS,Black Non Hispanic,M,35-44,14,6,3
+2007,ROS,Black Non Hispanic,F,45-54,0,15,3
+2007,ROS,Black Non Hispanic,M,45-54,8,38,7
+2007,ROS,Black Non Hispanic,F,55-64,1,12,0
+2007,ROS,Black Non Hispanic,M,55-64,4,33,1
+2006,ROS,Black Non Hispanic,M,55-64,0,38,1
+2006,ROS,Black Non Hispanic,F,65-74,0,4,0
+2006,ROS,Black Non Hispanic,M,65-74,3,28,2
+2006,ROS,Black Non Hispanic,F,75-84,0,7,0
+2006,ROS,Black Non Hispanic,M,75-84,0,2,0
+2006,ROS,Black Non Hispanic,F,85+,0,1,0
+2006,ROS,Black Non Hispanic,M,85+,0,0,1
+2006,ROS,Black Non Hispanic,F,<1,0,1,0
+2006,ROS,Black Non Hispanic,M,<1,0,0,1
+2006,ROS,Black Non Hispanic,F,Total,11,54,5
+2006,ROS,Black Non Hispanic,M,Total,128,107,29
+2006,ROS,Hispanic,F,1-9,0,0,0
+2006,ROS,Hispanic,M,1-9,0,0,0
+2006,ROS,Hispanic,F,10-19,1,0,0
+2006,ROS,Hispanic,M,10-19,7,2,2
+2006,ROS,Hispanic,F,20-24,0,0,1
+2006,ROS,Hispanic,M,20-24,7,2,6
+2006,ROS,Hispanic,F,25-34,1,0,0
+2006,ROS,Hispanic,M,25-34,12,4,4
+2006,ROS,Hispanic,F,35-44,1,3,1
+2006,ROS,Hispanic,M,35-44,3,20,9
+2006,ROS,Hispanic,F,45-54,3,2,0
+2006,ROS,Hispanic,M,45-54,0,20,5
+2006,ROS,Hispanic,F,55-64,0,6,0
+2006,ROS,Hispanic,M,55-64,2,26,3
+2006,ROS,Hispanic,F,65-74,0,5,0
+2006,ROS,Hispanic,M,65-74,0,8,0
+2006,ROS,Hispanic,F,75-84,0,7,0
+2006,ROS,Hispanic,M,75-84,0,3,0
+2006,ROS,Hispanic,F,85+,0,1,0
+2006,ROS,Hispanic,M,85+,0,1,0
+2006,ROS,Hispanic,F,<1,0,0,0
+2006,ROS,Hispanic,M,<1,0,0,0
+2006,ROS,Hispanic,F,Total,6,24,2
+2006,ROS,Hispanic,M,Total,31,86,29
+2006,ROS,Not Stated,F,1-9,0,0,0
+2006,ROS,Not Stated,M,10-19,1,0,1
+2006,ROS,Not Stated,M,20-24,1,0,0
+2006,ROS,Not Stated,F,25-34,0,0,0
+2006,ROS,Not Stated,M,25-34,0,0,1
+2006,ROS,Not Stated,F,35-44,0,0,0
+2006,ROS,Not Stated,M,35-44,2,5,0
+2006,ROS,Not Stated,F,45-54,0,1,0
+2006,ROS,Not Stated,M,45-54,1,1,0
+2006,ROS,Not Stated,F,55-64,0,0,0
+2006,ROS,Not Stated,M,55-64,0,0,0
+2006,ROS,Not Stated,F,65-74,0,0,0
+2006,ROS,Not Stated,M,65-74,0,1,0
+2006,ROS,Not Stated,F,75-84,0,2,0
+2006,ROS,Not Stated,M,75-84,0,0,0
+2006,ROS,Not Stated,F,85+,0,0,0
+2006,ROS,Not Stated,M,85+,0,0,0
+2006,ROS,Not Stated,F,<1,0,0,0
+2006,ROS,Not Stated,M,<1,0,0,0
+2006,ROS,Not Stated,F,Total,0,3,0
+2006,ROS,Not Stated,M,Total,5,7,2
+2006,ROS,Other Non Hispanic,F,1-9,0,0,0
+2006,ROS,Other Non Hispanic,M,1-9,0,0,0
+2006,ROS,Other Non Hispanic,F,10-19,0,0,1
+2006,ROS,Other Non Hispanic,M,10-19,2,0,0
+2006,ROS,Other Non Hispanic,F,20-24,0,0,0
+2006,ROS,Other Non Hispanic,M,20-24,0,0,4
+2006,ROS,Other Non Hispanic,F,25-34,0,0,2
+2006,ROS,Other Non Hispanic,M,25-34,1,0,4
+2006,ROS,Other Non Hispanic,F,35-44,0,1,0
+2006,ROS,Other Non Hispanic,M,35-44,0,1,1
+2006,ROS,Other Non Hispanic,F,45-54,0,2,0
+2006,ROS,Other Non Hispanic,M,45-54,3,8,5
+2006,ROS,Other Non Hispanic,F,55-64,0,1,1
+2006,ROS,Other Non Hispanic,M,55-64,1,6,3
+2006,ROS,Other Non Hispanic,F,65-74,0,1,0
+2006,ROS,Other Non Hispanic,M,65-74,0,3,1
+2006,ROS,Other Non Hispanic,F,75-84,0,4,1
+2006,ROS,Other Non Hispanic,M,75-84,0,3,0
+2006,ROS,Other Non Hispanic,F,85+,0,0,0
+2006,ROS,Other Non Hispanic,M,85+,0,0,0
+2006,ROS,Other Non Hispanic,F,<1,0,0,0
+2006,ROS,Other Non Hispanic,M,<1,0,0,0
+2006,ROS,Other Non Hispanic,F,Total,0,9,5
+2006,ROS,Other Non Hispanic,M,Total,7,21,18
+2006,ROS,White Non Hispanic,F,1-9,0,0,0
+2006,ROS,White Non Hispanic,M,1-9,0,0,0
+2006,ROS,White Non Hispanic,F,10-19,4,1,4
+2006,ROS,White Non Hispanic,M,10-19,18,4,34
+2006,ROS,White Non Hispanic,F,20-24,1,2,4
+2006,ROS,White Non Hispanic,M,20-24,20,14,46
+2006,ROS,White Non Hispanic,F,25-34,3,8,11
+2006,ROS,White Non Hispanic,M,25-34,51,34,102
+2006,ROS,White Non Hispanic,F,35-44,7,38,23
+2006,ROS,White Non Hispanic,M,35-44,61,105,132
+2006,ROS,White Non Hispanic,F,45-54,14,99,32
+2006,ROS,White Non Hispanic,M,45-54,67,319,145
+2006,ROS,White Non Hispanic,F,55-64,6,107,31
+2006,ROS,White Non Hispanic,M,55-64,50,305,90
+2006,ROS,White Non Hispanic,F,65-74,3,102,9
+2006,ROS,White Non Hispanic,M,65-74,37,214,54
+2006,ROS,White Non Hispanic,F,75-84,2,118,11
+2006,ROS,White Non Hispanic,M,75-84,28,166,43
+2006,ROS,White Non Hispanic,F,85+,0,49,3
+2006,ROS,White Non Hispanic,M,85+,9,42,14
+2006,ROS,White Non Hispanic,F,<1,0,0,0
+2006,ROS,White Non Hispanic,M,<1,0,0,0
+2006,ROS,White Non Hispanic,F,Total,40,524,128
+2006,ROS,White Non Hispanic,M,Total,341,1203,660
+2006,NYC,Black Non Hispanic,F,1-9,1,0,0
+2006,NYC,Black Non Hispanic,M,1-9,1,0,0
+2006,NYC,Black Non Hispanic,F,10-19,3,0,1
+2006,NYC,Black Non Hispanic,M,10-19,29,0,1
+2006,NYC,Black Non Hispanic,F,20-24,2,0,1
+2006,NYC,Black Non Hispanic,M,20-24,69,0,4
+2006,NYC,Black Non Hispanic,F,25-34,3,4,2
+2006,NYC,Black Non Hispanic,M,25-34,89,2,12
+2006,NYC,Black Non Hispanic,F,35-44,1,14,5
+2006,NYC,Black Non Hispanic,M,35-44,22,21,14
+2006,NYC,Black Non Hispanic,F,45-54,3,30,7
+2006,NYC,Black Non Hispanic,M,45-54,13,101,12
+2006,NYC,Black Non Hispanic,F,55-64,1,38,1
+2006,NYC,Black Non Hispanic,M,55-64,3,98,4
+2006,NYC,Black Non Hispanic,F,65-74,0,19,0
+2006,NYC,Black Non Hispanic,M,65-74,4,41,3
+2006,NYC,Black Non Hispanic,F,75-84,0,8,0
+2006,NYC,Black Non Hispanic,M,75-84,0,23,0
+2006,NYC,Black Non Hispanic,F,85+,0,6,0
+2006,NYC,Black Non Hispanic,M,85+,0,3,0
+2006,NYC,Black Non Hispanic,F,<1,0,0,0
+2006,NYC,Black Non Hispanic,M,<1,0,1,0
+2006,NYC,Black Non Hispanic,F,Total,14,119,17
+2006,NYC,Black Non Hispanic,M,Total,230,290,50
+2006,NYC,Hispanic,F,1-9,1,0,0
+2006,NYC,Hispanic,M,1-9,1,0,0
+2006,NYC,Hispanic,F,10-19,2,0,2
+2006,NYC,Hispanic,M,10-19,8,0,3
+2006,NYC,Hispanic,F,20-24,1,0,0
+2006,NYC,Hispanic,M,20-24,29,0,7
+2006,NYC,Hispanic,F,25-34,3,0,3
+2006,NYC,Hispanic,M,25-34,25,14,25
+2006,NYC,Hispanic,F,35-44,1,12,2
+2006,NYC,Hispanic,M,35-44,15,46,14
+2006,NYC,Hispanic,F,45-54,0,26,9
+2006,NYC,Hispanic,M,45-54,2,107,12
+2006,NYC,Hispanic,F,55-64,0,36,0
+2006,NYC,Hispanic,M,55-64,2,121,6
+2006,NYC,Hispanic,F,65-74,1,25,3
+2006,NYC,Hispanic,M,65-74,1,61,5
+2006,NYC,Hispanic,F,75-84,0,14,0
+2006,NYC,Hispanic,M,75-84,1,25,3
+2006,NYC,Hispanic,F,85+,0,7,0
+2006,NYC,Hispanic,M,85+,0,2,1
+2006,NYC,Hispanic,F,<1,0,1,0
+2006,NYC,Hispanic,M,<1,0,0,0
+2006,NYC,Hispanic,F,Total,9,121,19
+2006,NYC,Hispanic,M,Total,84,376,76
+2006,NYC,Not Stated,F,1-9,0,0,0
+2006,NYC,Not Stated,M,1-9,0,0,0
+2006,NYC,Not Stated,M,10-19,0,0,0
+2006,NYC,Not Stated,F,20-24,0,0,0
+2006,NYC,Not Stated,M,20-24,1,0,0
+2006,NYC,Not Stated,F,25-34,0,0,0
+2006,NYC,Not Stated,M,25-34,5,1,1
+2006,NYC,Not Stated,F,35-44,0,2,1
+2006,NYC,Not Stated,M,35-44,2,1,0
+2006,NYC,Not Stated,F,45-54,0,0,0
+2006,NYC,Not Stated,M,45-54,0,3,2
+2006,NYC,Not Stated,F,55-64,0,0,1
+2006,NYC,Not Stated,M,55-64,0,5,1
+2006,NYC,Not Stated,F,65-74,0,1,0
+2006,NYC,Not Stated,M,65-74,0,0,0
+2006,NYC,Not Stated,F,75-84,0,0,0
+2006,NYC,Not Stated,M,75-84,0,1,2
+2006,NYC,Not Stated,F,85+,0,0,0
+2006,NYC,Not Stated,M,85+,0,0,0
+2006,NYC,Not Stated,F,<1,0,0,0
+2006,NYC,Not Stated,M,<1,0,0,0
+2006,NYC,Not Stated,F,Total,0,3,2
+2006,NYC,Not Stated,M,Total,8,11,6
+2006,NYC,Other Non Hispanic,F,1-9,0,0,0
+2006,NYC,Other Non Hispanic,M,1-9,0,0,0
+2006,NYC,Other Non Hispanic,F,10-19,0,0,0
+2006,NYC,Other Non Hispanic,M,10-19,0,0,2
+2006,NYC,Other Non Hispanic,F,20-24,0,0,2
+2006,NYC,Other Non Hispanic,M,20-24,0,0,3
+2006,NYC,Other Non Hispanic,F,25-34,0,1,3
+2006,NYC,Other Non Hispanic,M,25-34,1,2,3
+2006,NYC,Other Non Hispanic,F,35-44,0,0,3
+2006,NYC,Other Non Hispanic,M,35-44,1,9,2
+2006,NYC,Other Non Hispanic,F,45-54,0,2,4
+2006,NYC,Other Non Hispanic,M,45-54,2,24,11
+2006,NYC,Other Non Hispanic,F,55-64,0,1,0
+2006,NYC,Other Non Hispanic,M,55-64,1,11,4
+2006,NYC,Other Non Hispanic,F,65-74,0,5,0
+2006,NYC,Other Non Hispanic,M,65-74,2,13,4
+2006,NYC,Other Non Hispanic,F,75-84,0,8,1
+2006,NYC,Other Non Hispanic,M,75-84,0,3,2
+2006,NYC,Other Non Hispanic,F,85+,0,0,1
+2006,NYC,Other Non Hispanic,M,85+,0,3,0
+2006,NYC,Other Non Hispanic,F,<1,0,1,0
+2006,NYC,Other Non Hispanic,M,<1,0,0,0
+2006,NYC,Other Non Hispanic,F,Total,0,18,14
+2006,NYC,Other Non Hispanic,M,Total,7,65,31
+2006,NYC,White Non Hispanic,F,1-9,0,0,0
+2006,NYC,White Non Hispanic,M,1-9,0,0,0
+2006,NYC,White Non Hispanic,F,10-19,2,0,3
+2006,NYC,White Non Hispanic,M,10-19,2,0,2
+2006,NYC,White Non Hispanic,F,20-24,0,1,2
+2006,NYC,White Non Hispanic,M,20-24,7,0,9
+2006,NYC,White Non Hispanic,F,25-34,1,2,7
+2006,NYC,White Non Hispanic,M,25-34,10,5,17
+2006,NYC,White Non Hispanic,F,35-44,2,9,7
+2006,NYC,White Non Hispanic,M,35-44,7,27,24
+2006,NYC,White Non Hispanic,F,45-54,1,31,14
+2006,NYC,White Non Hispanic,M,45-54,8,118,41
+2006,NYC,White Non Hispanic,F,55-64,1,27,12
+2006,NYC,White Non Hispanic,M,55-64,8,131,34
+2006,NYC,White Non Hispanic,F,65-74,1,23,5
+2006,NYC,White Non Hispanic,M,65-74,4,52,10
+2006,NYC,White Non Hispanic,F,75-84,0,27,6
+2006,NYC,White Non Hispanic,M,75-84,3,27,16
+2006,NYC,White Non Hispanic,F,85+,0,12,3
+2006,NYC,White Non Hispanic,M,85+,1,13,5
+2006,NYC,White Non Hispanic,F,<1,0,0,0
+2006,NYC,White Non Hispanic,M,<1,0,1,0
+2006,NYC,White Non Hispanic,F,Total,8,132,59
+2006,NYC,White Non Hispanic,M,Total,50,374,158
+2006,ROS,Black Non Hispanic,F,1-9,0,0,0
+2006,ROS,Black Non Hispanic,M,1-9,0,0,0
+2006,ROS,Black Non Hispanic,F,10-19,4,1,0
+2006,ROS,Black Non Hispanic,M,10-19,26,1,4
+2006,ROS,Black Non Hispanic,F,20-24,1,0,0
+2006,ROS,Black Non Hispanic,M,20-24,42,0,4
+2006,ROS,Black Non Hispanic,F,25-34,3,0,2
+2006,ROS,Black Non Hispanic,M,25-34,39,2,4
+2006,ROS,Black Non Hispanic,F,35-44,2,5,2
+2006,ROS,Black Non Hispanic,M,35-44,12,12,9
+2006,ROS,Black Non Hispanic,F,45-54,1,22,1
+2006,ROS,Black Non Hispanic,M,45-54,6,24,3
+2006,ROS,Black Non Hispanic,F,55-64,0,13,0
+2005,ROS,Black Non Hispanic,M,55-64,2,44,2
+2005,ROS,Black Non Hispanic,F,65-74,0,6,0
+2005,ROS,Black Non Hispanic,M,65-74,0,25,1
+2005,ROS,Black Non Hispanic,F,75-84,0,4,0
+2005,ROS,Black Non Hispanic,M,75-84,2,7,1
+2005,ROS,Black Non Hispanic,F,85+,0,3,0
+2005,ROS,Black Non Hispanic,M,85+,0,0,0
+2005,ROS,Black Non Hispanic,F,<1,0,0,0
+2005,ROS,Black Non Hispanic,M,<1,0,0,0
+2005,ROS,Black Non Hispanic,F,Total,13,56,0
+2005,ROS,Black Non Hispanic,M,Total,113,133,34
+2005,ROS,Hispanic,F,1-9,0,0,0
+2005,ROS,Hispanic,M,1-9,0,0,0
+2005,ROS,Hispanic,F,10-19,0,0,0
+2005,ROS,Hispanic,M,10-19,2,1,3
+2005,ROS,Hispanic,F,20-24,2,0,1
+2005,ROS,Hispanic,M,20-24,8,2,1
+2005,ROS,Hispanic,F,25-34,1,0,0
+2005,ROS,Hispanic,M,25-34,3,7,5
+2005,ROS,Hispanic,F,35-44,0,3,1
+2005,ROS,Hispanic,M,35-44,6,17,8
+2005,ROS,Hispanic,F,45-54,1,4,1
+2005,ROS,Hispanic,M,45-54,4,31,4
+2005,ROS,Hispanic,F,55-64,0,4,0
+2005,ROS,Hispanic,M,55-64,1,13,2
+2005,ROS,Hispanic,F,65-74,0,4,1
+2005,ROS,Hispanic,M,65-74,1,13,0
+2005,ROS,Hispanic,F,75-84,0,5,0
+2005,ROS,Hispanic,M,75-84,1,8,1
+2005,ROS,Hispanic,F,85+,0,2,0
+2005,ROS,Hispanic,M,85+,0,2,0
+2005,ROS,Hispanic,F,<1,0,0,0
+2005,ROS,Hispanic,M,<1,0,0,0
+2005,ROS,Hispanic,F,Total,4,22,4
+2005,ROS,Hispanic,M,Total,26,94,24
+2005,ROS,Not Stated,F,1-9,0,0,0
+2005,ROS,Not Stated,M,10-19,0,0,1
+2005,ROS,Not Stated,M,20-24,0,0,1
+2005,ROS,Not Stated,F,25-34,0,0,1
+2005,ROS,Not Stated,M,25-34,0,1,2
+2005,ROS,Not Stated,F,35-44,0,0,0
+2005,ROS,Not Stated,M,35-44,0,2,1
+2005,ROS,Not Stated,F,45-54,1,0,0
+2005,ROS,Not Stated,M,45-54,0,2,0
+2005,ROS,Not Stated,F,55-64,0,0,0
+2005,ROS,Not Stated,M,55-64,0,3,1
+2005,ROS,Not Stated,F,65-74,0,0,0
+2005,ROS,Not Stated,M,65-74,0,0,0
+2005,ROS,Not Stated,F,75-84,0,0,0
+2005,ROS,Not Stated,M,75-84,0,1,0
+2005,ROS,Not Stated,F,85+,0,0,0
+2005,ROS,Not Stated,M,85+,0,0,0
+2005,ROS,Not Stated,F,<1,0,0,0
+2005,ROS,Not Stated,M,<1,0,0,0
+2005,ROS,Not Stated,F,Total,1,0,1
+2005,ROS,Not Stated,M,Total,0,9,6
+2005,ROS,Other Non Hispanic,F,1-9,0,0,0
+2005,ROS,Other Non Hispanic,M,1-9,0,0,0
+2005,ROS,Other Non Hispanic,F,10-19,0,0,0
+2005,ROS,Other Non Hispanic,M,10-19,0,0,1
+2005,ROS,Other Non Hispanic,F,20-24,0,0,1
+2005,ROS,Other Non Hispanic,M,20-24,1,0,1
+2005,ROS,Other Non Hispanic,F,25-34,0,0,2
+2005,ROS,Other Non Hispanic,M,25-34,0,0,2
+2005,ROS,Other Non Hispanic,F,35-44,0,0,1
+2005,ROS,Other Non Hispanic,M,35-44,0,2,4
+2005,ROS,Other Non Hispanic,F,45-54,0,4,1
+2005,ROS,Other Non Hispanic,M,45-54,0,3,1
+2005,ROS,Other Non Hispanic,F,55-64,0,2,0
+2005,ROS,Other Non Hispanic,M,55-64,0,7,1
+2005,ROS,Other Non Hispanic,F,65-74,0,2,0
+2005,ROS,Other Non Hispanic,M,65-74,0,4,0
+2005,ROS,Other Non Hispanic,F,75-84,0,3,0
+2005,ROS,Other Non Hispanic,M,75-84,0,4,0
+2005,ROS,Other Non Hispanic,F,85+,0,0,1
+2005,ROS,Other Non Hispanic,M,85+,0,0,0
+2005,ROS,Other Non Hispanic,F,<1,0,0,0
+2005,ROS,Other Non Hispanic,M,<1,0,0,0
+2005,ROS,Other Non Hispanic,F,Total,0,11,6
+2005,ROS,Other Non Hispanic,M,Total,1,20,10
+2005,ROS,White Non Hispanic,F,1-9,0,0,0
+2005,ROS,White Non Hispanic,M,1-9,0,0,0
+2005,ROS,White Non Hispanic,F,10-19,1,1,4
+2005,ROS,White Non Hispanic,M,10-19,17,4,34
+2005,ROS,White Non Hispanic,F,20-24,5,3,9
+2005,ROS,White Non Hispanic,M,20-24,40,14,63
+2005,ROS,White Non Hispanic,F,25-34,4,4,15
+2005,ROS,White Non Hispanic,M,25-34,30,21,66
+2005,ROS,White Non Hispanic,F,35-44,14,40,32
+2005,ROS,White Non Hispanic,M,35-44,67,109,133
+2005,ROS,White Non Hispanic,F,45-54,10,94,34
+2005,ROS,White Non Hispanic,M,45-54,82,310,134
+2005,ROS,White Non Hispanic,F,55-64,6,104,27
+2005,ROS,White Non Hispanic,M,55-64,64,316,96
+2005,ROS,White Non Hispanic,F,65-74,2,117,12
+2005,ROS,White Non Hispanic,M,65-74,28,216,43
+2005,ROS,White Non Hispanic,F,75-84,2,110,8
+2005,ROS,White Non Hispanic,M,75-84,30,163,41
+2005,ROS,White Non Hispanic,F,85+,0,37,5
+2005,ROS,White Non Hispanic,M,85+,11,47,16
+2005,ROS,White Non Hispanic,F,<1,0,1,0
+2005,ROS,White Non Hispanic,M,<1,0,0,0
+2005,ROS,White Non Hispanic,F,Total,44,511,146
+2005,ROS,White Non Hispanic,M,Total,369,1200,626
+2005,NYC,Black Non Hispanic,F,1-9,0,0,0
+2005,NYC,Black Non Hispanic,M,1-9,0,0,0
+2005,NYC,Black Non Hispanic,F,10-19,0,0,1
+2005,NYC,Black Non Hispanic,M,10-19,0,0,4
+2005,NYC,Black Non Hispanic,F,20-24,0,0,2
+2005,NYC,Black Non Hispanic,M,20-24,7,1,5
+2005,NYC,Black Non Hispanic,F,25-34,0,0,1
+2005,NYC,Black Non Hispanic,M,25-34,6,4,19
+2005,NYC,Black Non Hispanic,F,35-44,0,10,4
+2005,NYC,Black Non Hispanic,M,35-44,4,21,8
+2005,NYC,Black Non Hispanic,F,45-54,0,42,6
+2005,NYC,Black Non Hispanic,M,45-54,3,77,11
+2005,NYC,Black Non Hispanic,F,55-64,1,31,1
+2005,NYC,Black Non Hispanic,M,55-64,1,92,6
+2005,NYC,Black Non Hispanic,F,65-74,0,17,1
+2005,NYC,Black Non Hispanic,M,65-74,0,46,1
+2005,NYC,Black Non Hispanic,F,75-84,0,13,0
+2005,NYC,Black Non Hispanic,M,75-84,0,13,4
+2005,NYC,Black Non Hispanic,F,85+,0,4,0
+2005,NYC,Black Non Hispanic,M,85+,0,4,0
+2005,NYC,Black Non Hispanic,F,<1,0,0,0
+2005,NYC,Black Non Hispanic,M,<1,0,0,0
+2005,NYC,Black Non Hispanic,F,Total,1,117,16
+2005,NYC,Black Non Hispanic,M,Total,21,258,58
+2005,NYC,Hispanic,F,1-9,0,0,0
+2005,NYC,Hispanic,M,1-9,0,0,0
+2005,NYC,Hispanic,F,10-19,0,0,5
+2005,NYC,Hispanic,M,10-19,0,2,6
+2005,NYC,Hispanic,F,20-24,0,1,1
+2005,NYC,Hispanic,M,20-24,0,5,4
+2005,NYC,Hispanic,F,25-34,0,1,2
+2005,NYC,Hispanic,M,25-34,0,17,16
+2005,NYC,Hispanic,F,35-44,0,13,3
+2005,NYC,Hispanic,M,35-44,2,51,16
+2005,NYC,Hispanic,F,45-54,0,37,0
+2005,NYC,Hispanic,M,45-54,1,139,12
+2005,NYC,Hispanic,F,55-64,0,18,1
+2005,NYC,Hispanic,M,55-64,0,102,4
+2005,NYC,Hispanic,F,65-74,0,30,0
+2005,NYC,Hispanic,M,65-74,0,66,5
+2005,NYC,Hispanic,F,75-84,0,20,1
+2005,NYC,Hispanic,M,75-84,0,14,3
+2005,NYC,Hispanic,F,85+,0,2,1
+2005,NYC,Hispanic,M,85+,0,3,0
+2005,NYC,Hispanic,F,<1,0,0,0
+2005,NYC,Hispanic,M,<1,0,0,0
+2005,NYC,Hispanic,F,Total,0,122,14
+2005,NYC,Hispanic,M,Total,3,399,66
+2005,NYC,Not Stated,M,1-9,0,0,0
+2005,NYC,Not Stated,F,10-19,0,0,0
+2005,NYC,Not Stated,M,10-19,0,0,1
+2005,NYC,Not Stated,F,20-24,0,0,0
+2005,NYC,Not Stated,M,20-24,0,0,0
+2005,NYC,Not Stated,F,25-34,0,0,0
+2005,NYC,Not Stated,M,25-34,3,0,0
+2005,NYC,Not Stated,F,35-44,0,2,0
+2005,NYC,Not Stated,M,35-44,0,2,2
+2005,NYC,Not Stated,F,45-54,0,3,1
+2005,NYC,Not Stated,M,45-54,0,11,1
+2005,NYC,Not Stated,F,55-64,0,1,1
+2005,NYC,Not Stated,M,55-64,0,4,0
+2005,NYC,Not Stated,F,65-74,0,2,0
+2005,NYC,Not Stated,M,65-74,0,3,0
+2005,NYC,Not Stated,F,75-84,0,1,0
+2005,NYC,Not Stated,M,75-84,0,1,0
+2005,NYC,Not Stated,F,85+,0,0,0
+2005,NYC,Not Stated,M,85+,0,1,0
+2005,NYC,Not Stated,F,<1,0,0,0
+2005,NYC,Not Stated,M,<1,0,0,0
+2005,NYC,Not Stated,F,Total,0,9,2
+2005,NYC,Not Stated,M,Total,3,22,4
+2005,NYC,Other Non Hispanic,F,1-9,0,0,0
+2005,NYC,Other Non Hispanic,M,1-9,0,0,0
+2005,NYC,Other Non Hispanic,F,10-19,0,0,0
+2005,NYC,Other Non Hispanic,M,10-19,0,0,0
+2005,NYC,Other Non Hispanic,F,20-24,0,0,1
+2005,NYC,Other Non Hispanic,M,20-24,0,0,2
+2005,NYC,Other Non Hispanic,F,25-34,0,0,5
+2005,NYC,Other Non Hispanic,M,25-34,0,3,7
+2005,NYC,Other Non Hispanic,F,35-44,0,1,3
+2005,NYC,Other Non Hispanic,M,35-44,0,11,5
+2005,NYC,Other Non Hispanic,F,45-54,0,1,5
+2005,NYC,Other Non Hispanic,M,45-54,0,20,9
+2005,NYC,Other Non Hispanic,F,55-64,0,4,2
+2005,NYC,Other Non Hispanic,M,55-64,1,14,7
+2005,NYC,Other Non Hispanic,F,65-74,0,4,4
+2005,NYC,Other Non Hispanic,M,65-74,1,7,4
+2005,NYC,Other Non Hispanic,F,75-84,0,2,0
+2005,NYC,Other Non Hispanic,M,75-84,0,9,1
+2005,NYC,Other Non Hispanic,F,85+,0,0,2
+2005,NYC,Other Non Hispanic,M,85+,0,2,2
+2005,NYC,Other Non Hispanic,F,<1,0,0,0
+2005,NYC,Other Non Hispanic,M,<1,0,0,0
+2005,NYC,Other Non Hispanic,F,Total,0,12,22
+2005,NYC,Other Non Hispanic,M,Total,2,66,37
+2005,NYC,White Non Hispanic,F,1-9,0,0,0
+2005,NYC,White Non Hispanic,M,1-9,0,0,0
+2005,NYC,White Non Hispanic,F,10-19,1,1,0
+2005,NYC,White Non Hispanic,M,10-19,0,0,4
+2005,NYC,White Non Hispanic,F,20-24,0,1,9
+2005,NYC,White Non Hispanic,M,20-24,0,4,13
+2005,NYC,White Non Hispanic,F,25-34,0,3,12
+2005,NYC,White Non Hispanic,M,25-34,0,6,22
+2005,NYC,White Non Hispanic,F,35-44,0,10,4
+2005,NYC,White Non Hispanic,M,35-44,5,59,41
+2005,NYC,White Non Hispanic,F,45-54,0,27,11
+2005,NYC,White Non Hispanic,M,45-54,2,126,47
+2005,NYC,White Non Hispanic,F,55-64,0,35,9
+2005,NYC,White Non Hispanic,M,55-64,2,109,22
+2005,NYC,White Non Hispanic,F,65-74,0,29,4
+2005,NYC,White Non Hispanic,M,65-74,0,48,12
+2005,NYC,White Non Hispanic,F,75-84,0,19,5
+2005,NYC,White Non Hispanic,M,75-84,1,31,14
+2005,NYC,White Non Hispanic,F,85+,0,12,5
+2005,NYC,White Non Hispanic,M,85+,0,6,5
+2005,NYC,White Non Hispanic,F,<1,0,0,0
+2005,NYC,White Non Hispanic,M,<1,0,0,0
+2005,NYC,White Non Hispanic,F,Total,1,137,59
+2005,NYC,White Non Hispanic,M,Total,10,389,180
+2005,ROS,Black Non Hispanic,F,1-9,0,0,0
+2005,ROS,Black Non Hispanic,M,1-9,0,0,0
+2005,ROS,Black Non Hispanic,F,10-19,3,0,0
+2005,ROS,Black Non Hispanic,M,10-19,21,0,3
+2005,ROS,Black Non Hispanic,F,20-24,2,1,0
+2005,ROS,Black Non Hispanic,M,20-24,26,0,7
+2005,ROS,Black Non Hispanic,F,25-34,4,0,0
+2005,ROS,Black Non Hispanic,M,25-34,41,4,8
+2005,ROS,Black Non Hispanic,F,35-44,2,2,0
+2005,ROS,Black Non Hispanic,M,35-44,13,9,7
+2005,ROS,Black Non Hispanic,F,45-54,1,26,0
+2005,ROS,Black Non Hispanic,M,45-54,8,44,5
+2005,ROS,Black Non Hispanic,F,55-64,1,14,0
+2004,ROS,Black Non Hispanic,F,55-64,0,14,1
+2004,ROS,Black Non Hispanic,M,55-64,3,35,6
+2004,ROS,Black Non Hispanic,F,65-74,0,11,0
+2004,ROS,Black Non Hispanic,M,65-74,3,22,2
+2004,ROS,Black Non Hispanic,F,75-84,0,2,0
+2004,ROS,Black Non Hispanic,M,75-84,1,4,2
+2004,ROS,Black Non Hispanic,F,85+,0,1,0
+2004,ROS,Black Non Hispanic,M,85+,0,2,0
+2004,ROS,Black Non Hispanic,F,<1,0,0,0
+2004,ROS,Black Non Hispanic,M,<1,0,0,0
+2004,ROS,Black Non Hispanic,F,Total,7,47,7
+2004,ROS,Black Non Hispanic,M,Total,95,115,37
+2004,ROS,Hispanic,F,1-9,0,0,0
+2004,ROS,Hispanic,M,1-9,0,0,0
+2004,ROS,Hispanic,F,10-19,2,0,0
+2004,ROS,Hispanic,M,10-19,5,0,6
+2004,ROS,Hispanic,F,20-24,3,1,1
+2004,ROS,Hispanic,M,20-24,4,1,3
+2004,ROS,Hispanic,F,25-34,0,0,1
+2004,ROS,Hispanic,M,25-34,7,3,7
+2004,ROS,Hispanic,F,35-44,0,2,1
+2004,ROS,Hispanic,M,35-44,8,12,11
+2004,ROS,Hispanic,F,45-54,0,7,0
+2004,ROS,Hispanic,M,45-54,1,22,2
+2004,ROS,Hispanic,F,55-64,0,5,0
+2004,ROS,Hispanic,M,55-64,2,15,0
+2004,ROS,Hispanic,F,65-74,0,4,0
+2004,ROS,Hispanic,M,65-74,1,15,1
+2004,ROS,Hispanic,F,75-84,0,7,0
+2004,ROS,Hispanic,M,75-84,0,7,2
+2004,ROS,Hispanic,F,85+,0,2,1
+2004,ROS,Hispanic,M,85+,0,3,0
+2004,ROS,Hispanic,F,<1,0,0,0
+2004,ROS,Hispanic,M,<1,0,0,0
+2004,ROS,Hispanic,F,Total,5,28,4
+2004,ROS,Hispanic,M,Total,28,78,32
+2004,ROS,Not Stated,F,1-9,0,0,0
+2004,ROS,Not Stated,F,10-19,1,0,0
+2004,ROS,Not Stated,M,10-19,0,0,1
+2004,ROS,Not Stated,F,20-24,0,0,0
+2004,ROS,Not Stated,M,20-24,0,0,1
+2004,ROS,Not Stated,F,25-34,1,0,0
+2004,ROS,Not Stated,M,25-34,1,1,0
+2004,ROS,Not Stated,F,35-44,0,0,0
+2004,ROS,Not Stated,M,35-44,0,2,0
+2004,ROS,Not Stated,F,45-54,0,1,0
+2004,ROS,Not Stated,M,45-54,0,1,1
+2004,ROS,Not Stated,F,55-64,0,0,0
+2004,ROS,Not Stated,M,55-64,0,1,0
+2004,ROS,Not Stated,F,65-74,0,2,0
+2004,ROS,Not Stated,M,65-74,0,1,0
+2004,ROS,Not Stated,F,75-84,0,0,0
+2004,ROS,Not Stated,M,75-84,0,0,0
+2004,ROS,Not Stated,F,85+,0,0,0
+2004,ROS,Not Stated,M,85+,0,0,0
+2004,ROS,Not Stated,F,<1,0,0,0
+2004,ROS,Not Stated,M,<1,0,0,0
+2004,ROS,Not Stated,F,Total,2,3,0
+2004,ROS,Not Stated,M,Total,1,6,3
+2004,ROS,Other Non Hispanic,F,1-9,0,0,0
+2004,ROS,Other Non Hispanic,M,1-9,0,0,0
+2004,ROS,Other Non Hispanic,F,10-19,0,0,1
+2004,ROS,Other Non Hispanic,M,10-19,0,0,1
+2004,ROS,Other Non Hispanic,F,20-24,0,0,1
+2004,ROS,Other Non Hispanic,M,20-24,0,0,0
+2004,ROS,Other Non Hispanic,F,25-34,0,0,0
+2004,ROS,Other Non Hispanic,M,25-34,2,1,4
+2004,ROS,Other Non Hispanic,F,35-44,0,1,1
+2004,ROS,Other Non Hispanic,M,35-44,1,1,1
+2004,ROS,Other Non Hispanic,F,45-54,0,1,0
+2004,ROS,Other Non Hispanic,M,45-54,0,5,2
+2004,ROS,Other Non Hispanic,F,55-64,0,2,1
+2004,ROS,Other Non Hispanic,M,55-64,0,1,0
+2004,ROS,Other Non Hispanic,F,65-74,0,2,1
+2004,ROS,Other Non Hispanic,M,65-74,0,2,0
+2004,ROS,Other Non Hispanic,F,75-84,0,1,1
+2004,ROS,Other Non Hispanic,M,75-84,0,1,0
+2004,ROS,Other Non Hispanic,F,85+,0,1,0
+2004,ROS,Other Non Hispanic,M,85+,0,0,0
+2004,ROS,Other Non Hispanic,F,<1,0,0,0
+2004,ROS,Other Non Hispanic,M,<1,0,0,0
+2004,ROS,Other Non Hispanic,F,Total,0,8,6
+2004,ROS,Other Non Hispanic,M,Total,3,11,8
+2004,ROS,White Non Hispanic,F,1-9,0,0,0
+2004,ROS,White Non Hispanic,M,1-9,0,0,0
+2004,ROS,White Non Hispanic,F,10-19,3,1,10
+2004,ROS,White Non Hispanic,M,10-19,9,8,32
+2004,ROS,White Non Hispanic,F,20-24,2,1,7
+2004,ROS,White Non Hispanic,M,20-24,24,10,42
+2004,ROS,White Non Hispanic,F,25-34,5,10,9
+2004,ROS,White Non Hispanic,M,25-34,42,21,78
+2004,ROS,White Non Hispanic,F,35-44,1,27,26
+2004,ROS,White Non Hispanic,M,35-44,58,97,111
+2004,ROS,White Non Hispanic,F,45-54,6,97,34
+2004,ROS,White Non Hispanic,M,45-54,83,269,135
+2004,ROS,White Non Hispanic,F,55-64,5,105,15
+2004,ROS,White Non Hispanic,M,55-64,50,275,80
+2004,ROS,White Non Hispanic,F,65-74,4,116,7
+2004,ROS,White Non Hispanic,M,65-74,28,241,45
+2004,ROS,White Non Hispanic,F,75-84,2,116,14
+2004,ROS,White Non Hispanic,M,75-84,31,173,43
+2004,ROS,White Non Hispanic,F,85+,0,46,3
+2004,ROS,White Non Hispanic,M,85+,3,34,6
+2004,ROS,White Non Hispanic,F,<1,0,0,1
+2004,ROS,White Non Hispanic,M,<1,0,0,0
+2004,ROS,White Non Hispanic,F,Total,28,519,126
+2004,ROS,White Non Hispanic,M,Total,328,1128,572
+2004,NYC,Black Non Hispanic,F,1-9,0,0,0
+2004,NYC,Black Non Hispanic,M,1-9,0,0,0
+2004,NYC,Black Non Hispanic,F,10-19,0,0,3
+2004,NYC,Black Non Hispanic,M,10-19,3,0,7
+2004,NYC,Black Non Hispanic,F,20-24,0,0,3
+2004,NYC,Black Non Hispanic,M,20-24,1,1,15
+2004,NYC,Black Non Hispanic,F,25-34,1,1,5
+2004,NYC,Black Non Hispanic,M,25-34,7,7,17
+2004,NYC,Black Non Hispanic,F,35-44,0,15,4
+2004,NYC,Black Non Hispanic,M,35-44,4,39,12
+2004,NYC,Black Non Hispanic,F,45-54,0,41,2
+2004,NYC,Black Non Hispanic,M,45-54,0,106,7
+2004,NYC,Black Non Hispanic,F,55-64,0,30,1
+2004,NYC,Black Non Hispanic,M,55-64,0,88,6
+2004,NYC,Black Non Hispanic,F,65-74,0,19,0
+2004,NYC,Black Non Hispanic,M,65-74,0,58,2
+2004,NYC,Black Non Hispanic,F,75-84,0,15,0
+2004,NYC,Black Non Hispanic,M,75-84,0,16,3
+2004,NYC,Black Non Hispanic,F,85+,0,3,0
+2004,NYC,Black Non Hispanic,M,85+,0,2,2
+2004,NYC,Black Non Hispanic,F,<1,0,0,0
+2004,NYC,Black Non Hispanic,M,<1,0,0,0
+2004,NYC,Black Non Hispanic,F,Total,1,124,18
+2004,NYC,Black Non Hispanic,M,Total,15,317,71
+2004,NYC,Hispanic,F,1-9,0,0,0
+2004,NYC,Hispanic,M,1-9,0,0,0
+2004,NYC,Hispanic,F,10-19,0,1,2
+2004,NYC,Hispanic,M,10-19,0,1,6
+2004,NYC,Hispanic,F,20-24,0,1,0
+2004,NYC,Hispanic,M,20-24,0,7,11
+2004,NYC,Hispanic,F,25-34,1,3,7
+2004,NYC,Hispanic,M,25-34,1,16,13
+2004,NYC,Hispanic,F,35-44,0,24,3
+2004,NYC,Hispanic,M,35-44,3,69,11
+2004,NYC,Hispanic,F,45-54,0,35,1
+2004,NYC,Hispanic,M,45-54,1,134,16
+2004,NYC,Hispanic,F,55-64,0,21,1
+2004,NYC,Hispanic,M,55-64,0,107,8
+2004,NYC,Hispanic,F,65-74,0,30,1
+2004,NYC,Hispanic,M,65-74,0,57,3
+2004,NYC,Hispanic,F,75-84,0,22,0
+2004,NYC,Hispanic,M,75-84,0,19,1
+2004,NYC,Hispanic,F,85+,0,3,0
+2004,NYC,Hispanic,M,85+,0,2,1
+2004,NYC,Hispanic,F,<1,0,0,0
+2004,NYC,Hispanic,M,<1,0,0,0
+2004,NYC,Hispanic,F,Total,1,140,15
+2004,NYC,Hispanic,M,Total,5,412,70
+2004,NYC,Not Stated,F,1-9,0,0,0
+2004,NYC,Not Stated,M,1-9,0,0,0
+2004,NYC,Not Stated,F,10-19,0,0,0
+2004,NYC,Not Stated,M,10-19,0,0,0
+2004,NYC,Not Stated,F,20-24,0,0,0
+2004,NYC,Not Stated,M,20-24,0,0,0
+2004,NYC,Not Stated,F,25-34,0,1,0
+2004,NYC,Not Stated,M,25-34,0,0,1
+2004,NYC,Not Stated,F,35-44,0,2,0
+2004,NYC,Not Stated,M,35-44,0,4,2
+2004,NYC,Not Stated,F,45-54,0,3,1
+2004,NYC,Not Stated,M,45-54,0,8,1
+2004,NYC,Not Stated,F,55-64,0,3,0
+2004,NYC,Not Stated,M,55-64,0,5,0
+2004,NYC,Not Stated,F,65-74,0,2,0
+2004,NYC,Not Stated,M,65-74,0,3,0
+2004,NYC,Not Stated,F,75-84,0,2,0
+2004,NYC,Not Stated,M,75-84,0,0,0
+2004,NYC,Not Stated,F,85+,0,0,0
+2004,NYC,Not Stated,M,85+,0,0,0
+2004,NYC,Not Stated,F,<1,0,0,0
+2004,NYC,Not Stated,M,<1,0,0,0
+2004,NYC,Not Stated,F,Total,0,13,1
+2004,NYC,Not Stated,M,Total,0,20,4
+2004,NYC,Other Non Hispanic,F,1-9,0,0,0
+2004,NYC,Other Non Hispanic,M,1-9,0,0,0
+2004,NYC,Other Non Hispanic,F,10-19,0,0,0
+2004,NYC,Other Non Hispanic,M,10-19,0,0,2
+2004,NYC,Other Non Hispanic,F,20-24,0,0,2
+2004,NYC,Other Non Hispanic,M,20-24,0,1,2
+2004,NYC,Other Non Hispanic,F,25-34,0,0,3
+2004,NYC,Other Non Hispanic,M,25-34,1,5,3
+2004,NYC,Other Non Hispanic,F,35-44,0,1,3
+2004,NYC,Other Non Hispanic,M,35-44,0,5,1
+2004,NYC,Other Non Hispanic,F,45-54,0,2,1
+2004,NYC,Other Non Hispanic,M,45-54,0,12,8
+2004,NYC,Other Non Hispanic,F,55-64,0,5,1
+2004,NYC,Other Non Hispanic,M,55-64,0,8,5
+2004,NYC,Other Non Hispanic,F,65-74,0,5,3
+2004,NYC,Other Non Hispanic,M,65-74,0,8,4
+2004,NYC,Other Non Hispanic,F,75-84,0,1,2
+2004,NYC,Other Non Hispanic,M,75-84,0,3,3
+2004,NYC,Other Non Hispanic,F,85+,0,2,2
+2004,NYC,Other Non Hispanic,M,85+,0,1,2
+2004,NYC,Other Non Hispanic,F,<1,0,0,0
+2004,NYC,Other Non Hispanic,M,<1,0,0,0
+2004,NYC,Other Non Hispanic,F,Total,0,16,17
+2004,NYC,Other Non Hispanic,M,Total,1,43,30
+2004,NYC,White Non Hispanic,F,1-9,0,0,0
+2004,NYC,White Non Hispanic,M,1-9,0,0,0
+2004,NYC,White Non Hispanic,F,10-19,0,0,3
+2004,NYC,White Non Hispanic,M,10-19,0,0,6
+2004,NYC,White Non Hispanic,F,20-24,0,1,5
+2004,NYC,White Non Hispanic,M,20-24,2,2,7
+2004,NYC,White Non Hispanic,F,25-34,0,6,7
+2004,NYC,White Non Hispanic,M,25-34,2,19,19
+2004,NYC,White Non Hispanic,F,35-44,0,16,8
+2004,NYC,White Non Hispanic,M,35-44,1,58,45
+2004,NYC,White Non Hispanic,F,45-54,0,46,16
+2004,NYC,White Non Hispanic,M,45-54,1,122,31
+2004,NYC,White Non Hispanic,F,55-64,0,37,14
+2004,NYC,White Non Hispanic,M,55-64,2,105,25
+2004,NYC,White Non Hispanic,F,65-74,0,30,2
+2004,NYC,White Non Hispanic,M,65-74,1,70,19
+2004,NYC,White Non Hispanic,F,75-84,0,26,5
+2004,NYC,White Non Hispanic,M,75-84,0,50,14
+2004,NYC,White Non Hispanic,F,85+,0,10,6
+2004,NYC,White Non Hispanic,M,85+,0,6,6
+2004,NYC,White Non Hispanic,F,<1,0,0,0
+2004,NYC,White Non Hispanic,M,<1,0,0,0
+2004,NYC,White Non Hispanic,F,Total,0,172,66
+2004,NYC,White Non Hispanic,M,Total,9,432,172
+2004,ROS,Black Non Hispanic,F,1-9,0,0,0
+2004,ROS,Black Non Hispanic,M,1-9,0,0,0
+2004,ROS,Black Non Hispanic,F,10-19,0,0,0
+2004,ROS,Black Non Hispanic,M,10-19,12,0,3
+2004,ROS,Black Non Hispanic,F,20-24,3,0,0
+2004,ROS,Black Non Hispanic,M,20-24,31,0,6
+2004,ROS,Black Non Hispanic,F,25-34,3,0,2
+2004,ROS,Black Non Hispanic,M,25-34,27,5,8
+2004,ROS,Black Non Hispanic,F,35-44,1,4,1
+2004,ROS,Black Non Hispanic,M,35-44,13,9,5
+2004,ROS,Black Non Hispanic,F,45-54,0,15,3
+2004,ROS,Black Non Hispanic,M,45-54,5,38,5
+2003,ROS,Black Non Hispanic,F,55-64,0,9,0
+2003,ROS,Black Non Hispanic,M,55-64,1,33,3
+2003,ROS,Black Non Hispanic,F,65-74,0,7,0
+2003,ROS,Black Non Hispanic,M,65-74,1,14,1
+2003,ROS,Black Non Hispanic,F,75-84,0,7,0
+2003,ROS,Black Non Hispanic,M,75-84,0,6,1
+2003,ROS,Black Non Hispanic,F,85+,0,1,0
+2003,ROS,Black Non Hispanic,M,85+,0,0,1
+2003,ROS,Black Non Hispanic,F,<1,0,0,0
+2003,ROS,Black Non Hispanic,M,<1,0,0,0
+2003,ROS,Black Non Hispanic,F,Total,12,45,7
+2003,ROS,Black Non Hispanic,M,Total,122,117,29
+2003,ROS,Hispanic,F,1-9,0,0,0
+2003,ROS,Hispanic,M,1-9,0,0,0
+2003,ROS,Hispanic,F,10-19,0,0,0
+2003,ROS,Hispanic,M,10-19,7,2,1
+2003,ROS,Hispanic,F,20-24,0,0,0
+2003,ROS,Hispanic,M,20-24,4,1,3
+2003,ROS,Hispanic,F,25-34,0,0,2
+2003,ROS,Hispanic,M,25-34,5,10,7
+2003,ROS,Hispanic,F,35-44,0,3,2
+2003,ROS,Hispanic,M,35-44,1,18,2
+2003,ROS,Hispanic,F,45-54,1,15,0
+2003,ROS,Hispanic,M,45-54,2,36,3
+2003,ROS,Hispanic,F,55-64,1,4,0
+2003,ROS,Hispanic,M,55-64,0,26,6
+2003,ROS,Hispanic,F,65-74,0,7,0
+2003,ROS,Hispanic,M,65-74,2,14,4
+2003,ROS,Hispanic,F,75-84,0,9,0
+2003,ROS,Hispanic,M,75-84,0,10,1
+2003,ROS,Hispanic,F,85+,0,2,0
+2003,ROS,Hispanic,M,85+,0,1,0
+2003,ROS,Hispanic,F,<1,0,0,0
+2003,ROS,Hispanic,M,<1,0,0,0
+2003,ROS,Hispanic,F,Total,2,40,4
+2003,ROS,Hispanic,M,Total,21,118,27
+2003,ROS,Not Stated,F,1-9,0,0,0
+2003,ROS,Not Stated,M,1-9,0,0,0
+2003,ROS,Not Stated,F,10-19,0,0,0
+2003,ROS,Not Stated,M,10-19,1,0,1
+2003,ROS,Not Stated,F,20-24,0,0,1
+2003,ROS,Not Stated,M,20-24,0,0,1
+2003,ROS,Not Stated,F,25-34,0,0,0
+2003,ROS,Not Stated,M,25-34,2,0,0
+2003,ROS,Not Stated,F,35-44,0,0,0
+2003,ROS,Not Stated,M,35-44,4,2,0
+2003,ROS,Not Stated,F,45-54,0,0,0
+2003,ROS,Not Stated,M,45-54,0,1,0
+2003,ROS,Not Stated,F,55-64,0,0,1
+2003,ROS,Not Stated,M,55-64,0,2,1
+2003,ROS,Not Stated,F,65-74,0,0,0
+2003,ROS,Not Stated,M,65-74,0,1,0
+2003,ROS,Not Stated,F,75-84,0,1,0
+2003,ROS,Not Stated,M,75-84,0,1,0
+2003,ROS,Not Stated,F,85+,0,0,0
+2003,ROS,Not Stated,M,85+,0,0,0
+2003,ROS,Not Stated,F,<1,0,0,0
+2003,ROS,Not Stated,M,<1,0,0,0
+2003,ROS,Not Stated,F,Total,0,1,2
+2003,ROS,Not Stated,M,Total,7,7,3
+2003,ROS,Other Non Hispanic,F,1-9,1,0,0
+2003,ROS,Other Non Hispanic,M,1-9,0,0,0
+2003,ROS,Other Non Hispanic,F,10-19,0,0,0
+2003,ROS,Other Non Hispanic,M,10-19,0,2,0
+2003,ROS,Other Non Hispanic,F,20-24,0,0,0
+2003,ROS,Other Non Hispanic,M,20-24,0,0,2
+2003,ROS,Other Non Hispanic,F,25-34,0,0,3
+2003,ROS,Other Non Hispanic,M,25-34,1,1,6
+2003,ROS,Other Non Hispanic,F,35-44,0,2,1
+2003,ROS,Other Non Hispanic,M,35-44,0,1,1
+2003,ROS,Other Non Hispanic,F,45-54,0,2,1
+2003,ROS,Other Non Hispanic,M,45-54,0,6,3
+2003,ROS,Other Non Hispanic,F,55-64,0,4,0
+2003,ROS,Other Non Hispanic,M,55-64,0,3,1
+2003,ROS,Other Non Hispanic,F,65-74,0,4,0
+2003,ROS,Other Non Hispanic,M,65-74,0,1,0
+2003,ROS,Other Non Hispanic,F,75-84,0,0,0
+2003,ROS,Other Non Hispanic,M,75-84,0,1,0
+2003,ROS,Other Non Hispanic,F,85+,0,0,0
+2003,ROS,Other Non Hispanic,M,85+,0,0,0
+2003,ROS,Other Non Hispanic,F,<1,0,0,0
+2003,ROS,Other Non Hispanic,M,<1,0,0,0
+2003,ROS,Other Non Hispanic,F,Total,1,12,5
+2003,ROS,Other Non Hispanic,M,Total,1,15,13
+2003,ROS,White Non Hispanic,F,1-9,0,0,0
+2003,ROS,White Non Hispanic,M,1-9,1,0,0
+2003,ROS,White Non Hispanic,F,10-19,2,0,3
+2003,ROS,White Non Hispanic,M,10-19,26,4,34
+2003,ROS,White Non Hispanic,F,20-24,1,1,11
+2003,ROS,White Non Hispanic,M,20-24,25,8,46
+2003,ROS,White Non Hispanic,F,25-34,7,1,16
+2003,ROS,White Non Hispanic,M,25-34,34,24,69
+2003,ROS,White Non Hispanic,F,35-44,9,43,26
+2003,ROS,White Non Hispanic,M,35-44,59,113,116
+2003,ROS,White Non Hispanic,F,45-54,13,107,39
+2003,ROS,White Non Hispanic,M,45-54,52,295,116
+2003,ROS,White Non Hispanic,F,55-64,5,104,18
+2003,ROS,White Non Hispanic,M,55-64,49,259,76
+2003,ROS,White Non Hispanic,F,65-74,0,104,10
+2003,ROS,White Non Hispanic,M,65-74,37,241,44
+2003,ROS,White Non Hispanic,F,75-84,0,134,6
+2003,ROS,White Non Hispanic,M,75-84,29,166,47
+2003,ROS,White Non Hispanic,F,85+,0,28,2
+2003,ROS,White Non Hispanic,M,85+,13,44,21
+2003,ROS,White Non Hispanic,F,<1,0,0,0
+2003,ROS,White Non Hispanic,M,<1,0,0,0
+2003,ROS,White Non Hispanic,F,Total,37,522,131
+2003,ROS,White Non Hispanic,M,Total,325,1154,569
+2003,NYC,Black Non Hispanic,F,1-9,0,0,0
+2003,NYC,Black Non Hispanic,M,1-9,0,0,0
+2003,NYC,Black Non Hispanic,F,10-19,0,1,2
+2003,NYC,Black Non Hispanic,M,10-19,7,0,6
+2003,NYC,Black Non Hispanic,F,20-24,0,0,1
+2003,NYC,Black Non Hispanic,M,20-24,0,1,9
+2003,NYC,Black Non Hispanic,F,25-34,1,5,6
+2003,NYC,Black Non Hispanic,M,25-34,10,7,6
+2003,NYC,Black Non Hispanic,F,35-44,0,18,6
+2003,NYC,Black Non Hispanic,M,35-44,4,33,15
+2003,NYC,Black Non Hispanic,F,45-54,0,43,3
+2003,NYC,Black Non Hispanic,M,45-54,0,99,11
+2003,NYC,Black Non Hispanic,F,55-64,0,42,0
+2003,NYC,Black Non Hispanic,M,55-64,0,105,3
+2003,NYC,Black Non Hispanic,F,65-74,0,14,1
+2003,NYC,Black Non Hispanic,M,65-74,0,42,3
+2003,NYC,Black Non Hispanic,F,75-84,0,11,0
+2003,NYC,Black Non Hispanic,M,75-84,0,16,1
+2003,NYC,Black Non Hispanic,F,85+,0,1,0
+2003,NYC,Black Non Hispanic,M,85+,0,0,0
+2003,NYC,Black Non Hispanic,F,<1,0,0,0
+2003,NYC,Black Non Hispanic,M,<1,0,0,0
+2003,NYC,Black Non Hispanic,F,Total,1,135,19
+2003,NYC,Black Non Hispanic,M,Total,21,303,54
+2003,NYC,Hispanic,F,1-9,0,0,0
+2003,NYC,Hispanic,M,1-9,0,0,0
+2003,NYC,Hispanic,F,10-19,0,2,1
+2003,NYC,Hispanic,M,10-19,1,3,5
+2003,NYC,Hispanic,F,20-24,1,0,2
+2003,NYC,Hispanic,M,20-24,0,3,9
+2003,NYC,Hispanic,F,25-34,0,3,3
+2003,NYC,Hispanic,M,25-34,6,24,19
+2003,NYC,Hispanic,F,35-44,0,17,4
+2003,NYC,Hispanic,M,35-44,1,81,12
+2003,NYC,Hispanic,F,45-54,0,30,2
+2003,NYC,Hispanic,M,45-54,0,154,8
+2003,NYC,Hispanic,F,55-64,0,22,2
+2003,NYC,Hispanic,M,55-64,0,111,8
+2003,NYC,Hispanic,F,65-74,0,22,1
+2003,NYC,Hispanic,M,65-74,0,52,5
+2003,NYC,Hispanic,F,75-84,0,17,0
+2003,NYC,Hispanic,M,75-84,0,14,1
+2003,NYC,Hispanic,F,85+,0,2,0
+2003,NYC,Hispanic,M,85+,0,2,2
+2003,NYC,Hispanic,F,<1,0,0,0
+2003,NYC,Hispanic,M,<1,0,0,0
+2003,NYC,Hispanic,F,Total,1,115,15
+2003,NYC,Hispanic,M,Total,8,444,69
+2003,NYC,Not Stated,F,1-9,0,0,0
+2003,NYC,Not Stated,M,1-9,0,0,0
+2003,NYC,Not Stated,F,10-19,0,0,1
+2003,NYC,Not Stated,M,10-19,0,0,0
+2003,NYC,Not Stated,F,20-24,0,0,0
+2003,NYC,Not Stated,M,20-24,0,0,0
+2003,NYC,Not Stated,F,25-34,0,0,1
+2003,NYC,Not Stated,M,25-34,0,0,3
+2003,NYC,Not Stated,F,35-44,0,4,0
+2003,NYC,Not Stated,M,35-44,1,4,4
+2003,NYC,Not Stated,F,45-54,0,1,0
+2003,NYC,Not Stated,M,45-54,0,18,0
+2003,NYC,Not Stated,F,55-64,0,3,1
+2003,NYC,Not Stated,M,55-64,0,11,3
+2003,NYC,Not Stated,F,65-74,0,2,1
+2003,NYC,Not Stated,M,65-74,0,3,1
+2003,NYC,Not Stated,F,75-84,0,2,0
+2003,NYC,Not Stated,M,75-84,0,2,0
+2003,NYC,Not Stated,F,85+,0,0,0
+2003,NYC,Not Stated,M,85+,0,1,0
+2003,NYC,Not Stated,F,<1,0,0,0
+2003,NYC,Not Stated,M,<1,0,0,0
+2003,NYC,Not Stated,F,Total,0,12,4
+2003,NYC,Not Stated,M,Total,1,39,11
+2003,NYC,Other Non Hispanic,F,1-9,0,0,0
+2003,NYC,Other Non Hispanic,M,1-9,0,0,0
+2003,NYC,Other Non Hispanic,F,10-19,0,0,0
+2003,NYC,Other Non Hispanic,M,10-19,0,0,0
+2003,NYC,Other Non Hispanic,F,20-24,0,0,0
+2003,NYC,Other Non Hispanic,M,20-24,1,0,0
+2003,NYC,Other Non Hispanic,F,25-34,0,0,4
+2003,NYC,Other Non Hispanic,M,25-34,0,4,4
+2003,NYC,Other Non Hispanic,F,35-44,0,1,2
+2003,NYC,Other Non Hispanic,M,35-44,2,12,3
+2003,NYC,Other Non Hispanic,F,45-54,0,1,1
+2003,NYC,Other Non Hispanic,M,45-54,0,9,3
+2003,NYC,Other Non Hispanic,F,55-64,0,2,1
+2003,NYC,Other Non Hispanic,M,55-64,0,10,8
+2003,NYC,Other Non Hispanic,F,65-74,0,4,2
+2003,NYC,Other Non Hispanic,M,65-74,0,4,4
+2003,NYC,Other Non Hispanic,F,75-84,0,0,3
+2003,NYC,Other Non Hispanic,M,75-84,0,7,2
+2003,NYC,Other Non Hispanic,F,85+,0,1,1
+2003,NYC,Other Non Hispanic,M,85+,0,0,1
+2003,NYC,Other Non Hispanic,F,<1,0,0,0
+2003,NYC,Other Non Hispanic,M,<1,0,0,0
+2003,NYC,Other Non Hispanic,F,Total,0,9,14
+2003,NYC,Other Non Hispanic,M,Total,3,46,25
+2003,NYC,White Non Hispanic,F,1-9,0,0,0
+2003,NYC,White Non Hispanic,M,1-9,0,0,0
+2003,NYC,White Non Hispanic,F,10-19,0,0,1
+2003,NYC,White Non Hispanic,M,10-19,1,1,6
+2003,NYC,White Non Hispanic,F,20-24,0,0,3
+2003,NYC,White Non Hispanic,M,20-24,0,3,6
+2003,NYC,White Non Hispanic,F,25-34,0,5,5
+2003,NYC,White Non Hispanic,M,25-34,4,17,24
+2003,NYC,White Non Hispanic,F,35-44,0,21,14
+2003,NYC,White Non Hispanic,M,35-44,4,62,27
+2003,NYC,White Non Hispanic,F,45-54,1,51,19
+2003,NYC,White Non Hispanic,M,45-54,3,167,35
+2003,NYC,White Non Hispanic,F,55-64,0,37,20
+2003,NYC,White Non Hispanic,M,55-64,0,107,27
+2003,NYC,White Non Hispanic,F,65-74,0,32,8
+2003,NYC,White Non Hispanic,M,65-74,0,60,15
+2003,NYC,White Non Hispanic,F,75-84,0,22,7
+2003,NYC,White Non Hispanic,M,75-84,0,36,22
+2003,NYC,White Non Hispanic,F,85+,0,7,4
+2003,NYC,White Non Hispanic,M,85+,0,11,8
+2003,NYC,White Non Hispanic,F,<1,0,0,0
+2003,NYC,White Non Hispanic,M,<1,0,1,0
+2003,NYC,White Non Hispanic,F,Total,1,175,81
+2003,NYC,White Non Hispanic,M,Total,12,465,170
+2003,ROS,Black Non Hispanic,F,1-9,1,0,0
+2003,ROS,Black Non Hispanic,M,1-9,0,0,0
+2003,ROS,Black Non Hispanic,F,10-19,2,0,1
+2003,ROS,Black Non Hispanic,M,10-19,26,0,2
+2003,ROS,Black Non Hispanic,F,20-24,3,0,3
+2003,ROS,Black Non Hispanic,M,20-24,42,0,5
+2003,ROS,Black Non Hispanic,F,25-34,5,1,0
+2003,ROS,Black Non Hispanic,M,25-34,38,4,6
+2003,ROS,Black Non Hispanic,F,35-44,0,4,3
+2003,ROS,Black Non Hispanic,M,35-44,9,9,6
+2003,ROS,Black Non Hispanic,F,45-54,1,16,0
+2003,ROS,Black Non Hispanic,M,45-54,5,51,4
