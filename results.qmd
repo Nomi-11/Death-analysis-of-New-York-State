@@ -1,6 +1,5 @@
 # Results
 
-
 ## How do suicide death counts vary across different age groups, genders, regions, and ethnicities in New York State?
 ```{r, message=FALSE}
 library(reshape2)
