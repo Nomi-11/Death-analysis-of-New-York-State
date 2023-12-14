@@ -16,7 +16,7 @@ For the geographical distribution of suicide, alcohol-related, and firearm death
 
 Two different types of missing values have been identified in two columns respectively. There are 833 'Not Stated' values in the 'Race or Ethnicity' column and 13 'Unknown' values in the 'Age Group' column. Since there are 833 rows with 'Not Stated' out of 4297 total rows, we decided to keep the 'Not Stated' values as a new category along with other races. Since there are only 13 rows with 'Unknown' out of 4297 total rows, we decided to remove these rows from our dataset.
 
-```{r, warning=FALSE}
+```{r, message=FALSE, warning=FALSE}
 library(RColorBrewer)
 library(ggplot2)
 library(dplyr)
@@ -51,11 +51,3 @@ ggplot(death_data, aes(x=Age.Group, fill=Color)) +
   guides(fill=FALSE) # Using a minimal theme for a clean look
 ```
 
-```{r}
-library(dplyr)
-# Filter out rows where the Age Group is "Unknown"
-death_data <- death_data %>% 
-  filter(Age.Group != "Unknown")
-
-table(death_data$Age.Group)
-```

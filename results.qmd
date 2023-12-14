@@ -7,11 +7,18 @@ library(reshape2)
 library(dplyr)
 library(ggplot2)
 library(RColorBrewer)
+library(rgl)
+library(tidyr)
+library(ggmosaic)
+library(ggridges)
+library(GGally)
 
 death_data <- read.csv("Death_data_NY.csv")
 death_data <- death_data %>% 
   filter(Age.Group != "Unknown")
+```
 
+```{r, message=FALSE}
 aggregated_data <- death_data %>%
    filter(Age.Group != 'Total') %>%
   group_by(Race.or.Ethnicity, Age.Group) %>%
@@ -30,7 +37,6 @@ ggplot(data_melted, aes(x = Age.Group, y = Race.or.Ethnicity, fill = value)) +
          fill = "Suicide Counts") +
     theme_minimal() +
     theme(axis.text.x = element_text(angle = 45, hjust = 1))
-
 ```
 **Comment:** The heatmap provides a visual representation of suicide counts by age group and ethnicity, with darker colors indicating higher numbers. It shows that White Non Hispanic individuals have a notably higher incidence of suicide across most age groups, particularly in the middle-aged brackets. Other ethnic groups, such as Hispanic and Black Non Hispanic, have lower counts, which are more evenly distributed across age groups. The "Not Stated" category suggests a lack of data or unreported ethnicity in some cases. The concentration of darker shades in specific age ranges may highlight critical periods where interventions could be most impactful.  
 
@@ -117,8 +123,6 @@ ggplot(aggregated_data_6, aes(x = Suicide.Deaths, y = Firearm.Deaths, color = Se
 **Comment:** The scatter plot illustrates the relationship between suicide deaths and firearm deaths by gender. It shows a clear pattern: as the number of suicide deaths increases, so do the firearm deaths, with this trend being more pronounced for males. For females, the data points are clustered at lower counts for both suicide and firearm deaths, indicating a lower occurrence of both compared to males. The plot suggests that firearms may be a common method of suicide, especially among males. This visualization highlights the gender disparity in these deaths and suggests a potential area for intervention and prevention efforts.
 
 ```{r, message=FALSE}
-library(rgl)
-
 mycolors <- c('pink', 'lightblue')
 
 aggregated_data_6$Sex <- factor(aggregated_data_6$Sex, levels = c('F', 'M'))
@@ -147,13 +151,6 @@ rglwidget()
 
 ## Has there been a significant change in the number of suicide, firearm or alcohol-related deaths in New York State over the years?
 ```{r, message=FALSE}
-library(ggplot2)
-library(dplyr)
-
-death_data <- read.csv("Death_data_NY.csv")
-death_data <- death_data %>% 
-  filter(Age.Group != "Unknown")
-
 # Group data by year and summarize
 annual_summary <- death_data %>%
   group_by(Year) %>%
@@ -167,7 +164,7 @@ ggplot() +
   geom_line(data = annual_summary, aes(x = Year, y = Suicide_Total, color = "Suicide Deaths")) +
   geom_line(data = annual_summary, aes(x = Year, y = Alcohol_Related_Total, color = "Alcohol-Related Deaths")) +
   geom_line(data = annual_summary, aes(x = Year, y = Firearm_Total, color = "Firearm Deaths")) +
-  labs(title = "Trends in Alcohol-Related, Firearm, and Suicide Deaths \nin New York State: 2003-2020",
+  labs(title = "Trends in Alcohol-Related, Firearm, and Suicide Deaths \nin New York State over the years",
        x = "Year",
        y = "Total Deaths") +
   scale_color_manual(values = c("Suicide Deaths" = "blue", "Alcohol-Related Deaths" = "red", "Firearm Deaths" = "green")) +
@@ -177,9 +174,6 @@ ggplot() +
 **Comment:** The line graph illustrates the trends in alcohol-related, firearm, and suicide deaths in New York State from 2003 to 2020. Alcohol-related deaths have seen a dramatic increase over the years, with a particularly sharp rise towards the end of the period. In comparison, firearm deaths have shown some variability but have remained relatively flat overall. Suicide deaths, while also exhibiting some fluctuation, have not changed as dramatically as alcohol-related deaths.
 
 ```{r, message=FALSE}
-library(ggplot2)
-library(tidyr)
-library(dplyr)
 # Reshape the data to long format
 long_data <- death_data %>%
   filter(Age.Group != 'Total') %>% 
@@ -203,10 +197,6 @@ ggplot(long_data, aes(x = as.factor(Year), y = Deaths, fill = Category)) +
 
 ## Which regions in New York State have the highest counts of suicide, alcohol-related, and firearm deaths?
 ```{r, message=FALSE, warning=FALSE}
-library(ggmosaic)
-library(tidyr)
-library(dplyr)
-
 aggregated_data_4 <- death_data %>%
   filter(Age.Group != 'Total') %>%
   group_by(Region, Sex) %>%
@@ -237,8 +227,6 @@ ggplot(data_long) +
 ```
 **Comment:** The mosaic plot shows the distribution of different types of death counts by gender and region. For both males (M) and females (F), alcohol-related deaths are the most prevalent in both New York City (NYC) and the rest of the state (ROS). However, males have a much higher incidence of firearm deaths compared to females in both regions. This visualization highlights the gender disparity in death counts, particularly in firearm deaths, and also shows that alcohol-related deaths are a significant concern for both genders across different regions.
 ```{r, message=FALSE}
-library(RColorBrewer)
-
 # Adding population data for NYC and ROS
 nyc_population <- 8770000 # replace with the actual population of New York City
 ros_population <- 19340000 - 8770000 # replace with the actual population of the Rest of State
@@ -270,11 +258,6 @@ ggplot(df_rates_2020, aes(x = Region, y = Rate, fill = DeathType)) +
 ## How have mortality patterns by age and race, specifically related to suicide, firearm, and alcohol-related deaths, changed in New York State over the years?
 
 ```{r, message=FALSE}
-library(ggplot2)
-library(dplyr)
-library(ggridges)
-
-
 # Calculate the total death count
 death_data$Total_Deaths <- rowSums(death_data[, c("Suicide.Deaths", "Alcohol.Related.Deaths", "Firearm.Deaths")], na.rm = TRUE)
 
@@ -298,9 +281,6 @@ ggplot(long_data, aes(x = Total_Deaths, y = Age.Group, fill = Age.Group)) +
 **Comment:** The ridgeline plot visualizes the distribution of annually death counts across age groups over the years 2003 to 2020. From the plot, we observe that the age groups '45-54' and '55-64' have the most substantial death counts, suggesting a higher unnatural death rate in these middle-aged brackets. The distributions are broader for these age groups, indicating a more significant variance in the number of deaths year over year. In contrast, the younger and older age groups exhibit fewer deaths, with narrower distributions, which points to less variability and lower overall death counts.
 
 ```{r, message=FALSE}
-library(GGally)
-library(dplyr)
-
 aggregated_data_3 <- death_data %>%
   filter(Age.Group != 'Total') %>%
   group_by(Race.or.Ethnicity) %>%
