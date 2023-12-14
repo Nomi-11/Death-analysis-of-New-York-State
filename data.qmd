@@ -20,6 +20,8 @@ Two different types of missing values have been identified in two columns respec
 ```{r, warning=FALSE}
 library(RColorBrewer)
 library(ggplot2)
+library(dplyr)
+library(ggrepel)
 death_data <- read.csv("Death_data_NY.csv")
 
 
