@@ -27,6 +27,7 @@ death_data <- read.csv("Death_data_NY.csv")
 
 race_counts <- as.data.frame(table(death_data$Race.or.Ethnicity))
 
+# pie chart
 ggplot(race_counts, aes(x="", y=Freq, fill=Var1)) +
   geom_bar(stat="identity", width=1) +
   coord_polar("y", start=0) +
