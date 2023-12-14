@@ -32,7 +32,7 @@ ggplot(data_melted, aes(x = Age.Group, y = Race.or.Ethnicity, fill = value)) +
     theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
 ```
-**Comment:** The heatmap provides a visual representation of suicide counts by age group and ethnicity, with darker colors indicating higher numbers. It shows that White Non Hispanic individuals indeed have a notably higher incidence of suicide across most age groups, particularly in the middle-aged brackets. Other ethnic groups, such as Hispanic and Black Non Hispanic, have lower counts, which are more evenly distributed across age groups. The "Not Stated" category suggests a lack of data or unreported ethnicity in some cases. The concentration of darker shades in specific age ranges may highlight critical periods where interventions could be most impactful.  
+**Comment:** The heatmap provides a visual representation of suicide counts by age group and ethnicity, with darker colors indicating higher numbers. It shows that White Non Hispanic individuals have a notably higher incidence of suicide across most age groups, particularly in the middle-aged brackets. Other ethnic groups, such as Hispanic and Black Non Hispanic, have lower counts, which are more evenly distributed across age groups. The "Not Stated" category suggests a lack of data or unreported ethnicity in some cases. The concentration of darker shades in specific age ranges may highlight critical periods where interventions could be most impactful.  
 
 
 ```{r, message=FALSE}
@@ -174,7 +174,7 @@ ggplot() +
   theme_minimal() +
   theme(legend.title = element_blank())
 ```
-
+**Comment:** The line graph illustrates the trends in alcohol-related, firearm, and suicide deaths in New York State from 2003 to 2020. Alcohol-related deaths have seen a dramatic increase over the years, with a particularly sharp rise towards the end of the period. In comparison, firearm deaths have shown some variability but have remained relatively flat overall. Suicide deaths, while also exhibiting some fluctuation, have not changed as dramatically as alcohol-related deaths.
 
 ```{r, message=FALSE}
 library(ggplot2)
@@ -196,9 +196,7 @@ ggplot(long_data, aes(x = as.factor(Year), y = Deaths, fill = Category)) +
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1)) # Rotate x-axis labels
 ```
-
-
-
+**Comment:** The stacked histogram chart highlights the trends in deaths by category from 2003 to 2020. Alcohol-related deaths have shown a significant upward trend, particularly with a sharp rise in the year 2020. In contrast, deaths by firearms display some fluctuations but largely remain stable across the years. Suicide deaths are the least numerous and show the least variation over time. Overall, the trend indicates a worrying increase in the total number of deaths, driven mainly by alcohol-related incidents.
 
 
 
@@ -237,7 +235,7 @@ ggplot(data_long) +
 
 
 ```
-
+**Comment:** The mosaic plot shows the distribution of different types of death counts by gender and region. For both males (M) and females (F), alcohol-related deaths are the most prevalent in both New York City (NYC) and the rest of the state (ROS). However, males have a much higher incidence of firearm deaths compared to females in both regions. This visualization highlights the gender disparity in death counts, particularly in firearm deaths, and also shows that alcohol-related deaths are a significant concern for both genders across different regions.
 ```{r, message=FALSE}
 library(RColorBrewer)
 
@@ -267,7 +265,7 @@ ggplot(df_rates_2020, aes(x = Region, y = Rate, fill = DeathType)) +
   scale_fill_brewer(palette = "Paired")
 
 ```
-
+**Comments:** The bar chart compares death rates by type and region in New York State for the year 2020 (8770000 population for nyc, and 10570000 population for ros). It shows that NYC has lower death rates for all three categories compared to ROS, with the least disparity seen in firearm death rates. Suicide death rate is significantly higher in ROS compared to NYC. The chart suggests that the type of death most common in each region is alchohol-related deaths, with NYC showing a much lower rate of alchohol-related and suicide deaths than ROS. The data indicates that living outside of the city correlates with a higher likelihood of death from these causes. This suggests that there may be environmental, social, or access-related factors contributing to these regional differences in death rates
 
 ## How have mortality patterns by age and race, specifically related to suicide, firearm, and alcohol-related deaths, changed in New York State over the years?
 
@@ -297,6 +295,7 @@ ggplot(long_data, aes(x = Total_Deaths, y = Age.Group, fill = Age.Group)) +
   theme_ridges(grid = TRUE)
 ```
 
+**Comment:** The ridgeline plot visualizes the distribution of annually death counts across age groups over the years 2003 to 2020. From the plot, we observe that the age groups '45-54' and '55-64' have the most substantial death counts, suggesting a higher unnatural death rate in these middle-aged brackets. The distributions are broader for these age groups, indicating a more significant variance in the number of deaths year over year. In contrast, the younger and older age groups exhibit fewer deaths, with narrower distributions, which points to less variability and lower overall death counts.
 
 ```{r, message=FALSE}
 library(GGally)
@@ -330,6 +329,6 @@ ggparcoord(normalized_data,
   theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
   scale_color_brewer(palette = "Set1")
 ```
-
+**Comment:** The parallel coordinate plot compares normalized death counts across different types of deaths — suicide, firearm, and alcohol-related — among various racial and ethnic groups. The White Non Hispanic group has the highest normalized counts for all three types of death. Black Non Hispanic individuals show a peak in firearm deaths compared to other causes of death. Hispanic and Other Non Hispanic groups appear to have lower or more evenly distributed death counts across all three categories. The 'Not Stated' category has the lowest values, which could reflect underreporting or data collection issues within these populations.
 
 
