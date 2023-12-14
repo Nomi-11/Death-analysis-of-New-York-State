@@ -114,7 +114,7 @@ ggplot(aggregated_data_6, aes(x = Suicide.Deaths, y = Firearm.Deaths, color = Se
   scale_color_manual(values = c("F" = "pink", "M" = "lightblue"))
 
 ```
-
+**Comment:** The scatter plot illustrates the relationship between suicide deaths and firearm deaths by gender. It shows a clear pattern: as the number of suicide deaths increases, so do the firearm deaths, with this trend being more pronounced for males. For females, the data points are clustered at lower counts for both suicide and firearm deaths, indicating a lower occurrence of both compared to males. The plot suggests that firearms may be a common method of suicide, especially among males. This visualization highlights the gender disparity in these deaths and suggests a potential area for intervention and prevention efforts.
 
 ```{r, message=FALSE}
 library(rgl)
@@ -143,6 +143,7 @@ legend3d("topright", legend = levels(aggregated_data_6$Sex),
 
 rglwidget()
 ```
+**Comment:** The 3D scatter plot provides a comparative look at the occurrence of suicide, firearm, and alcohol-related deaths, separated by gender. The data points for males show a pronounced spread in the suicide and firearm death categories, highlighting a higher frequency and possible interrelation between these types of deaths. In contrast, female data points are more concentrated and lower in number, suggesting a lower incidence of these deaths among females. The distribution of alcohol-related deaths appears relatively similar for both genders, without a clear connection to the other types of deaths. Overall, the plot underscores a significant gender difference in patterns of death by these causes, with males showing a higher vulnerability to suicide and firearm fatalities.
 
 ## Has there been a significant change in the number of suicide, firearm or alcohol-related deaths in New York State over the years?
 ```{r, message=FALSE}
@@ -166,7 +167,7 @@ ggplot() +
   geom_line(data = annual_summary, aes(x = Year, y = Suicide_Total, color = "Suicide Deaths")) +
   geom_line(data = annual_summary, aes(x = Year, y = Alcohol_Related_Total, color = "Alcohol-Related Deaths")) +
   geom_line(data = annual_summary, aes(x = Year, y = Firearm_Total, color = "Firearm Deaths")) +
-  labs(title = "Suicide and Alcohol-Related Deaths in New York State Over the Years",
+  labs(title = "Trends in Alcohol-Related, Firearm, and Suicide Deaths \nin New York State: 2003-2020",
        x = "Year",
        y = "Total Deaths") +
   scale_color_manual(values = c("Suicide Deaths" = "blue", "Alcohol-Related Deaths" = "red", "Firearm Deaths" = "green")) +
@@ -279,7 +280,6 @@ library(ggridges)
 # Calculate the total death count
 death_data$Total_Deaths <- rowSums(death_data[, c("Suicide.Deaths", "Alcohol.Related.Deaths", "Firearm.Deaths")], na.rm = TRUE)
 
-# Reshape the data
 long_data <- death_data %>%
   filter(Age.Group != 'Total') %>% 
   select(Year, Age.Group, Total_Deaths) %>%
@@ -287,7 +287,7 @@ long_data <- death_data %>%
   summarise(Total_Deaths = sum(Total_Deaths, na.rm = TRUE)) %>%
   ungroup()
 
-# Create the ridgeline plot
+# ridgeline plot
 ggplot(long_data, aes(x = Total_Deaths, y = Age.Group, fill = Age.Group)) +
   geom_density_ridges() +
   labs(title = "Ridgeline Plot of Total Death Counts Across Age Groups",
