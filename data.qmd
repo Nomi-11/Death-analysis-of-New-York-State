@@ -23,7 +23,6 @@ library(dplyr)
 library(ggrepel)
 death_data <- read.csv("Death_data_NY.csv")
 
-
 race_counts <- as.data.frame(table(death_data$Race.or.Ethnicity))
 
 # pie chart
@@ -53,6 +52,7 @@ ggplot(death_data, aes(x=Age.Group, fill=Color)) +
 ```
 
 ```{r}
+library(dplyr)
 # Filter out rows where the Age Group is "Unknown"
 death_data <- death_data %>% 
   filter(Age.Group != "Unknown")
