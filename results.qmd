@@ -164,7 +164,7 @@ ggplot() +
   geom_line(data = annual_summary, aes(x = Year, y = Suicide_Total, color = "Suicide Deaths")) +
   geom_line(data = annual_summary, aes(x = Year, y = Alcohol_Related_Total, color = "Alcohol-Related Deaths")) +
   geom_line(data = annual_summary, aes(x = Year, y = Firearm_Total, color = "Firearm Deaths")) +
-  labs(title = "Trends in Alcohol-Related, Firearm, and Suicide Deaths \nin New York State over the years",
+  labs(title = "Trends in Alcohol-Related, Firearm, and Suicide Deaths \nin New York State (2003-2020)",
        x = "Year",
        y = "Total Deaths") +
   scale_color_manual(values = c("Suicide Deaths" = "blue", "Alcohol-Related Deaths" = "red", "Firearm Deaths" = "green")) +
@@ -183,7 +183,7 @@ long_data <- death_data %>%
 # Create a stacked bar chart
 ggplot(long_data, aes(x = as.factor(Year), y = Deaths, fill = Category)) +
   geom_bar(stat = "identity") +
-  labs(title = "Stacked Histogram of Deaths by Category Over the Years",
+  labs(title = "Stacked Histogram of Deaths by Category (2003-2020)",
        x = "Year",
        y = "Number of Deaths",
        fill = "Category") +
@@ -217,7 +217,7 @@ data_long$Count <- as.numeric(data_long$Count)
 ggplot(data_long) +
   geom_mosaic(aes(x = product(Sex, Region), fill = DeathType, weight = Count)) +
   theme_minimal() +
-  labs(title = "Mosaic Plot of Death Counts by Gender and Region (18 years)",
+  labs(title = "Mosaic Plot of Death Counts by Gender and Region (2003-2020 in total)",
        x = "Region",
        y = "Gender",
        fill = "Type of Death") +
@@ -303,7 +303,7 @@ ggparcoord(normalized_data,
            scale = "globalminmax", # Normalize the variables globally
            mapping = aes(color = Race.or.Ethnicity)) +
   theme_minimal() +
-  labs(title = "Parallel Coordinate Plot of Death Counts by Race (18 Years)",
+  labs(title = "Parallel Coordinate Plot of Death Counts by Race (2003-2020 in total)",
        x = "Type of Death",
        y = "Normalized Death Counts") +
   theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
