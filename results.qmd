@@ -20,16 +20,18 @@ death_data <- death_data %>%
 annual_summary <- death_data %>%
   group_by(Year) %>%
   summarise(Suicide_Total = sum(Suicide.Deaths, na.rm = TRUE),
-            Alcohol_Related_Total = sum(Alcohol.Related.Deaths, na.rm = TRUE))
+            Alcohol_Related_Total = sum(Alcohol.Related.Deaths, na.rm = TRUE),
+            Firarm_Total = sum(Firearm.Deaths, na.rm = TRUE))
 
 # Plotting both Suicide and Alcohol-Related Deaths Over Years
 ggplot() +
   geom_line(data = annual_summary, aes(x = Year, y = Suicide_Total, color = "Suicide Deaths")) +
   geom_line(data = annual_summary, aes(x = Year, y = Alcohol_Related_Total, color = "Alcohol-Related Deaths")) +
+  geom_line(data = annual_summary, aes(x = Year, y = Firarm_Total, color = "Firarm Deaths")) +
   labs(title = "Suicide and Alcohol-Related Deaths in New York State Over the Years",
        x = "Year",
        y = "Total Deaths") +
-  scale_color_manual(values = c("Suicide Deaths" = "blue", "Alcohol-Related Deaths" = "red")) +
+  scale_color_manual(values = c("Suicide Deaths" = "blue", "Alcohol-Related Deaths" = "red", "Firarm Deaths" = "green")) +
   theme_minimal() +
   theme(legend.title = element_blank())
 ```
