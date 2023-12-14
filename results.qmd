@@ -1,1 +1,35 @@
 # Results
+
+
+## How do suicide rates vary across different age groups, genders, and ethnicities in New York State?
+
+
+
+
+
+## Has there been a significant change in the rate of suicide or alcohol-related deaths in New York State over the years?
+```{r}
+library(ggplot2)
+library(dplyr)
+
+death_data <- read.csv("Death_data_NY.csv")
+death_data <- death_data %>% 
+  filter(Age.Group != "Unknown")
+
+# Group data by year and summarize
+annual_summary <- death_data %>%
+  group_by(Year) %>%
+  summarise(Suicide_Total = sum(Suicide.Deaths, na.rm = TRUE),
+            Alcohol_Related_Total = sum(Alcohol.Related.Deaths, na.rm = TRUE))
+
+# Plotting both Suicide and Alcohol-Related Deaths Over Years
+ggplot() +
+  geom_line(data = annual_summary, aes(x = Year, y = Suicide_Total, color = "Suicide Deaths")) +
+  geom_line(data = annual_summary, aes(x = Year, y = Alcohol_Related_Total, color = "Alcohol-Related Deaths")) +
+  labs(title = "Suicide and Alcohol-Related Deaths in New York State Over the Years",
+       x = "Year",
+       y = "Total Deaths") +
+  scale_color_manual(values = c("Suicide Deaths" = "blue", "Alcohol-Related Deaths" = "red")) +
+  theme_minimal() +
+  theme(legend.title = element_blank())
+```
