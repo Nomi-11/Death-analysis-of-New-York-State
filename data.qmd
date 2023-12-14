@@ -55,4 +55,11 @@ ggplot(death_data, aes(x=Age.Group, fill=Color)) +
 ```{r}
 # Display the count of 'Unknown' in 'Age.Group'
 table(death_data$Age.Group)
+
+
+# Filter out rows where the Age Group is "Unknown"
+filtered_data <- death_data %>% 
+  filter(Age.Group != "Unknown")
+
+table(filtered_data$Age.Group)
 ```

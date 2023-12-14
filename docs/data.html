@@ -290,6 +290,19 @@ Attaching package: 'dplyr'</code></pre>
     85+   Total Unknown 
     360     360      13 </code></pre>
 </div>
+<details>
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb9"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Filter out rows where the Age Group is "Unknown"</span></span>
+<span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a>filtered_data <span class="ot">&lt;-</span> death_data <span class="sc">%&gt;%</span> </span>
+<span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">filter</span>(Age.Group <span class="sc">!=</span> <span class="st">"Unknown"</span>)</span>
+<span id="cb9-4"><a href="#cb9-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb9-5"><a href="#cb9-5" aria-hidden="true" tabindex="-1"></a><span class="fu">table</span>(filtered_data<span class="sc">$</span>Age.Group)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output cell-output-stdout">
+<pre><code>
+   &lt;1   1-9 10-19 20-24 25-34 35-44 45-54 55-64 65-74 75-84   85+ Total 
+  360   342   353   350   359   359   360   360   360   360   360   360 </code></pre>
+</div>
 </div>
 
 
