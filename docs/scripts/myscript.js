@@ -65,18 +65,46 @@ svg.selectAll("mybar")
     .attr("class", "bar");
 
 
-const originalData = data;
-
+const originalData = [
+  { Year: "2003", AlcoholRelatedDeaths: 3774 },
+  { Year: "2004", AlcoholRelatedDeaths: 3632 },
+  { Year: "2005", AlcoholRelatedDeaths: 3587 },
+  { Year: "2006", AlcoholRelatedDeaths: 3547 },
+  { Year: "2007", AlcoholRelatedDeaths: 3594 },
+  { Year: "2008", AlcoholRelatedDeaths: 3807 },
+  { Year: "2009", AlcoholRelatedDeaths: 3848 },
+  { Year: "2010", AlcoholRelatedDeaths: 3872 },
+  { Year: "2011", AlcoholRelatedDeaths: 4097 },
+  { Year: "2012", AlcoholRelatedDeaths: 4307 },
+  { Year: "2013", AlcoholRelatedDeaths: 4544 },
+  { Year: "2014", AlcoholRelatedDeaths: 4597 },
+  { Year: "2015", AlcoholRelatedDeaths: 4718 },
+  { Year: "2016", AlcoholRelatedDeaths: 4984 },
+  { Year: "2017", AlcoholRelatedDeaths: 5139 },
+  { Year: "2018", AlcoholRelatedDeaths: 5103 },
+  { Year: "2019", AlcoholRelatedDeaths: 5153 },
+  { Year: "2020", AlcoholRelatedDeaths: 6345 }
+];
 
 function addBar() {
-  const lastYear = parseInt(data[data.length - 1].Year);
+  const lastDataPoint = data[data.length - 1]; // Get the last data point in the array
+  const lastYear = parseInt(lastDataPoint.Year); // Parse the year to an integer for comparison
+
+  // Check if the last year is less than 2020. If so, add a new bar.
   if (lastYear < 2020) {
-    // Define a new data point. Assuming you want to keep the number of AlcoholRelatedDeaths the same for simplicity
-    const newDataPoint = { Year: String(lastYear + 1), AlcoholRelatedDeaths: data[data.length - 1].AlcoholRelatedDeaths };
-    data.push(newDataPoint); // Add the new data point to the data array
-    updateChart(); // Call a function to update the chart with the new data
+    const nextYear = String(lastYear + 1); // Calculate the next year as a string
+
+    // Find the next year's data from the originalData array
+    const nextYearData = originalData.find(d => d.Year === nextYear);
+
+    if (nextYearData) {
+      data.push(nextYearData); // Add the next year's data point to the data array
+      updateChart(); // Call the updateChart function to update the chart with the new data
+    } else {
+      alert("Data for the next year is not available.");
+    }
   } else {
-    console.log("Reached the year 2020 limit."); // Or handle this case as appropriate
+    alert("No more data can be added after the year 2020.");
   }
 }
 
@@ -98,29 +126,55 @@ function removeBarRight() {
 
 // Function to update the chart
 function updateChart() {
-  // Re-bind the data to the bars
+  // Update the scales
+  x.domain(data.map(d => d.Year));
+  y.domain([0, d3.max(originalData, d => d.AlcoholRelatedDeaths)]);
+
+  // Update the x-axis
+  svg.select(".x-axis")
+    .transition()
+    .duration(500)
+    .call(d3.axisBottom(x))
+    .selectAll("text")
+      .attr("transform", "translate(-10,0)rotate(-45)")
+      .style("text-anchor", "end");
+
+  // Update the y-axis
+  svg.select(".y-axis")
+    .transition()
+    .duration(500)
+    .call(d3.axisLeft(y));
+
+  // Bind the data to the bars
   const bars = svg.selectAll(".bar")
     .data(data, d => d.Year);
 
-  // Enter new bars and update existing ones
+  // Enter new bars
   bars.enter()
     .append("rect")
-    .merge(bars) // This is necessary to apply attributes to the updated bars as well as the new ones
-      .attr("class", "bar")
-      .attr("x", d => x(d.Year))
-      .attr("y", d => y(d.AlcoholRelatedDeaths))
-      .attr("width", x.bandwidth())
-      .attr("height", d => height - y(d.AlcoholRelatedDeaths))
-      .attr("fill", "#69b3a2");
+    .attr("class", "bar")
+    .attr("x", d => x(d.Year))
+    .attr("width", x.bandwidth())
+    .attr("y", height) // New bars start at the bottom of the chart
+    .attr("height", 0) // New bars start with a height of 0
+    .attr("fill", "#69b3a2")
+  // Transition new and updating bars
+  .merge(bars)
+    .transition()
+    .duration(500)
+    .attr("x", d => x(d.Year))
+    .attr("width", x.bandwidth())
+    .attr("y", d => y(d.AlcoholRelatedDeaths))
+    .attr("height", d => height - y(d.AlcoholRelatedDeaths));
 
   // Remove the exiting bars
-  bars.exit().remove();
-
-  // Update the x-axis if the year scale has changed
-  x.domain(data.map(d => d.Year));
-  svg.select(".x-axis").transition().duration(500).call(d3.axisBottom(x)); // Add transitions for a smoother update
+  bars.exit()
+    .transition()
+    .duration(500)
+    .attr("y", height) // Exiting bars transition to the bottom of the chart
+    .attr("height", 0) // Exiting bars transition to a height of 0
+    .remove();
 }
 
-
-// Initial render of the chart
+// Call the updateChart function to draw the initial chart
 updateChart();
