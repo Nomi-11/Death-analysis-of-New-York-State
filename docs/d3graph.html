@@ -138,7 +138,16 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#exploring-trends-alcohol-related-deaths-in-new-york-from-2003-to-2020" id="toc-exploring-trends-alcohol-related-deaths-in-new-york-from-2003-to-2020" class="nav-link active" data-scroll-target="#exploring-trends-alcohol-related-deaths-in-new-york-from-2003-to-2020"><span class="header-section-number">4.1</span> Exploring Trends: Alcohol-Related Deaths in New York from 2003 to 2020</a>
+  <ul class="collapse">
+  <li><a href="#instructions" id="toc-instructions" class="nav-link" data-scroll-target="#instructions"><span class="header-section-number">4.1.1</span> Instructions</a></li>
+  </ul></li>
+  </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/Nomi-11/Death-analysis-of-New-York-State/edit/main/d3graph.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/Nomi-11/Death-analysis-of-New-York-State/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -160,6 +169,14 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<section id="exploring-trends-alcohol-related-deaths-in-new-york-from-2003-to-2020" class="level2" data-number="4.1">
+<h2 data-number="4.1" class="anchored" data-anchor-id="exploring-trends-alcohol-related-deaths-in-new-york-from-2003-to-2020"><span class="header-section-number">4.1</span> Exploring Trends: Alcohol-Related Deaths in New York from 2003 to 2020</h2>
+<p>This interactive bar chart illustrates the sobering trajectory of alcohol-related deaths in New York State from 2003 to 2020. With a clear upward trend, it provides a visual representation of the increasing impact of alcohol on public health over the years. This tool not only serves to present historical data but also invites users to engage with the information, offering a hands-on experience to better understand the dynamics of these changes.</p>
+<section id="instructions" class="level3" data-number="4.1.1">
+<h3 data-number="4.1.1" class="anchored" data-anchor-id="instructions"><span class="header-section-number">4.1.1</span> Instructions</h3>
+<p><strong>Remove Bar (left):</strong> To remove data from the beginning of the timeline, click the ‘Remove bar (left)’ button. This will eliminate the earliest year from the visualized data, helping you to focus on more recent years.</p>
+<p><strong>Remove Bar (right):</strong> To exclude the most recent data point, use the ‘Remove bar (right)’ button. This function is useful for examining the chart without the influence of the last year’s data.</p>
+<p>(Tips: If you run out of bars to remove or you want to start the analysis over, simply refresh the page to reset the interactive chart and begin anew.)</p>
 <style>
   * {
     font-family: sans-serif;
@@ -170,8 +187,19 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
 <script src="scripts/myscript.js"></script>
+<button onclick="addBar()">
+Add bar
+</button>
+<button onclick="removeBarLeft()">
+Remove bar (left)
+</button>
+<button onclick="removeBarRight()">
+Remove bar (right)
+</button>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -427,7 +455,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/Nomi-11/Death-analysis-of-New-York-State/edit/main/d3graph.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/Nomi-11/Death-analysis-of-New-York-State/issues/new" class="toc-action">Report an issue</a></p></div></div></div>
+    </div>
     <div class="nav-footer-right">This book was built with <a href="https://quarto.org/">Quarto</a>.</div>
   </div>
 </footer>
